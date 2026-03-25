@@ -1,0 +1,6271 @@
+{
+  "ANTIALACRAN": {
+    "zonas": {
+      "CARBONÍFERA": {
+        "unidad": 24,
+        "almacen": 0,
+        "total": 24
+      },
+      "CENTRO": {
+        "unidad": 30,
+        "almacen": 0,
+        "total": 30
+      },
+      "LAGUNA": {
+        "unidad": 29,
+        "almacen": 0,
+        "total": 29
+      },
+      "NORTE": {
+        "unidad": 10,
+        "almacen": 0,
+        "total": 10
+      },
+      "SUR": {
+        "unidad": 63,
+        "almacen": 0,
+        "total": 63
+      }
+    },
+    "unidades": [
+      {
+        "nombre": "Direccion UMF 23",
+        "zona": "CARBONÍFERA",
+        "unidad": 5,
+        "almacen": 0,
+        "total": 5
+      },
+      {
+        "nombre": "Direccion UMF 28",
+        "zona": "CARBONÍFERA",
+        "unidad": 2,
+        "almacen": 0,
+        "total": 2
+      },
+      {
+        "nombre": "Direccion UMF 29",
+        "zona": "CARBONÍFERA",
+        "unidad": 2,
+        "almacen": 0,
+        "total": 2
+      },
+      {
+        "nombre": "Direccion UMF 31",
+        "zona": "CARBONÍFERA",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Direccion UMF 32",
+        "zona": "CARBONÍFERA",
+        "unidad": 4,
+        "almacen": 0,
+        "total": 4
+      },
+      {
+        "nombre": "Direccion UMF 61",
+        "zona": "CARBONÍFERA",
+        "unidad": 5,
+        "almacen": 0,
+        "total": 5
+      },
+      {
+        "nombre": "Direccion UMF 62",
+        "zona": "CARBONÍFERA",
+        "unidad": 6,
+        "almacen": 0,
+        "total": 6
+      },
+      {
+        "nombre": "Direccion UMF 84",
+        "zona": "CENTRO",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Direccion UMF 88",
+        "zona": "CENTRO",
+        "unidad": 5,
+        "almacen": 0,
+        "total": 5
+      },
+      {
+        "nombre": "Direccion UMF 9",
+        "zona": "CENTRO",
+        "unidad": 15,
+        "almacen": 0,
+        "total": 15
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 7",
+        "zona": "CENTRO",
+        "unidad": 10,
+        "almacen": 0,
+        "total": 10
+      },
+      {
+        "nombre": "Direccion UMF 15",
+        "zona": "LAGUNA",
+        "unidad": 6,
+        "almacen": 0,
+        "total": 6
+      },
+      {
+        "nombre": "Direccion UMF 83",
+        "zona": "LAGUNA",
+        "unidad": 3,
+        "almacen": 0,
+        "total": 3
+      },
+      {
+        "nombre": "Farmacia HGZ 11",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 16",
+        "zona": "LAGUNA",
+        "unidad": 10,
+        "almacen": 0,
+        "total": 10
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 18",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 24",
+        "zona": "LAGUNA",
+        "unidad": 10,
+        "almacen": 0,
+        "total": 10
+      },
+      {
+        "nombre": "Farmacia UMF 93",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Direccion UMF 12",
+        "zona": "NORTE",
+        "unidad": 10,
+        "almacen": 0,
+        "total": 10
+      },
+      {
+        "nombre": "Direccion UMF 87",
+        "zona": "NORTE",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Farmacia HRS Ramos",
+        "zona": "NORTE",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Direccion UMF 4",
+        "zona": "SUR",
+        "unidad": 1,
+        "almacen": 0,
+        "total": 1
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 2",
+        "zona": "SUR",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Farmacia UMAA 89",
+        "zona": "SUR",
+        "unidad": 5,
+        "almacen": 0,
+        "total": 5
+      },
+      {
+        "nombre": "Farmacia UMF 73",
+        "zona": "SUR",
+        "unidad": 51,
+        "almacen": 0,
+        "total": 51
+      },
+      {
+        "nombre": "Farmacia UMF 82",
+        "zona": "SUR",
+        "unidad": 3,
+        "almacen": 0,
+        "total": 3
+      },
+      {
+        "nombre": "Farmacia UMF 91",
+        "zona": "SUR",
+        "unidad": 3,
+        "almacen": 0,
+        "total": 3
+      }
+    ]
+  },
+  "ANTIARACNIDO F/I": {
+    "zonas": {
+      "CARBONÍFERA": {
+        "unidad": 20,
+        "almacen": 0,
+        "total": 20
+      },
+      "CENTRO": {
+        "unidad": 35,
+        "almacen": 0,
+        "total": 35
+      },
+      "LAGUNA": {
+        "unidad": 10,
+        "almacen": 0,
+        "total": 10
+      },
+      "NORTE": {
+        "unidad": 10,
+        "almacen": 0,
+        "total": 10
+      },
+      "SUR": {
+        "unidad": 92,
+        "almacen": 0,
+        "total": 92
+      }
+    },
+    "unidades": [
+      {
+        "nombre": "Direccion UMF 28",
+        "zona": "CARBONÍFERA",
+        "unidad": 2,
+        "almacen": 0,
+        "total": 2
+      },
+      {
+        "nombre": "Direccion UMF 29",
+        "zona": "CARBONÍFERA",
+        "unidad": 3,
+        "almacen": 0,
+        "total": 3
+      },
+      {
+        "nombre": "Direccion UMF 31",
+        "zona": "CARBONÍFERA",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Direccion UMF 32",
+        "zona": "CARBONÍFERA",
+        "unidad": 2,
+        "almacen": 0,
+        "total": 2
+      },
+      {
+        "nombre": "Direccion UMF 61",
+        "zona": "CARBONÍFERA",
+        "unidad": 10,
+        "almacen": 0,
+        "total": 10
+      },
+      {
+        "nombre": "Direccion UMF 62",
+        "zona": "CARBONÍFERA",
+        "unidad": 3,
+        "almacen": 0,
+        "total": 3
+      },
+      {
+        "nombre": "Direccion UMF 84",
+        "zona": "CENTRO",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Direccion UMF 88",
+        "zona": "CENTRO",
+        "unidad": 25,
+        "almacen": 0,
+        "total": 25
+      },
+      {
+        "nombre": "Direccion UMF 9",
+        "zona": "CENTRO",
+        "unidad": 10,
+        "almacen": 0,
+        "total": 10
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 7",
+        "zona": "CENTRO",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Direccion UMF 15",
+        "zona": "LAGUNA",
+        "unidad": 1,
+        "almacen": 0,
+        "total": 1
+      },
+      {
+        "nombre": "Direccion UMF 80",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Direccion UMF 83",
+        "zona": "LAGUNA",
+        "unidad": 9,
+        "almacen": 0,
+        "total": 9
+      },
+      {
+        "nombre": "Farmacia HGZ 11",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 16",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 18",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 24",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Farmacia UMF 93",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Direccion UMF 12",
+        "zona": "NORTE",
+        "unidad": 10,
+        "almacen": 0,
+        "total": 10
+      },
+      {
+        "nombre": "Direccion UMF 87",
+        "zona": "NORTE",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Direccion UMF 4",
+        "zona": "SUR",
+        "unidad": 2,
+        "almacen": 0,
+        "total": 2
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 2",
+        "zona": "SUR",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Farmacia UMAA 89",
+        "zona": "SUR",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Farmacia UMF 73",
+        "zona": "SUR",
+        "unidad": 70,
+        "almacen": 0,
+        "total": 70
+      },
+      {
+        "nombre": "Farmacia UMF 82",
+        "zona": "SUR",
+        "unidad": 20,
+        "almacen": 0,
+        "total": 20
+      },
+      {
+        "nombre": "Farmacia UMF 91",
+        "zona": "SUR",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      }
+    ]
+  },
+  "ANTICORALILLO": {
+    "zonas": {
+      "CENTRO": {
+        "unidad": 2,
+        "almacen": 0,
+        "total": 2
+      },
+      "LAGUNA": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "SUR": {
+        "unidad": 5,
+        "almacen": 0,
+        "total": 5
+      }
+    },
+    "unidades": [
+      {
+        "nombre": "Farmacia HGZ-MF 7",
+        "zona": "CENTRO",
+        "unidad": 2,
+        "almacen": 0,
+        "total": 2
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 16",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 18",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 2",
+        "zona": "SUR",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Farmacia UMF 73",
+        "zona": "SUR",
+        "unidad": 5,
+        "almacen": 0,
+        "total": 5
+      }
+    ]
+  },
+  "ANTIVIPERINO": {
+    "zonas": {
+      "CARBONÍFERA": {
+        "unidad": 13,
+        "almacen": 0,
+        "total": 13
+      },
+      "CENTRO": {
+        "unidad": 14,
+        "almacen": 0,
+        "total": 14
+      },
+      "LAGUNA": {
+        "unidad": 131,
+        "almacen": 0,
+        "total": 131
+      },
+      "NORTE": {
+        "unidad": 5,
+        "almacen": 0,
+        "total": 5
+      },
+      "SUR": {
+        "unidad": 74,
+        "almacen": 0,
+        "total": 74
+      }
+    },
+    "unidades": [
+      {
+        "nombre": "Direccion UMF 28",
+        "zona": "CARBONÍFERA",
+        "unidad": 2,
+        "almacen": 0,
+        "total": 2
+      },
+      {
+        "nombre": "Direccion UMF 31",
+        "zona": "CARBONÍFERA",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Direccion UMF 32",
+        "zona": "CARBONÍFERA",
+        "unidad": 3,
+        "almacen": 0,
+        "total": 3
+      },
+      {
+        "nombre": "Direccion UMF 61",
+        "zona": "CARBONÍFERA",
+        "unidad": 5,
+        "almacen": 0,
+        "total": 5
+      },
+      {
+        "nombre": "Direccion UMF 62",
+        "zona": "CARBONÍFERA",
+        "unidad": 3,
+        "almacen": 0,
+        "total": 3
+      },
+      {
+        "nombre": "Farmacia HGSZ-MF 13",
+        "zona": "CARBONÍFERA",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Direccion UMF 74",
+        "zona": "CENTRO",
+        "unidad": 1,
+        "almacen": 0,
+        "total": 1
+      },
+      {
+        "nombre": "Direccion UMF 84",
+        "zona": "CENTRO",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Direccion UMF 88",
+        "zona": "CENTRO",
+        "unidad": 8,
+        "almacen": 0,
+        "total": 8
+      },
+      {
+        "nombre": "Direccion UMF 9",
+        "zona": "CENTRO",
+        "unidad": 5,
+        "almacen": 0,
+        "total": 5
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 7",
+        "zona": "CENTRO",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Direccion UMF 15",
+        "zona": "LAGUNA",
+        "unidad": 6,
+        "almacen": 0,
+        "total": 6
+      },
+      {
+        "nombre": "Direccion UMF 80",
+        "zona": "LAGUNA",
+        "unidad": 10,
+        "almacen": 0,
+        "total": 10
+      },
+      {
+        "nombre": "Direccion UMF 83",
+        "zona": "LAGUNA",
+        "unidad": 25,
+        "almacen": 0,
+        "total": 25
+      },
+      {
+        "nombre": "Farmacia HGSZ-MF 21",
+        "zona": "LAGUNA",
+        "unidad": 5,
+        "almacen": 0,
+        "total": 5
+      },
+      {
+        "nombre": "Farmacia HGZ 11",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 16",
+        "zona": "LAGUNA",
+        "unidad": 73,
+        "almacen": 0,
+        "total": 73
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 18",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 24",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Farmacia UMF 93",
+        "zona": "LAGUNA",
+        "unidad": 12,
+        "almacen": 0,
+        "total": 12
+      },
+      {
+        "nombre": "Direccion UMF 12",
+        "zona": "NORTE",
+        "unidad": 5,
+        "almacen": 0,
+        "total": 5
+      },
+      {
+        "nombre": "Direccion UMF 81",
+        "zona": "NORTE",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Direccion UMF 87",
+        "zona": "NORTE",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Farmacia HRS Ramos",
+        "zona": "NORTE",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Direccion UMR-EM 52",
+        "zona": "SUR",
+        "unidad": 2,
+        "almacen": 0,
+        "total": 2
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 2",
+        "zona": "SUR",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Farmacia UMAA 89",
+        "zona": "SUR",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Farmacia UMF 73",
+        "zona": "SUR",
+        "unidad": 50,
+        "almacen": 0,
+        "total": 50
+      },
+      {
+        "nombre": "Farmacia UMF 82",
+        "zona": "SUR",
+        "unidad": 10,
+        "almacen": 0,
+        "total": 10
+      },
+      {
+        "nombre": "Farmacia UMF 91",
+        "zona": "SUR",
+        "unidad": 12,
+        "almacen": 0,
+        "total": 12
+      }
+    ]
+  },
+  "BCG": {
+    "zonas": {
+      "CARBONÍFERA": {
+        "unidad": 48,
+        "almacen": 774,
+        "total": 822
+      },
+      "CENTRO": {
+        "unidad": 30,
+        "almacen": 344,
+        "total": 374
+      },
+      "LAGUNA": {
+        "unidad": 93,
+        "almacen": 1032,
+        "total": 1125
+      },
+      "NORTE": {
+        "unidad": 24,
+        "almacen": 430,
+        "total": 454
+      },
+      "SUR": {
+        "unidad": 129,
+        "almacen": 430,
+        "total": 559
+      }
+    },
+    "unidades": [
+      {
+        "nombre": "Direccion UMF 23",
+        "zona": "CARBONÍFERA",
+        "unidad": 12,
+        "almacen": 86,
+        "total": 98
+      },
+      {
+        "nombre": "Direccion UMF 25",
+        "zona": "CARBONÍFERA",
+        "unidad": 0,
+        "almacen": 86,
+        "total": 86
+      },
+      {
+        "nombre": "Direccion UMF 28",
+        "zona": "CARBONÍFERA",
+        "unidad": 2,
+        "almacen": 86,
+        "total": 88
+      },
+      {
+        "nombre": "Direccion UMF 29",
+        "zona": "CARBONÍFERA",
+        "unidad": 0,
+        "almacen": 86,
+        "total": 86
+      },
+      {
+        "nombre": "Direccion UMF 31",
+        "zona": "CARBONÍFERA",
+        "unidad": 4,
+        "almacen": 86,
+        "total": 90
+      },
+      {
+        "nombre": "Direccion UMF 32",
+        "zona": "CARBONÍFERA",
+        "unidad": 7,
+        "almacen": 86,
+        "total": 93
+      },
+      {
+        "nombre": "Direccion UMF 61",
+        "zona": "CARBONÍFERA",
+        "unidad": 1,
+        "almacen": 86,
+        "total": 87
+      },
+      {
+        "nombre": "Farmacia HGSZ-MF 13",
+        "zona": "CARBONÍFERA",
+        "unidad": 0,
+        "almacen": 86,
+        "total": 86
+      },
+      {
+        "nombre": "Farmacia HGSZ-MF 27",
+        "zona": "CARBONÍFERA",
+        "unidad": 22,
+        "almacen": 86,
+        "total": 108
+      },
+      {
+        "nombre": "Direccion UMF 84",
+        "zona": "CENTRO",
+        "unidad": 0,
+        "almacen": 86,
+        "total": 86
+      },
+      {
+        "nombre": "Direccion UMF 88",
+        "zona": "CENTRO",
+        "unidad": 0,
+        "almacen": 86,
+        "total": 86
+      },
+      {
+        "nombre": "Direccion UMF 9",
+        "zona": "CENTRO",
+        "unidad": 30,
+        "almacen": 86,
+        "total": 116
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 7",
+        "zona": "CENTRO",
+        "unidad": 0,
+        "almacen": 86,
+        "total": 86
+      },
+      {
+        "nombre": "Direccion UMF 15",
+        "zona": "LAGUNA",
+        "unidad": 13,
+        "almacen": 86,
+        "total": 99
+      },
+      {
+        "nombre": "Direccion UMF 26",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 86,
+        "total": 86
+      },
+      {
+        "nombre": "Direccion UMF 80",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 86,
+        "total": 86
+      },
+      {
+        "nombre": "Direccion UMF 83",
+        "zona": "LAGUNA",
+        "unidad": 24,
+        "almacen": 86,
+        "total": 110
+      },
+      {
+        "nombre": "Farmacia HGSZ-MF 20",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 86,
+        "total": 86
+      },
+      {
+        "nombre": "Farmacia HGSZ-MF 21",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 86,
+        "total": 86
+      },
+      {
+        "nombre": "Farmacia HGZ 11",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 86,
+        "total": 86
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 16",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 86,
+        "total": 86
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 18",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 86,
+        "total": 86
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 24",
+        "zona": "LAGUNA",
+        "unidad": 46,
+        "almacen": 86,
+        "total": 132
+      },
+      {
+        "nombre": "Farmacia UMF 66",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 86,
+        "total": 86
+      },
+      {
+        "nombre": "Farmacia UMF 93",
+        "zona": "LAGUNA",
+        "unidad": 10,
+        "almacen": 86,
+        "total": 96
+      },
+      {
+        "nombre": "Direccion UMF 12",
+        "zona": "NORTE",
+        "unidad": 0,
+        "almacen": 86,
+        "total": 86
+      },
+      {
+        "nombre": "Direccion UMF 81",
+        "zona": "NORTE",
+        "unidad": 24,
+        "almacen": 86,
+        "total": 110
+      },
+      {
+        "nombre": "Farmacia HGSZ-MF 6",
+        "zona": "NORTE",
+        "unidad": 0,
+        "almacen": 86,
+        "total": 86
+      },
+      {
+        "nombre": "Farmacia HRS Ramos",
+        "zona": "NORTE",
+        "unidad": 0,
+        "almacen": 86,
+        "total": 86
+      },
+      {
+        "nombre": "Farmacia UMF 79",
+        "zona": "NORTE",
+        "unidad": 0,
+        "almacen": 86,
+        "total": 86
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 2",
+        "zona": "SUR",
+        "unidad": 54,
+        "almacen": 86,
+        "total": 140
+      },
+      {
+        "nombre": "Farmacia UMAA 89",
+        "zona": "SUR",
+        "unidad": 10,
+        "almacen": 86,
+        "total": 96
+      },
+      {
+        "nombre": "Farmacia UMF 73",
+        "zona": "SUR",
+        "unidad": 0,
+        "almacen": 86,
+        "total": 86
+      },
+      {
+        "nombre": "Farmacia UMF 82",
+        "zona": "SUR",
+        "unidad": 45,
+        "almacen": 86,
+        "total": 131
+      },
+      {
+        "nombre": "Farmacia UMF 91",
+        "zona": "SUR",
+        "unidad": 20,
+        "almacen": 86,
+        "total": 106
+      }
+    ]
+  },
+  "COVID-19": {
+    "zonas": {
+      "CARBONÍFERA": {
+        "unidad": 39,
+        "almacen": 519,
+        "total": 558
+      },
+      "CENTRO": {
+        "unidad": 145,
+        "almacen": 994,
+        "total": 1139
+      },
+      "LAGUNA": {
+        "unidad": 144,
+        "almacen": 1540,
+        "total": 1684
+      },
+      "NORTE": {
+        "unidad": 6,
+        "almacen": 580,
+        "total": 586
+      },
+      "SUR": {
+        "unidad": 129,
+        "almacen": 1055,
+        "total": 1184
+      }
+    },
+    "unidades": [
+      {
+        "nombre": "Direccion UMF 23",
+        "zona": "CARBONÍFERA",
+        "unidad": 2,
+        "almacen": 78,
+        "total": 80
+      },
+      {
+        "nombre": "Direccion UMF 31",
+        "zona": "CARBONÍFERA",
+        "unidad": 0,
+        "almacen": 173,
+        "total": 173
+      },
+      {
+        "nombre": "Direccion UMF 62",
+        "zona": "CARBONÍFERA",
+        "unidad": 5,
+        "almacen": 95,
+        "total": 100
+      },
+      {
+        "nombre": "Farmacia HGSZ-MF 27",
+        "zona": "CARBONÍFERA",
+        "unidad": 32,
+        "almacen": 173,
+        "total": 205
+      },
+      {
+        "nombre": "Direccion UMF 10",
+        "zona": "CENTRO",
+        "unidad": 0,
+        "almacen": 95,
+        "total": 95
+      },
+      {
+        "nombre": "Direccion UMF 8",
+        "zona": "CENTRO",
+        "unidad": 0,
+        "almacen": 95,
+        "total": 95
+      },
+      {
+        "nombre": "Direccion UMF 84",
+        "zona": "CENTRO",
+        "unidad": 0,
+        "almacen": 173,
+        "total": 173
+      },
+      {
+        "nombre": "Direccion UMF 85",
+        "zona": "CENTRO",
+        "unidad": 0,
+        "almacen": 95,
+        "total": 95
+      },
+      {
+        "nombre": "Direccion UMF 86",
+        "zona": "CENTRO",
+        "unidad": 5,
+        "almacen": 95,
+        "total": 100
+      },
+      {
+        "nombre": "Direccion UMF 88",
+        "zona": "CENTRO",
+        "unidad": 21,
+        "almacen": 173,
+        "total": 194
+      },
+      {
+        "nombre": "Direccion UMF 9",
+        "zona": "CENTRO",
+        "unidad": 110,
+        "almacen": 173,
+        "total": 283
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 7",
+        "zona": "CENTRO",
+        "unidad": 9,
+        "almacen": 95,
+        "total": 104
+      },
+      {
+        "nombre": "Direccion UMF 15",
+        "zona": "LAGUNA",
+        "unidad": 19,
+        "almacen": 173,
+        "total": 192
+      },
+      {
+        "nombre": "Direccion UMF 80",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 173,
+        "total": 173
+      },
+      {
+        "nombre": "Direccion UMF 83",
+        "zona": "LAGUNA",
+        "unidad": 51,
+        "almacen": 173,
+        "total": 224
+      },
+      {
+        "nombre": "Farmacia HGSZ-MF 20",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 78,
+        "total": 78
+      },
+      {
+        "nombre": "Farmacia HGSZ-MF 21",
+        "zona": "LAGUNA",
+        "unidad": 1,
+        "almacen": 78,
+        "total": 79
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 16",
+        "zona": "LAGUNA",
+        "unidad": 54,
+        "almacen": 173,
+        "total": 227
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 18",
+        "zona": "LAGUNA",
+        "unidad": 14,
+        "almacen": 173,
+        "total": 187
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 24",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 173,
+        "total": 173
+      },
+      {
+        "nombre": "Farmacia UMF 66",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 173,
+        "total": 173
+      },
+      {
+        "nombre": "Farmacia UMF 93",
+        "zona": "LAGUNA",
+        "unidad": 5,
+        "almacen": 173,
+        "total": 178
+      },
+      {
+        "nombre": "Direccion UMF 12",
+        "zona": "NORTE",
+        "unidad": 5,
+        "almacen": 173,
+        "total": 178
+      },
+      {
+        "nombre": "Direccion UMF 81",
+        "zona": "NORTE",
+        "unidad": 0,
+        "almacen": 78,
+        "total": 78
+      },
+      {
+        "nombre": "Direccion UMF 87",
+        "zona": "NORTE",
+        "unidad": 1,
+        "almacen": 78,
+        "total": 79
+      },
+      {
+        "nombre": "Farmacia HRS Ramos",
+        "zona": "NORTE",
+        "unidad": 0,
+        "almacen": 78,
+        "total": 78
+      },
+      {
+        "nombre": "Farmacia UMF 79",
+        "zona": "NORTE",
+        "unidad": 0,
+        "almacen": 173,
+        "total": 173
+      },
+      {
+        "nombre": "Direccion UMF 3",
+        "zona": "SUR",
+        "unidad": 5,
+        "almacen": 95,
+        "total": 100
+      },
+      {
+        "nombre": "Direccion UMF 4",
+        "zona": "SUR",
+        "unidad": 5,
+        "almacen": 95,
+        "total": 100
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 2",
+        "zona": "SUR",
+        "unidad": 66,
+        "almacen": 173,
+        "total": 239
+      },
+      {
+        "nombre": "Farmacia UMAA 89",
+        "zona": "SUR",
+        "unidad": 0,
+        "almacen": 173,
+        "total": 173
+      },
+      {
+        "nombre": "Farmacia UMF 73",
+        "zona": "SUR",
+        "unidad": 0,
+        "almacen": 173,
+        "total": 173
+      },
+      {
+        "nombre": "Farmacia UMF 82",
+        "zona": "SUR",
+        "unidad": 53,
+        "almacen": 173,
+        "total": 226
+      },
+      {
+        "nombre": "Farmacia UMF 91",
+        "zona": "SUR",
+        "unidad": 0,
+        "almacen": 173,
+        "total": 173
+      }
+    ]
+  },
+  "DOBLE VIRAL (SR)": {
+    "zonas": {
+      "CARBONÍFERA": {
+        "unidad": 560,
+        "almacen": 660,
+        "total": 1220
+      },
+      "CENTRO": {
+        "unidad": 1571,
+        "almacen": 480,
+        "total": 2051
+      },
+      "LAGUNA": {
+        "unidad": 1715,
+        "almacen": 720,
+        "total": 2435
+      },
+      "NORTE": {
+        "unidad": 1021,
+        "almacen": 360,
+        "total": 1381
+      },
+      "SUR": {
+        "unidad": 2509,
+        "almacen": 480,
+        "total": 2989
+      }
+    },
+    "unidades": [
+      {
+        "nombre": "Direccion UMF 14",
+        "zona": "CARBONÍFERA",
+        "unidad": 10,
+        "almacen": 60,
+        "total": 70
+      },
+      {
+        "nombre": "Direccion UMF 23",
+        "zona": "CARBONÍFERA",
+        "unidad": 200,
+        "almacen": 60,
+        "total": 260
+      },
+      {
+        "nombre": "Direccion UMF 25",
+        "zona": "CARBONÍFERA",
+        "unidad": 0,
+        "almacen": 60,
+        "total": 60
+      },
+      {
+        "nombre": "Direccion UMF 28",
+        "zona": "CARBONÍFERA",
+        "unidad": 0,
+        "almacen": 60,
+        "total": 60
+      },
+      {
+        "nombre": "Direccion UMF 29",
+        "zona": "CARBONÍFERA",
+        "unidad": 0,
+        "almacen": 60,
+        "total": 60
+      },
+      {
+        "nombre": "Direccion UMF 31",
+        "zona": "CARBONÍFERA",
+        "unidad": 47,
+        "almacen": 60,
+        "total": 107
+      },
+      {
+        "nombre": "Direccion UMF 32",
+        "zona": "CARBONÍFERA",
+        "unidad": 22,
+        "almacen": 60,
+        "total": 82
+      },
+      {
+        "nombre": "Direccion UMF 61",
+        "zona": "CARBONÍFERA",
+        "unidad": 66,
+        "almacen": 60,
+        "total": 126
+      },
+      {
+        "nombre": "Direccion UMF 62",
+        "zona": "CARBONÍFERA",
+        "unidad": 61,
+        "almacen": 60,
+        "total": 121
+      },
+      {
+        "nombre": "Direccion UMF 64",
+        "zona": "CARBONÍFERA",
+        "unidad": 3,
+        "almacen": 60,
+        "total": 63
+      },
+      {
+        "nombre": "Farmacia HGSZ-MF 27",
+        "zona": "CARBONÍFERA",
+        "unidad": 151,
+        "almacen": 60,
+        "total": 211
+      },
+      {
+        "nombre": "Direccion UMF 10",
+        "zona": "CENTRO",
+        "unidad": 0,
+        "almacen": 60,
+        "total": 60
+      },
+      {
+        "nombre": "Direccion UMF 50",
+        "zona": "CENTRO",
+        "unidad": 22,
+        "almacen": 60,
+        "total": 82
+      },
+      {
+        "nombre": "Direccion UMF 8",
+        "zona": "CENTRO",
+        "unidad": 0,
+        "almacen": 60,
+        "total": 60
+      },
+      {
+        "nombre": "Direccion UMF 84",
+        "zona": "CENTRO",
+        "unidad": 56,
+        "almacen": 60,
+        "total": 116
+      },
+      {
+        "nombre": "Direccion UMF 85",
+        "zona": "CENTRO",
+        "unidad": 0,
+        "almacen": 60,
+        "total": 60
+      },
+      {
+        "nombre": "Direccion UMF 88",
+        "zona": "CENTRO",
+        "unidad": 37,
+        "almacen": 60,
+        "total": 97
+      },
+      {
+        "nombre": "Direccion UMF 9",
+        "zona": "CENTRO",
+        "unidad": 282,
+        "almacen": 60,
+        "total": 342
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 7",
+        "zona": "CENTRO",
+        "unidad": 1174,
+        "almacen": 60,
+        "total": 1234
+      },
+      {
+        "nombre": "Direccion UMF 15",
+        "zona": "LAGUNA",
+        "unidad": 13,
+        "almacen": 60,
+        "total": 73
+      },
+      {
+        "nombre": "Direccion UMF 26",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 60,
+        "total": 60
+      },
+      {
+        "nombre": "Direccion UMF 80",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 60,
+        "total": 60
+      },
+      {
+        "nombre": "Direccion UMF 83",
+        "zona": "LAGUNA",
+        "unidad": 102,
+        "almacen": 60,
+        "total": 162
+      },
+      {
+        "nombre": "Farmacia HGSZ-MF 20",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 60,
+        "total": 60
+      },
+      {
+        "nombre": "Farmacia HGSZ-MF 21",
+        "zona": "LAGUNA",
+        "unidad": 200,
+        "almacen": 60,
+        "total": 260
+      },
+      {
+        "nombre": "Farmacia HGZ 11",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 60,
+        "total": 60
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 16",
+        "zona": "LAGUNA",
+        "unidad": 1380,
+        "almacen": 60,
+        "total": 1440
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 18",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 60,
+        "total": 60
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 24",
+        "zona": "LAGUNA",
+        "unidad": 20,
+        "almacen": 60,
+        "total": 80
+      },
+      {
+        "nombre": "Farmacia UMF 66",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 60,
+        "total": 60
+      },
+      {
+        "nombre": "Farmacia UMF 93",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 60,
+        "total": 60
+      },
+      {
+        "nombre": "Direccion UMF 12",
+        "zona": "NORTE",
+        "unidad": 120,
+        "almacen": 60,
+        "total": 180
+      },
+      {
+        "nombre": "Direccion UMF 81",
+        "zona": "NORTE",
+        "unidad": 426,
+        "almacen": 60,
+        "total": 486
+      },
+      {
+        "nombre": "Direccion UMF 87",
+        "zona": "NORTE",
+        "unidad": 0,
+        "almacen": 60,
+        "total": 60
+      },
+      {
+        "nombre": "Farmacia HGSZ-MF 6",
+        "zona": "NORTE",
+        "unidad": 0,
+        "almacen": 60,
+        "total": 60
+      },
+      {
+        "nombre": "Farmacia HRS Ramos",
+        "zona": "NORTE",
+        "unidad": 0,
+        "almacen": 60,
+        "total": 60
+      },
+      {
+        "nombre": "Farmacia UMF 79",
+        "zona": "NORTE",
+        "unidad": 475,
+        "almacen": 60,
+        "total": 535
+      },
+      {
+        "nombre": "Direccion UMF 3",
+        "zona": "SUR",
+        "unidad": 200,
+        "almacen": 60,
+        "total": 260
+      },
+      {
+        "nombre": "Direccion UMF 4",
+        "zona": "SUR",
+        "unidad": 78,
+        "almacen": 60,
+        "total": 138
+      },
+      {
+        "nombre": "Direccion UMF 70",
+        "zona": "SUR",
+        "unidad": 0,
+        "almacen": 60,
+        "total": 60
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 2",
+        "zona": "SUR",
+        "unidad": 1967,
+        "almacen": 60,
+        "total": 2027
+      },
+      {
+        "nombre": "Farmacia UMAA 89",
+        "zona": "SUR",
+        "unidad": 214,
+        "almacen": 60,
+        "total": 274
+      },
+      {
+        "nombre": "Farmacia UMF 73",
+        "zona": "SUR",
+        "unidad": 0,
+        "almacen": 60,
+        "total": 60
+      },
+      {
+        "nombre": "Farmacia UMF 82",
+        "zona": "SUR",
+        "unidad": 0,
+        "almacen": 60,
+        "total": 60
+      },
+      {
+        "nombre": "Farmacia UMF 91",
+        "zona": "SUR",
+        "unidad": 50,
+        "almacen": 60,
+        "total": 110
+      }
+    ]
+  },
+  "DPT": {
+    "zonas": {
+      "CARBONÍFERA": {
+        "unidad": 116,
+        "almacen": 5780,
+        "total": 5896
+      },
+      "CENTRO": {
+        "unidad": 86,
+        "almacen": 2312,
+        "total": 2398
+      },
+      "LAGUNA": {
+        "unidad": 90,
+        "almacen": 6358,
+        "total": 6448
+      },
+      "NORTE": {
+        "unidad": 0,
+        "almacen": 2312,
+        "total": 2312
+      },
+      "SUR": {
+        "unidad": 323,
+        "almacen": 3468,
+        "total": 3791
+      }
+    },
+    "unidades": [
+      {
+        "nombre": "Direccion UMF 23",
+        "zona": "CARBONÍFERA",
+        "unidad": 25,
+        "almacen": 578,
+        "total": 603
+      },
+      {
+        "nombre": "Direccion UMF 25",
+        "zona": "CARBONÍFERA",
+        "unidad": 0,
+        "almacen": 578,
+        "total": 578
+      },
+      {
+        "nombre": "Direccion UMF 28",
+        "zona": "CARBONÍFERA",
+        "unidad": 15,
+        "almacen": 578,
+        "total": 593
+      },
+      {
+        "nombre": "Direccion UMF 29",
+        "zona": "CARBONÍFERA",
+        "unidad": 0,
+        "almacen": 578,
+        "total": 578
+      },
+      {
+        "nombre": "Direccion UMF 31",
+        "zona": "CARBONÍFERA",
+        "unidad": 8,
+        "almacen": 578,
+        "total": 586
+      },
+      {
+        "nombre": "Direccion UMF 32",
+        "zona": "CARBONÍFERA",
+        "unidad": 20,
+        "almacen": 578,
+        "total": 598
+      },
+      {
+        "nombre": "Direccion UMF 61",
+        "zona": "CARBONÍFERA",
+        "unidad": 1,
+        "almacen": 578,
+        "total": 579
+      },
+      {
+        "nombre": "Direccion UMF 62",
+        "zona": "CARBONÍFERA",
+        "unidad": 23,
+        "almacen": 578,
+        "total": 601
+      },
+      {
+        "nombre": "Direccion UMF 64",
+        "zona": "CARBONÍFERA",
+        "unidad": 1,
+        "almacen": 578,
+        "total": 579
+      },
+      {
+        "nombre": "Farmacia HGSZ-MF 27",
+        "zona": "CARBONÍFERA",
+        "unidad": 23,
+        "almacen": 578,
+        "total": 601
+      },
+      {
+        "nombre": "Direccion UMF 84",
+        "zona": "CENTRO",
+        "unidad": 24,
+        "almacen": 578,
+        "total": 602
+      },
+      {
+        "nombre": "Direccion UMF 88",
+        "zona": "CENTRO",
+        "unidad": 29,
+        "almacen": 578,
+        "total": 607
+      },
+      {
+        "nombre": "Direccion UMF 9",
+        "zona": "CENTRO",
+        "unidad": 33,
+        "almacen": 578,
+        "total": 611
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 7",
+        "zona": "CENTRO",
+        "unidad": 0,
+        "almacen": 578,
+        "total": 578
+      },
+      {
+        "nombre": "Direccion UMF 15",
+        "zona": "LAGUNA",
+        "unidad": 12,
+        "almacen": 578,
+        "total": 590
+      },
+      {
+        "nombre": "Direccion UMF 26",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 578,
+        "total": 578
+      },
+      {
+        "nombre": "Direccion UMF 80",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 578,
+        "total": 578
+      },
+      {
+        "nombre": "Direccion UMF 83",
+        "zona": "LAGUNA",
+        "unidad": 44,
+        "almacen": 578,
+        "total": 622
+      },
+      {
+        "nombre": "Farmacia HGSZ-MF 20",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 578,
+        "total": 578
+      },
+      {
+        "nombre": "Farmacia HGSZ-MF 21",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 578,
+        "total": 578
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 16",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 578,
+        "total": 578
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 18",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 578,
+        "total": 578
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 24",
+        "zona": "LAGUNA",
+        "unidad": 25,
+        "almacen": 578,
+        "total": 603
+      },
+      {
+        "nombre": "Farmacia UMF 66",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 578,
+        "total": 578
+      },
+      {
+        "nombre": "Farmacia UMF 93",
+        "zona": "LAGUNA",
+        "unidad": 9,
+        "almacen": 578,
+        "total": 587
+      },
+      {
+        "nombre": "Direccion UMF 12",
+        "zona": "NORTE",
+        "unidad": 0,
+        "almacen": 578,
+        "total": 578
+      },
+      {
+        "nombre": "Farmacia HGSZ-MF 6",
+        "zona": "NORTE",
+        "unidad": 0,
+        "almacen": 578,
+        "total": 578
+      },
+      {
+        "nombre": "Farmacia HRS Ramos",
+        "zona": "NORTE",
+        "unidad": 0,
+        "almacen": 578,
+        "total": 578
+      },
+      {
+        "nombre": "Farmacia UMF 79",
+        "zona": "NORTE",
+        "unidad": 0,
+        "almacen": 578,
+        "total": 578
+      },
+      {
+        "nombre": "Direccion UMF 4",
+        "zona": "SUR",
+        "unidad": 10,
+        "almacen": 578,
+        "total": 588
+      },
+      {
+        "nombre": "Direccion UMR-EM 52",
+        "zona": "SUR",
+        "unidad": 2,
+        "almacen": 0,
+        "total": 2
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 2",
+        "zona": "SUR",
+        "unidad": 0,
+        "almacen": 578,
+        "total": 578
+      },
+      {
+        "nombre": "Farmacia UMAA 89",
+        "zona": "SUR",
+        "unidad": 23,
+        "almacen": 578,
+        "total": 601
+      },
+      {
+        "nombre": "Farmacia UMF 73",
+        "zona": "SUR",
+        "unidad": 204,
+        "almacen": 578,
+        "total": 782
+      },
+      {
+        "nombre": "Farmacia UMF 82",
+        "zona": "SUR",
+        "unidad": 84,
+        "almacen": 578,
+        "total": 662
+      },
+      {
+        "nombre": "Farmacia UMF 91",
+        "zona": "SUR",
+        "unidad": 0,
+        "almacen": 578,
+        "total": 578
+      }
+    ]
+  },
+  "GAMA ANITETA...": {
+    "zonas": {
+      "CARBONÍFERA": {
+        "unidad": 11,
+        "almacen": 8,
+        "total": 19
+      },
+      "CENTRO": {
+        "unidad": 0,
+        "almacen": 2,
+        "total": 2
+      },
+      "LAGUNA": {
+        "unidad": 48,
+        "almacen": 12,
+        "total": 60
+      },
+      "NORTE": {
+        "unidad": 0,
+        "almacen": 2,
+        "total": 2
+      },
+      "SUR": {
+        "unidad": 14,
+        "almacen": 10,
+        "total": 24
+      }
+    },
+    "unidades": [
+      {
+        "nombre": "Direccion UMF 28",
+        "zona": "CARBONÍFERA",
+        "unidad": 10,
+        "almacen": 2,
+        "total": 12
+      },
+      {
+        "nombre": "Direccion UMF 29",
+        "zona": "CARBONÍFERA",
+        "unidad": 1,
+        "almacen": 2,
+        "total": 3
+      },
+      {
+        "nombre": "Direccion UMF 31",
+        "zona": "CARBONÍFERA",
+        "unidad": 0,
+        "almacen": 2,
+        "total": 2
+      },
+      {
+        "nombre": "Farmacia HGSZ-MF 13",
+        "zona": "CARBONÍFERA",
+        "unidad": 0,
+        "almacen": 2,
+        "total": 2
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 7",
+        "zona": "CENTRO",
+        "unidad": 0,
+        "almacen": 2,
+        "total": 2
+      },
+      {
+        "nombre": "Direccion UMF 15",
+        "zona": "LAGUNA",
+        "unidad": 4,
+        "almacen": 2,
+        "total": 6
+      },
+      {
+        "nombre": "Direccion UMF 83",
+        "zona": "LAGUNA",
+        "unidad": 10,
+        "almacen": 2,
+        "total": 12
+      },
+      {
+        "nombre": "Farmacia HGZ 11",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 2,
+        "total": 2
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 16",
+        "zona": "LAGUNA",
+        "unidad": 34,
+        "almacen": 2,
+        "total": 36
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 18",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 2,
+        "total": 2
+      },
+      {
+        "nombre": "Farmacia UMF 93",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 2,
+        "total": 2
+      },
+      {
+        "nombre": "Direccion UMF 12",
+        "zona": "NORTE",
+        "unidad": 0,
+        "almacen": 2,
+        "total": 2
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 2",
+        "zona": "SUR",
+        "unidad": 0,
+        "almacen": 2,
+        "total": 2
+      },
+      {
+        "nombre": "Farmacia UMAA 89",
+        "zona": "SUR",
+        "unidad": 0,
+        "almacen": 2,
+        "total": 2
+      },
+      {
+        "nombre": "Farmacia UMF 73",
+        "zona": "SUR",
+        "unidad": 14,
+        "almacen": 2,
+        "total": 16
+      },
+      {
+        "nombre": "Farmacia UMF 82",
+        "zona": "SUR",
+        "unidad": 0,
+        "almacen": 2,
+        "total": 2
+      },
+      {
+        "nombre": "Farmacia UMF 91",
+        "zona": "SUR",
+        "unidad": 0,
+        "almacen": 2,
+        "total": 2
+      }
+    ]
+  },
+  "GAMA ANITRA...": {
+    "zonas": {
+      "CARBONÍFERA": {
+        "unidad": 30,
+        "almacen": 0,
+        "total": 30
+      },
+      "CENTRO": {
+        "unidad": 5,
+        "almacen": 0,
+        "total": 5
+      },
+      "LAGUNA": {
+        "unidad": 14,
+        "almacen": 0,
+        "total": 14
+      },
+      "NORTE": {
+        "unidad": 4,
+        "almacen": 0,
+        "total": 4
+      },
+      "SUR": {
+        "unidad": 24,
+        "almacen": 0,
+        "total": 24
+      }
+    },
+    "unidades": [
+      {
+        "nombre": "Direccion UMF 28",
+        "zona": "CARBONÍFERA",
+        "unidad": 12,
+        "almacen": 0,
+        "total": 12
+      },
+      {
+        "nombre": "Direccion UMF 29",
+        "zona": "CARBONÍFERA",
+        "unidad": 8,
+        "almacen": 0,
+        "total": 8
+      },
+      {
+        "nombre": "Direccion UMF 31",
+        "zona": "CARBONÍFERA",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Direccion UMF 32",
+        "zona": "CARBONÍFERA",
+        "unidad": 5,
+        "almacen": 0,
+        "total": 5
+      },
+      {
+        "nombre": "Farmacia HGSZ-MF 13",
+        "zona": "CARBONÍFERA",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Farmacia HGSZ-MF 27",
+        "zona": "CARBONÍFERA",
+        "unidad": 5,
+        "almacen": 0,
+        "total": 5
+      },
+      {
+        "nombre": "Direccion UMF 84",
+        "zona": "CENTRO",
+        "unidad": 5,
+        "almacen": 0,
+        "total": 5
+      },
+      {
+        "nombre": "Direccion UMF 88",
+        "zona": "CENTRO",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Direccion UMF 15",
+        "zona": "LAGUNA",
+        "unidad": 4,
+        "almacen": 0,
+        "total": 4
+      },
+      {
+        "nombre": "Direccion UMF 80",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Direccion UMF 83",
+        "zona": "LAGUNA",
+        "unidad": 10,
+        "almacen": 0,
+        "total": 10
+      },
+      {
+        "nombre": "Farmacia HGZ 11",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 16",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 18",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Farmacia UMF 93",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Direccion UMF 12",
+        "zona": "NORTE",
+        "unidad": 4,
+        "almacen": 0,
+        "total": 4
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 2",
+        "zona": "SUR",
+        "unidad": 5,
+        "almacen": 0,
+        "total": 5
+      },
+      {
+        "nombre": "Farmacia UMAA 89",
+        "zona": "SUR",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Farmacia UMF 73",
+        "zona": "SUR",
+        "unidad": 5,
+        "almacen": 0,
+        "total": 5
+      },
+      {
+        "nombre": "Farmacia UMF 82",
+        "zona": "SUR",
+        "unidad": 14,
+        "almacen": 0,
+        "total": 14
+      },
+      {
+        "nombre": "Farmacia UMF 91",
+        "zona": "SUR",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      }
+    ]
+  },
+  "HEPATITIS A": {
+    "zonas": {
+      "CARBONÍFERA": {
+        "unidad": 42,
+        "almacen": 32,
+        "total": 74
+      },
+      "CENTRO": {
+        "unidad": 280,
+        "almacen": 48,
+        "total": 328
+      },
+      "LAGUNA": {
+        "unidad": 8,
+        "almacen": 32,
+        "total": 40
+      },
+      "NORTE": {
+        "unidad": 224,
+        "almacen": 24,
+        "total": 248
+      },
+      "SUR": {
+        "unidad": 160,
+        "almacen": 32,
+        "total": 192
+      }
+    },
+    "unidades": [
+      {
+        "nombre": "Direccion UMF 23",
+        "zona": "CARBONÍFERA",
+        "unidad": 20,
+        "almacen": 8,
+        "total": 28
+      },
+      {
+        "nombre": "Direccion UMF 29",
+        "zona": "CARBONÍFERA",
+        "unidad": 10,
+        "almacen": 8,
+        "total": 18
+      },
+      {
+        "nombre": "Direccion UMF 32",
+        "zona": "CARBONÍFERA",
+        "unidad": 10,
+        "almacen": 8,
+        "total": 18
+      },
+      {
+        "nombre": "Farmacia HGSZ-MF 27",
+        "zona": "CARBONÍFERA",
+        "unidad": 2,
+        "almacen": 8,
+        "total": 10
+      },
+      {
+        "nombre": "Direccion UMF 10",
+        "zona": "CENTRO",
+        "unidad": 0,
+        "almacen": 8,
+        "total": 8
+      },
+      {
+        "nombre": "Direccion UMF 85",
+        "zona": "CENTRO",
+        "unidad": 0,
+        "almacen": 8,
+        "total": 8
+      },
+      {
+        "nombre": "Direccion UMF 86",
+        "zona": "CENTRO",
+        "unidad": 20,
+        "almacen": 8,
+        "total": 28
+      },
+      {
+        "nombre": "Direccion UMF 88",
+        "zona": "CENTRO",
+        "unidad": 0,
+        "almacen": 8,
+        "total": 8
+      },
+      {
+        "nombre": "Direccion UMF 9",
+        "zona": "CENTRO",
+        "unidad": 20,
+        "almacen": 8,
+        "total": 28
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 7",
+        "zona": "CENTRO",
+        "unidad": 240,
+        "almacen": 8,
+        "total": 248
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 16",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 8,
+        "total": 8
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 18",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 8,
+        "total": 8
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 24",
+        "zona": "LAGUNA",
+        "unidad": 8,
+        "almacen": 8,
+        "total": 16
+      },
+      {
+        "nombre": "Farmacia UMF 66",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 8,
+        "total": 8
+      },
+      {
+        "nombre": "Direccion UMF 81",
+        "zona": "NORTE",
+        "unidad": 174,
+        "almacen": 8,
+        "total": 182
+      },
+      {
+        "nombre": "Direccion UMF 87",
+        "zona": "NORTE",
+        "unidad": 50,
+        "almacen": 8,
+        "total": 58
+      },
+      {
+        "nombre": "Farmacia UMF 79",
+        "zona": "NORTE",
+        "unidad": 0,
+        "almacen": 8,
+        "total": 8
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 2",
+        "zona": "SUR",
+        "unidad": 0,
+        "almacen": 8,
+        "total": 8
+      },
+      {
+        "nombre": "Farmacia UMF 73",
+        "zona": "SUR",
+        "unidad": 120,
+        "almacen": 8,
+        "total": 128
+      },
+      {
+        "nombre": "Farmacia UMF 82",
+        "zona": "SUR",
+        "unidad": 0,
+        "almacen": 8,
+        "total": 8
+      },
+      {
+        "nombre": "Farmacia UMF 91",
+        "zona": "SUR",
+        "unidad": 40,
+        "almacen": 8,
+        "total": 48
+      }
+    ]
+  },
+  "HEPATITIS A AD...": {
+    "zonas": {
+      "CARBONÍFERA": {
+        "unidad": 121,
+        "almacen": 576,
+        "total": 697
+      },
+      "CENTRO": {
+        "unidad": 100,
+        "almacen": 448,
+        "total": 548
+      },
+      "LAGUNA": {
+        "unidad": 123,
+        "almacen": 704,
+        "total": 827
+      },
+      "NORTE": {
+        "unidad": 70,
+        "almacen": 320,
+        "total": 390
+      },
+      "SUR": {
+        "unidad": 180,
+        "almacen": 384,
+        "total": 564
+      }
+    },
+    "unidades": [
+      {
+        "nombre": "Direccion UMF 14",
+        "zona": "CARBONÍFERA",
+        "unidad": 6,
+        "almacen": 64,
+        "total": 70
+      },
+      {
+        "nombre": "Direccion UMF 23",
+        "zona": "CARBONÍFERA",
+        "unidad": 43,
+        "almacen": 64,
+        "total": 107
+      },
+      {
+        "nombre": "Direccion UMF 25",
+        "zona": "CARBONÍFERA",
+        "unidad": 0,
+        "almacen": 64,
+        "total": 64
+      },
+      {
+        "nombre": "Direccion UMF 28",
+        "zona": "CARBONÍFERA",
+        "unidad": 2,
+        "almacen": 64,
+        "total": 66
+      },
+      {
+        "nombre": "Direccion UMF 29",
+        "zona": "CARBONÍFERA",
+        "unidad": 46,
+        "almacen": 64,
+        "total": 110
+      },
+      {
+        "nombre": "Direccion UMF 31",
+        "zona": "CARBONÍFERA",
+        "unidad": 3,
+        "almacen": 64,
+        "total": 67
+      },
+      {
+        "nombre": "Direccion UMF 32",
+        "zona": "CARBONÍFERA",
+        "unidad": 0,
+        "almacen": 64,
+        "total": 64
+      },
+      {
+        "nombre": "Direccion UMF 62",
+        "zona": "CARBONÍFERA",
+        "unidad": 12,
+        "almacen": 64,
+        "total": 76
+      },
+      {
+        "nombre": "Farmacia HGSZ-MF 27",
+        "zona": "CARBONÍFERA",
+        "unidad": 9,
+        "almacen": 64,
+        "total": 73
+      },
+      {
+        "nombre": "Direccion UMF 10",
+        "zona": "CENTRO",
+        "unidad": 0,
+        "almacen": 64,
+        "total": 64
+      },
+      {
+        "nombre": "Direccion UMF 8",
+        "zona": "CENTRO",
+        "unidad": 10,
+        "almacen": 64,
+        "total": 74
+      },
+      {
+        "nombre": "Direccion UMF 84",
+        "zona": "CENTRO",
+        "unidad": 0,
+        "almacen": 64,
+        "total": 64
+      },
+      {
+        "nombre": "Direccion UMF 85",
+        "zona": "CENTRO",
+        "unidad": 0,
+        "almacen": 64,
+        "total": 64
+      },
+      {
+        "nombre": "Direccion UMF 86",
+        "zona": "CENTRO",
+        "unidad": 10,
+        "almacen": 64,
+        "total": 74
+      },
+      {
+        "nombre": "Direccion UMF 88",
+        "zona": "CENTRO",
+        "unidad": 50,
+        "almacen": 64,
+        "total": 114
+      },
+      {
+        "nombre": "Direccion UMF 9",
+        "zona": "CENTRO",
+        "unidad": 30,
+        "almacen": 64,
+        "total": 94
+      },
+      {
+        "nombre": "Direccion UMF 26",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 64,
+        "total": 64
+      },
+      {
+        "nombre": "Direccion UMF 80",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 64,
+        "total": 64
+      },
+      {
+        "nombre": "Direccion UMF 83",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 64,
+        "total": 64
+      },
+      {
+        "nombre": "Farmacia HGSZ-MF 20",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 64,
+        "total": 64
+      },
+      {
+        "nombre": "Farmacia HGSZ-MF 21",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 64,
+        "total": 64
+      },
+      {
+        "nombre": "Farmacia HGZ 11",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 64,
+        "total": 64
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 16",
+        "zona": "LAGUNA",
+        "unidad": 120,
+        "almacen": 64,
+        "total": 184
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 18",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 64,
+        "total": 64
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 24",
+        "zona": "LAGUNA",
+        "unidad": 3,
+        "almacen": 64,
+        "total": 67
+      },
+      {
+        "nombre": "Farmacia UMF 66",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 64,
+        "total": 64
+      },
+      {
+        "nombre": "Farmacia UMF 93",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 64,
+        "total": 64
+      },
+      {
+        "nombre": "Direccion UMF 12",
+        "zona": "NORTE",
+        "unidad": 10,
+        "almacen": 64,
+        "total": 74
+      },
+      {
+        "nombre": "Direccion UMF 81",
+        "zona": "NORTE",
+        "unidad": 50,
+        "almacen": 64,
+        "total": 114
+      },
+      {
+        "nombre": "Direccion UMF 87",
+        "zona": "NORTE",
+        "unidad": 0,
+        "almacen": 64,
+        "total": 64
+      },
+      {
+        "nombre": "Farmacia HGSZ-MF 6",
+        "zona": "NORTE",
+        "unidad": 0,
+        "almacen": 64,
+        "total": 64
+      },
+      {
+        "nombre": "Farmacia UMF 79",
+        "zona": "NORTE",
+        "unidad": 10,
+        "almacen": 64,
+        "total": 74
+      },
+      {
+        "nombre": "Direccion UMF 3",
+        "zona": "SUR",
+        "unidad": 30,
+        "almacen": 64,
+        "total": 94
+      },
+      {
+        "nombre": "Direccion UMF 4",
+        "zona": "SUR",
+        "unidad": 10,
+        "almacen": 64,
+        "total": 74
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 2",
+        "zona": "SUR",
+        "unidad": 80,
+        "almacen": 64,
+        "total": 144
+      },
+      {
+        "nombre": "Farmacia UMAA 89",
+        "zona": "SUR",
+        "unidad": 50,
+        "almacen": 64,
+        "total": 114
+      },
+      {
+        "nombre": "Farmacia UMF 73",
+        "zona": "SUR",
+        "unidad": 0,
+        "almacen": 64,
+        "total": 64
+      },
+      {
+        "nombre": "Farmacia UMF 82",
+        "zona": "SUR",
+        "unidad": 10,
+        "almacen": 64,
+        "total": 74
+      }
+    ]
+  },
+  "HEPATITIS B": {
+    "zonas": {
+      "CARBONÍFERA": {
+        "unidad": 267,
+        "almacen": 408,
+        "total": 675
+      },
+      "CENTRO": {
+        "unidad": 195,
+        "almacen": 272,
+        "total": 467
+      },
+      "LAGUNA": {
+        "unidad": 229,
+        "almacen": 408,
+        "total": 637
+      },
+      "NORTE": {
+        "unidad": 113,
+        "almacen": 204,
+        "total": 317
+      },
+      "SUR": {
+        "unidad": 303,
+        "almacen": 238,
+        "total": 541
+      }
+    },
+    "unidades": [
+      {
+        "nombre": "Direccion UMF 14",
+        "zona": "CARBONÍFERA",
+        "unidad": 1,
+        "almacen": 34,
+        "total": 35
+      },
+      {
+        "nombre": "Direccion UMF 23",
+        "zona": "CARBONÍFERA",
+        "unidad": 50,
+        "almacen": 34,
+        "total": 84
+      },
+      {
+        "nombre": "Direccion UMF 25",
+        "zona": "CARBONÍFERA",
+        "unidad": 0,
+        "almacen": 34,
+        "total": 34
+      },
+      {
+        "nombre": "Direccion UMF 28",
+        "zona": "CARBONÍFERA",
+        "unidad": 9,
+        "almacen": 34,
+        "total": 43
+      },
+      {
+        "nombre": "Direccion UMF 29",
+        "zona": "CARBONÍFERA",
+        "unidad": 0,
+        "almacen": 34,
+        "total": 34
+      },
+      {
+        "nombre": "Direccion UMF 31",
+        "zona": "CARBONÍFERA",
+        "unidad": 20,
+        "almacen": 34,
+        "total": 54
+      },
+      {
+        "nombre": "Direccion UMF 32",
+        "zona": "CARBONÍFERA",
+        "unidad": 17,
+        "almacen": 34,
+        "total": 51
+      },
+      {
+        "nombre": "Direccion UMF 61",
+        "zona": "CARBONÍFERA",
+        "unidad": 5,
+        "almacen": 34,
+        "total": 39
+      },
+      {
+        "nombre": "Direccion UMF 62",
+        "zona": "CARBONÍFERA",
+        "unidad": 10,
+        "almacen": 34,
+        "total": 44
+      },
+      {
+        "nombre": "Direccion UMF 64",
+        "zona": "CARBONÍFERA",
+        "unidad": 5,
+        "almacen": 34,
+        "total": 39
+      },
+      {
+        "nombre": "Farmacia HGSZ-MF 13",
+        "zona": "CARBONÍFERA",
+        "unidad": 0,
+        "almacen": 34,
+        "total": 34
+      },
+      {
+        "nombre": "Farmacia HGSZ-MF 27",
+        "zona": "CARBONÍFERA",
+        "unidad": 150,
+        "almacen": 34,
+        "total": 184
+      },
+      {
+        "nombre": "Direccion UMF 10",
+        "zona": "CENTRO",
+        "unidad": 0,
+        "almacen": 34,
+        "total": 34
+      },
+      {
+        "nombre": "Direccion UMF 8",
+        "zona": "CENTRO",
+        "unidad": 10,
+        "almacen": 34,
+        "total": 44
+      },
+      {
+        "nombre": "Direccion UMF 84",
+        "zona": "CENTRO",
+        "unidad": 0,
+        "almacen": 34,
+        "total": 34
+      },
+      {
+        "nombre": "Direccion UMF 85",
+        "zona": "CENTRO",
+        "unidad": 0,
+        "almacen": 34,
+        "total": 34
+      },
+      {
+        "nombre": "Direccion UMF 86",
+        "zona": "CENTRO",
+        "unidad": 10,
+        "almacen": 34,
+        "total": 44
+      },
+      {
+        "nombre": "Direccion UMF 88",
+        "zona": "CENTRO",
+        "unidad": 39,
+        "almacen": 34,
+        "total": 73
+      },
+      {
+        "nombre": "Direccion UMF 9",
+        "zona": "CENTRO",
+        "unidad": 30,
+        "almacen": 34,
+        "total": 64
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 7",
+        "zona": "CENTRO",
+        "unidad": 106,
+        "almacen": 34,
+        "total": 140
+      },
+      {
+        "nombre": "Direccion UMF 15",
+        "zona": "LAGUNA",
+        "unidad": 6,
+        "almacen": 34,
+        "total": 40
+      },
+      {
+        "nombre": "Direccion UMF 26",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 34,
+        "total": 34
+      },
+      {
+        "nombre": "Direccion UMF 80",
+        "zona": "LAGUNA",
+        "unidad": 25,
+        "almacen": 34,
+        "total": 59
+      },
+      {
+        "nombre": "Direccion UMF 83",
+        "zona": "LAGUNA",
+        "unidad": 13,
+        "almacen": 34,
+        "total": 47
+      },
+      {
+        "nombre": "Farmacia HGSZ-MF 20",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 34,
+        "total": 34
+      },
+      {
+        "nombre": "Farmacia HGSZ-MF 21",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 34,
+        "total": 34
+      },
+      {
+        "nombre": "Farmacia HGZ 11",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 34,
+        "total": 34
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 16",
+        "zona": "LAGUNA",
+        "unidad": 35,
+        "almacen": 34,
+        "total": 69
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 18",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 34,
+        "total": 34
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 24",
+        "zona": "LAGUNA",
+        "unidad": 100,
+        "almacen": 34,
+        "total": 134
+      },
+      {
+        "nombre": "Farmacia UMF 66",
+        "zona": "LAGUNA",
+        "unidad": 50,
+        "almacen": 34,
+        "total": 84
+      },
+      {
+        "nombre": "Farmacia UMF 93",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 34,
+        "total": 34
+      },
+      {
+        "nombre": "Direccion UMF 12",
+        "zona": "NORTE",
+        "unidad": 2,
+        "almacen": 34,
+        "total": 36
+      },
+      {
+        "nombre": "Direccion UMF 81",
+        "zona": "NORTE",
+        "unidad": 50,
+        "almacen": 34,
+        "total": 84
+      },
+      {
+        "nombre": "Direccion UMF 87",
+        "zona": "NORTE",
+        "unidad": 0,
+        "almacen": 34,
+        "total": 34
+      },
+      {
+        "nombre": "Farmacia HGSZ-MF 6",
+        "zona": "NORTE",
+        "unidad": 0,
+        "almacen": 34,
+        "total": 34
+      },
+      {
+        "nombre": "Farmacia HRS Ramos",
+        "zona": "NORTE",
+        "unidad": 0,
+        "almacen": 34,
+        "total": 34
+      },
+      {
+        "nombre": "Farmacia UMF 79",
+        "zona": "NORTE",
+        "unidad": 61,
+        "almacen": 34,
+        "total": 95
+      },
+      {
+        "nombre": "Direccion UMF 3",
+        "zona": "SUR",
+        "unidad": 20,
+        "almacen": 34,
+        "total": 54
+      },
+      {
+        "nombre": "Direccion UMF 4",
+        "zona": "SUR",
+        "unidad": 10,
+        "almacen": 34,
+        "total": 44
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 2",
+        "zona": "SUR",
+        "unidad": 100,
+        "almacen": 34,
+        "total": 134
+      },
+      {
+        "nombre": "Farmacia UMAA 89",
+        "zona": "SUR",
+        "unidad": 3,
+        "almacen": 34,
+        "total": 37
+      },
+      {
+        "nombre": "Farmacia UMF 73",
+        "zona": "SUR",
+        "unidad": 0,
+        "almacen": 34,
+        "total": 34
+      },
+      {
+        "nombre": "Farmacia UMF 82",
+        "zona": "SUR",
+        "unidad": 130,
+        "almacen": 34,
+        "total": 164
+      },
+      {
+        "nombre": "Farmacia UMF 91",
+        "zona": "SUR",
+        "unidad": 40,
+        "almacen": 34,
+        "total": 74
+      }
+    ]
+  },
+  "HEXAVALENTE": {
+    "zonas": {
+      "CARBONÍFERA": {
+        "unidad": 192,
+        "almacen": 2170,
+        "total": 2362
+      },
+      "CENTRO": {
+        "unidad": 312,
+        "almacen": 1736,
+        "total": 2048
+      },
+      "LAGUNA": {
+        "unidad": 326,
+        "almacen": 2387,
+        "total": 2713
+      },
+      "NORTE": {
+        "unidad": 224,
+        "almacen": 1302,
+        "total": 1526
+      },
+      "SUR": {
+        "unidad": 418,
+        "almacen": 1519,
+        "total": 1937
+      }
+    },
+    "unidades": [
+      {
+        "nombre": "Direccion UMF 14",
+        "zona": "CARBONÍFERA",
+        "unidad": 8,
+        "almacen": 217,
+        "total": 225
+      },
+      {
+        "nombre": "Direccion UMF 23",
+        "zona": "CARBONÍFERA",
+        "unidad": 57,
+        "almacen": 217,
+        "total": 274
+      },
+      {
+        "nombre": "Direccion UMF 25",
+        "zona": "CARBONÍFERA",
+        "unidad": 0,
+        "almacen": 217,
+        "total": 217
+      },
+      {
+        "nombre": "Direccion UMF 28",
+        "zona": "CARBONÍFERA",
+        "unidad": 6,
+        "almacen": 217,
+        "total": 223
+      },
+      {
+        "nombre": "Direccion UMF 29",
+        "zona": "CARBONÍFERA",
+        "unidad": 0,
+        "almacen": 217,
+        "total": 217
+      },
+      {
+        "nombre": "Direccion UMF 31",
+        "zona": "CARBONÍFERA",
+        "unidad": 10,
+        "almacen": 217,
+        "total": 227
+      },
+      {
+        "nombre": "Direccion UMF 32",
+        "zona": "CARBONÍFERA",
+        "unidad": 17,
+        "almacen": 217,
+        "total": 234
+      },
+      {
+        "nombre": "Direccion UMF 61",
+        "zona": "CARBONÍFERA",
+        "unidad": 26,
+        "almacen": 217,
+        "total": 243
+      },
+      {
+        "nombre": "Direccion UMF 62",
+        "zona": "CARBONÍFERA",
+        "unidad": 27,
+        "almacen": 217,
+        "total": 244
+      },
+      {
+        "nombre": "Farmacia HGSZ-MF 27",
+        "zona": "CARBONÍFERA",
+        "unidad": 41,
+        "almacen": 217,
+        "total": 258
+      },
+      {
+        "nombre": "Direccion UMF 10",
+        "zona": "CENTRO",
+        "unidad": 0,
+        "almacen": 217,
+        "total": 217
+      },
+      {
+        "nombre": "Direccion UMF 8",
+        "zona": "CENTRO",
+        "unidad": 25,
+        "almacen": 217,
+        "total": 242
+      },
+      {
+        "nombre": "Direccion UMF 84",
+        "zona": "CENTRO",
+        "unidad": 67,
+        "almacen": 217,
+        "total": 284
+      },
+      {
+        "nombre": "Direccion UMF 85",
+        "zona": "CENTRO",
+        "unidad": 0,
+        "almacen": 217,
+        "total": 217
+      },
+      {
+        "nombre": "Direccion UMF 86",
+        "zona": "CENTRO",
+        "unidad": 20,
+        "almacen": 217,
+        "total": 237
+      },
+      {
+        "nombre": "Direccion UMF 88",
+        "zona": "CENTRO",
+        "unidad": 70,
+        "almacen": 217,
+        "total": 287
+      },
+      {
+        "nombre": "Direccion UMF 9",
+        "zona": "CENTRO",
+        "unidad": 95,
+        "almacen": 217,
+        "total": 312
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 7",
+        "zona": "CENTRO",
+        "unidad": 35,
+        "almacen": 217,
+        "total": 252
+      },
+      {
+        "nombre": "Direccion UMF 15",
+        "zona": "LAGUNA",
+        "unidad": 55,
+        "almacen": 217,
+        "total": 272
+      },
+      {
+        "nombre": "Direccion UMF 26",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 217,
+        "total": 217
+      },
+      {
+        "nombre": "Direccion UMF 80",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 217,
+        "total": 217
+      },
+      {
+        "nombre": "Direccion UMF 83",
+        "zona": "LAGUNA",
+        "unidad": 25,
+        "almacen": 217,
+        "total": 242
+      },
+      {
+        "nombre": "Farmacia HGSZ-MF 20",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 217,
+        "total": 217
+      },
+      {
+        "nombre": "Farmacia HGSZ-MF 21",
+        "zona": "LAGUNA",
+        "unidad": 13,
+        "almacen": 217,
+        "total": 230
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 16",
+        "zona": "LAGUNA",
+        "unidad": 203,
+        "almacen": 217,
+        "total": 420
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 18",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 217,
+        "total": 217
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 24",
+        "zona": "LAGUNA",
+        "unidad": 30,
+        "almacen": 217,
+        "total": 247
+      },
+      {
+        "nombre": "Farmacia UMF 66",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 217,
+        "total": 217
+      },
+      {
+        "nombre": "Farmacia UMF 93",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 217,
+        "total": 217
+      },
+      {
+        "nombre": "Direccion UMF 12",
+        "zona": "NORTE",
+        "unidad": 0,
+        "almacen": 217,
+        "total": 217
+      },
+      {
+        "nombre": "Direccion UMF 81",
+        "zona": "NORTE",
+        "unidad": 0,
+        "almacen": 217,
+        "total": 217
+      },
+      {
+        "nombre": "Direccion UMF 87",
+        "zona": "NORTE",
+        "unidad": 0,
+        "almacen": 217,
+        "total": 217
+      },
+      {
+        "nombre": "Farmacia HGSZ-MF 6",
+        "zona": "NORTE",
+        "unidad": 0,
+        "almacen": 217,
+        "total": 217
+      },
+      {
+        "nombre": "Farmacia HRS Ramos",
+        "zona": "NORTE",
+        "unidad": 0,
+        "almacen": 217,
+        "total": 217
+      },
+      {
+        "nombre": "Farmacia UMF 79",
+        "zona": "NORTE",
+        "unidad": 224,
+        "almacen": 217,
+        "total": 441
+      },
+      {
+        "nombre": "Direccion UMF 3",
+        "zona": "SUR",
+        "unidad": 32,
+        "almacen": 217,
+        "total": 249
+      },
+      {
+        "nombre": "Direccion UMF 4",
+        "zona": "SUR",
+        "unidad": 25,
+        "almacen": 217,
+        "total": 242
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 2",
+        "zona": "SUR",
+        "unidad": 0,
+        "almacen": 217,
+        "total": 217
+      },
+      {
+        "nombre": "Farmacia UMAA 89",
+        "zona": "SUR",
+        "unidad": 22,
+        "almacen": 217,
+        "total": 239
+      },
+      {
+        "nombre": "Farmacia UMF 73",
+        "zona": "SUR",
+        "unidad": 202,
+        "almacen": 217,
+        "total": 419
+      },
+      {
+        "nombre": "Farmacia UMF 82",
+        "zona": "SUR",
+        "unidad": 11,
+        "almacen": 217,
+        "total": 228
+      },
+      {
+        "nombre": "Farmacia UMF 91",
+        "zona": "SUR",
+        "unidad": 126,
+        "almacen": 217,
+        "total": 343
+      }
+    ]
+  },
+  "INFLUENZA TET...": {
+    "zonas": {
+      "CARBONÍFERA": {
+        "unidad": 56,
+        "almacen": 0,
+        "total": 56
+      },
+      "CENTRO": {
+        "unidad": 127,
+        "almacen": 0,
+        "total": 127
+      },
+      "LAGUNA": {
+        "unidad": 81,
+        "almacen": 0,
+        "total": 81
+      },
+      "NORTE": {
+        "unidad": 170,
+        "almacen": 0,
+        "total": 170
+      },
+      "SUR": {
+        "unidad": 94,
+        "almacen": 0,
+        "total": 94
+      }
+    },
+    "unidades": [
+      {
+        "nombre": "Direccion UMF 23",
+        "zona": "CARBONÍFERA",
+        "unidad": 30,
+        "almacen": 0,
+        "total": 30
+      },
+      {
+        "nombre": "Direccion UMF 31",
+        "zona": "CARBONÍFERA",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Direccion UMF 62",
+        "zona": "CARBONÍFERA",
+        "unidad": 9,
+        "almacen": 0,
+        "total": 9
+      },
+      {
+        "nombre": "Farmacia HGSZ-MF 27",
+        "zona": "CARBONÍFERA",
+        "unidad": 17,
+        "almacen": 0,
+        "total": 17
+      },
+      {
+        "nombre": "Direccion UMF 8",
+        "zona": "CENTRO",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Direccion UMF 84",
+        "zona": "CENTRO",
+        "unidad": 30,
+        "almacen": 0,
+        "total": 30
+      },
+      {
+        "nombre": "Direccion UMF 85",
+        "zona": "CENTRO",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Direccion UMF 86",
+        "zona": "CENTRO",
+        "unidad": 30,
+        "almacen": 0,
+        "total": 30
+      },
+      {
+        "nombre": "Direccion UMF 88",
+        "zona": "CENTRO",
+        "unidad": 30,
+        "almacen": 0,
+        "total": 30
+      },
+      {
+        "nombre": "Direccion UMF 9",
+        "zona": "CENTRO",
+        "unidad": 19,
+        "almacen": 0,
+        "total": 19
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 7",
+        "zona": "CENTRO",
+        "unidad": 18,
+        "almacen": 0,
+        "total": 18
+      },
+      {
+        "nombre": "Direccion UMF 15",
+        "zona": "LAGUNA",
+        "unidad": 31,
+        "almacen": 0,
+        "total": 31
+      },
+      {
+        "nombre": "Direccion UMF 80",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Direccion UMF 83",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Farmacia HGSZ-MF 20",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Farmacia HGSZ-MF 21",
+        "zona": "LAGUNA",
+        "unidad": 30,
+        "almacen": 0,
+        "total": 30
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 16",
+        "zona": "LAGUNA",
+        "unidad": 20,
+        "almacen": 0,
+        "total": 20
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 18",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 24",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Farmacia UMF 66",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Farmacia UMF 93",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Direccion UMF 12",
+        "zona": "NORTE",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Direccion UMF 81",
+        "zona": "NORTE",
+        "unidad": 40,
+        "almacen": 0,
+        "total": 40
+      },
+      {
+        "nombre": "Direccion UMF 87",
+        "zona": "NORTE",
+        "unidad": 60,
+        "almacen": 0,
+        "total": 60
+      },
+      {
+        "nombre": "Farmacia HRS Ramos",
+        "zona": "NORTE",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Farmacia HRS San Buenaventura",
+        "zona": "NORTE",
+        "unidad": 45,
+        "almacen": 0,
+        "total": 45
+      },
+      {
+        "nombre": "Farmacia UMF 79",
+        "zona": "NORTE",
+        "unidad": 25,
+        "almacen": 0,
+        "total": 25
+      },
+      {
+        "nombre": "Direccion UMF 3",
+        "zona": "SUR",
+        "unidad": 30,
+        "almacen": 0,
+        "total": 30
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 2",
+        "zona": "SUR",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Farmacia UMAA 89",
+        "zona": "SUR",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Farmacia UMF 73",
+        "zona": "SUR",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Farmacia UMF 82",
+        "zona": "SUR",
+        "unidad": 64,
+        "almacen": 0,
+        "total": 64
+      },
+      {
+        "nombre": "Farmacia UMF 91",
+        "zona": "SUR",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      }
+    ]
+  },
+  "NEUMO 13 V": {
+    "zonas": {
+      "CARBONÍFERA": {
+        "unidad": 157,
+        "almacen": 0,
+        "total": 157
+      },
+      "CENTRO": {
+        "unidad": 190,
+        "almacen": 0,
+        "total": 190
+      },
+      "LAGUNA": {
+        "unidad": 227,
+        "almacen": 0,
+        "total": 227
+      },
+      "NORTE": {
+        "unidad": 152,
+        "almacen": 0,
+        "total": 152
+      },
+      "SUR": {
+        "unidad": 69,
+        "almacen": 0,
+        "total": 69
+      }
+    },
+    "unidades": [
+      {
+        "nombre": "Direccion UMF 14",
+        "zona": "CARBONÍFERA",
+        "unidad": 11,
+        "almacen": 0,
+        "total": 11
+      },
+      {
+        "nombre": "Direccion UMF 23",
+        "zona": "CARBONÍFERA",
+        "unidad": 10,
+        "almacen": 0,
+        "total": 10
+      },
+      {
+        "nombre": "Direccion UMF 28",
+        "zona": "CARBONÍFERA",
+        "unidad": 13,
+        "almacen": 0,
+        "total": 13
+      },
+      {
+        "nombre": "Direccion UMF 29",
+        "zona": "CARBONÍFERA",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Direccion UMF 31",
+        "zona": "CARBONÍFERA",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Direccion UMF 32",
+        "zona": "CARBONÍFERA",
+        "unidad": 32,
+        "almacen": 0,
+        "total": 32
+      },
+      {
+        "nombre": "Direccion UMF 61",
+        "zona": "CARBONÍFERA",
+        "unidad": 28,
+        "almacen": 0,
+        "total": 28
+      },
+      {
+        "nombre": "Direccion UMF 62",
+        "zona": "CARBONÍFERA",
+        "unidad": 53,
+        "almacen": 0,
+        "total": 53
+      },
+      {
+        "nombre": "Farmacia HGSZ-MF 27",
+        "zona": "CARBONÍFERA",
+        "unidad": 10,
+        "almacen": 0,
+        "total": 10
+      },
+      {
+        "nombre": "Direccion UMF 10",
+        "zona": "CENTRO",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Direccion UMF 8",
+        "zona": "CENTRO",
+        "unidad": 5,
+        "almacen": 0,
+        "total": 5
+      },
+      {
+        "nombre": "Direccion UMF 84",
+        "zona": "CENTRO",
+        "unidad": 10,
+        "almacen": 0,
+        "total": 10
+      },
+      {
+        "nombre": "Direccion UMF 85",
+        "zona": "CENTRO",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Direccion UMF 86",
+        "zona": "CENTRO",
+        "unidad": 10,
+        "almacen": 0,
+        "total": 10
+      },
+      {
+        "nombre": "Direccion UMF 88",
+        "zona": "CENTRO",
+        "unidad": 10,
+        "almacen": 0,
+        "total": 10
+      },
+      {
+        "nombre": "Direccion UMF 9",
+        "zona": "CENTRO",
+        "unidad": 155,
+        "almacen": 0,
+        "total": 155
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 7",
+        "zona": "CENTRO",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Direccion UMF 15",
+        "zona": "LAGUNA",
+        "unidad": 61,
+        "almacen": 0,
+        "total": 61
+      },
+      {
+        "nombre": "Direccion UMF 80",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Direccion UMF 83",
+        "zona": "LAGUNA",
+        "unidad": 166,
+        "almacen": 0,
+        "total": 166
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 16",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 18",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 24",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Farmacia UMF 66",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Farmacia UMF 93",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Direccion UMF 12",
+        "zona": "NORTE",
+        "unidad": 15,
+        "almacen": 0,
+        "total": 15
+      },
+      {
+        "nombre": "Direccion UMF 81",
+        "zona": "NORTE",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Direccion UMF 87",
+        "zona": "NORTE",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Farmacia HRS Ramos",
+        "zona": "NORTE",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Farmacia UMF 79",
+        "zona": "NORTE",
+        "unidad": 137,
+        "almacen": 0,
+        "total": 137
+      },
+      {
+        "nombre": "Direccion UMF 3",
+        "zona": "SUR",
+        "unidad": 40,
+        "almacen": 0,
+        "total": 40
+      },
+      {
+        "nombre": "Direccion UMF 4",
+        "zona": "SUR",
+        "unidad": 15,
+        "almacen": 0,
+        "total": 15
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 2",
+        "zona": "SUR",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Farmacia UMAA 89",
+        "zona": "SUR",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Farmacia UMF 73",
+        "zona": "SUR",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Farmacia UMF 82",
+        "zona": "SUR",
+        "unidad": 14,
+        "almacen": 0,
+        "total": 14
+      },
+      {
+        "nombre": "Farmacia UMF 91",
+        "zona": "SUR",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      }
+    ]
+  },
+  "NEUMO 20 V": {
+    "zonas": {
+      "CARBONÍFERA": {
+        "unidad": 720,
+        "almacen": 3360,
+        "total": 4080
+      },
+      "LAGUNA": {
+        "unidad": 600,
+        "almacen": 4800,
+        "total": 5400
+      },
+      "NORTE": {
+        "unidad": 0,
+        "almacen": 480,
+        "total": 480
+      }
+    },
+    "unidades": [
+      {
+        "nombre": "Direccion UMF 23",
+        "zona": "CARBONÍFERA",
+        "unidad": 400,
+        "almacen": 480,
+        "total": 880
+      },
+      {
+        "nombre": "Direccion UMF 25",
+        "zona": "CARBONÍFERA",
+        "unidad": 0,
+        "almacen": 480,
+        "total": 480
+      },
+      {
+        "nombre": "Direccion UMF 28",
+        "zona": "CARBONÍFERA",
+        "unidad": 0,
+        "almacen": 480,
+        "total": 480
+      },
+      {
+        "nombre": "Direccion UMF 29",
+        "zona": "CARBONÍFERA",
+        "unidad": 0,
+        "almacen": 480,
+        "total": 480
+      },
+      {
+        "nombre": "Direccion UMF 31",
+        "zona": "CARBONÍFERA",
+        "unidad": 40,
+        "almacen": 480,
+        "total": 520
+      },
+      {
+        "nombre": "Direccion UMF 32",
+        "zona": "CARBONÍFERA",
+        "unidad": 0,
+        "almacen": 480,
+        "total": 480
+      },
+      {
+        "nombre": "Farmacia HGSZ-MF 27",
+        "zona": "CARBONÍFERA",
+        "unidad": 280,
+        "almacen": 480,
+        "total": 760
+      },
+      {
+        "nombre": "Direccion UMF 26",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 480,
+        "total": 480
+      },
+      {
+        "nombre": "Direccion UMF 80",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 480,
+        "total": 480
+      },
+      {
+        "nombre": "Direccion UMF 83",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 480,
+        "total": 480
+      },
+      {
+        "nombre": "Farmacia HGSZ-MF 20",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 480,
+        "total": 480
+      },
+      {
+        "nombre": "Farmacia HGSZ-MF 21",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 480,
+        "total": 480
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 16",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 480,
+        "total": 480
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 18",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 480,
+        "total": 480
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 24",
+        "zona": "LAGUNA",
+        "unidad": 600,
+        "almacen": 480,
+        "total": 1080
+      },
+      {
+        "nombre": "Farmacia UMF 66",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 480,
+        "total": 480
+      },
+      {
+        "nombre": "Farmacia UMF 93",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 480,
+        "total": 480
+      },
+      {
+        "nombre": "Farmacia HGSZ-MF 6",
+        "zona": "NORTE",
+        "unidad": 0,
+        "almacen": 480,
+        "total": 480
+      }
+    ]
+  },
+  "NEUMO 23 V": {
+    "zonas": {
+      "CARBONÍFERA": {
+        "unidad": 86,
+        "almacen": 0,
+        "total": 86
+      },
+      "CENTRO": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "LAGUNA": {
+        "unidad": 180,
+        "almacen": 0,
+        "total": 180
+      },
+      "NORTE": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "SUR": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      }
+    },
+    "unidades": [
+      {
+        "nombre": "Direccion UMF 28",
+        "zona": "CARBONÍFERA",
+        "unidad": 24,
+        "almacen": 0,
+        "total": 24
+      },
+      {
+        "nombre": "Direccion UMF 32",
+        "zona": "CARBONÍFERA",
+        "unidad": 27,
+        "almacen": 0,
+        "total": 27
+      },
+      {
+        "nombre": "Direccion UMF 61",
+        "zona": "CARBONÍFERA",
+        "unidad": 15,
+        "almacen": 0,
+        "total": 15
+      },
+      {
+        "nombre": "Direccion UMF 62",
+        "zona": "CARBONÍFERA",
+        "unidad": 20,
+        "almacen": 0,
+        "total": 20
+      },
+      {
+        "nombre": "Direccion UMF 88",
+        "zona": "CENTRO",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Direccion UMF 15",
+        "zona": "LAGUNA",
+        "unidad": 180,
+        "almacen": 0,
+        "total": 180
+      },
+      {
+        "nombre": "Direccion UMF 83",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 16",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 18",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 24",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Farmacia UMF 93",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Direccion UMF 12",
+        "zona": "NORTE",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Farmacia UMAA 89",
+        "zona": "SUR",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Farmacia UMF 73",
+        "zona": "SUR",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Farmacia UMF 82",
+        "zona": "SUR",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Farmacia UMF 91",
+        "zona": "SUR",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      }
+    ]
+  },
+  "ROTAVIRUS": {
+    "zonas": {
+      "CARBONÍFERA": {
+        "unidad": 132,
+        "almacen": 0,
+        "total": 132
+      },
+      "CENTRO": {
+        "unidad": 92,
+        "almacen": 0,
+        "total": 92
+      },
+      "LAGUNA": {
+        "unidad": 16,
+        "almacen": 0,
+        "total": 16
+      },
+      "NORTE": {
+        "unidad": 26,
+        "almacen": 0,
+        "total": 26
+      },
+      "SUR": {
+        "unidad": 63,
+        "almacen": 0,
+        "total": 63
+      }
+    },
+    "unidades": [
+      {
+        "nombre": "Direccion UMF 14",
+        "zona": "CARBONÍFERA",
+        "unidad": 1,
+        "almacen": 0,
+        "total": 1
+      },
+      {
+        "nombre": "Direccion UMF 23",
+        "zona": "CARBONÍFERA",
+        "unidad": 16,
+        "almacen": 0,
+        "total": 16
+      },
+      {
+        "nombre": "Direccion UMF 28",
+        "zona": "CARBONÍFERA",
+        "unidad": 6,
+        "almacen": 0,
+        "total": 6
+      },
+      {
+        "nombre": "Direccion UMF 31",
+        "zona": "CARBONÍFERA",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Direccion UMF 32",
+        "zona": "CARBONÍFERA",
+        "unidad": 36,
+        "almacen": 0,
+        "total": 36
+      },
+      {
+        "nombre": "Direccion UMF 61",
+        "zona": "CARBONÍFERA",
+        "unidad": 6,
+        "almacen": 0,
+        "total": 6
+      },
+      {
+        "nombre": "Direccion UMF 62",
+        "zona": "CARBONÍFERA",
+        "unidad": 39,
+        "almacen": 0,
+        "total": 39
+      },
+      {
+        "nombre": "Direccion UMF 64",
+        "zona": "CARBONÍFERA",
+        "unidad": 25,
+        "almacen": 0,
+        "total": 25
+      },
+      {
+        "nombre": "Farmacia HGSZ-MF 27",
+        "zona": "CARBONÍFERA",
+        "unidad": 3,
+        "almacen": 0,
+        "total": 3
+      },
+      {
+        "nombre": "Direccion UMF 10",
+        "zona": "CENTRO",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Direccion UMF 8",
+        "zona": "CENTRO",
+        "unidad": 7,
+        "almacen": 0,
+        "total": 7
+      },
+      {
+        "nombre": "Direccion UMF 84",
+        "zona": "CENTRO",
+        "unidad": 6,
+        "almacen": 0,
+        "total": 6
+      },
+      {
+        "nombre": "Direccion UMF 85",
+        "zona": "CENTRO",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Direccion UMF 86",
+        "zona": "CENTRO",
+        "unidad": 6,
+        "almacen": 0,
+        "total": 6
+      },
+      {
+        "nombre": "Direccion UMF 88",
+        "zona": "CENTRO",
+        "unidad": 38,
+        "almacen": 0,
+        "total": 38
+      },
+      {
+        "nombre": "Direccion UMF 9",
+        "zona": "CENTRO",
+        "unidad": 25,
+        "almacen": 0,
+        "total": 25
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 7",
+        "zona": "CENTRO",
+        "unidad": 10,
+        "almacen": 0,
+        "total": 10
+      },
+      {
+        "nombre": "Direccion UMF 15",
+        "zona": "LAGUNA",
+        "unidad": 4,
+        "almacen": 0,
+        "total": 4
+      },
+      {
+        "nombre": "Direccion UMF 80",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Direccion UMF 83",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Farmacia HGSZ-MF 20",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Farmacia HGSZ-MF 21",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 16",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 18",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 24",
+        "zona": "LAGUNA",
+        "unidad": 11,
+        "almacen": 0,
+        "total": 11
+      },
+      {
+        "nombre": "Farmacia UMF 66",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Farmacia UMF 93",
+        "zona": "LAGUNA",
+        "unidad": 1,
+        "almacen": 0,
+        "total": 1
+      },
+      {
+        "nombre": "Direccion UMF 12",
+        "zona": "NORTE",
+        "unidad": 8,
+        "almacen": 0,
+        "total": 8
+      },
+      {
+        "nombre": "Direccion UMF 81",
+        "zona": "NORTE",
+        "unidad": 6,
+        "almacen": 0,
+        "total": 6
+      },
+      {
+        "nombre": "Direccion UMF 87",
+        "zona": "NORTE",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Farmacia HGSZ-MF 6",
+        "zona": "NORTE",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Farmacia HRS Ramos",
+        "zona": "NORTE",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Farmacia UMF 79",
+        "zona": "NORTE",
+        "unidad": 12,
+        "almacen": 0,
+        "total": 12
+      },
+      {
+        "nombre": "Direccion UMF 3",
+        "zona": "SUR",
+        "unidad": 8,
+        "almacen": 0,
+        "total": 8
+      },
+      {
+        "nombre": "Direccion UMF 4",
+        "zona": "SUR",
+        "unidad": 2,
+        "almacen": 0,
+        "total": 2
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 2",
+        "zona": "SUR",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Farmacia UMAA 89",
+        "zona": "SUR",
+        "unidad": 12,
+        "almacen": 0,
+        "total": 12
+      },
+      {
+        "nombre": "Farmacia UMF 73",
+        "zona": "SUR",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Farmacia UMF 82",
+        "zona": "SUR",
+        "unidad": 30,
+        "almacen": 0,
+        "total": 30
+      },
+      {
+        "nombre": "Farmacia UMF 91",
+        "zona": "SUR",
+        "unidad": 11,
+        "almacen": 0,
+        "total": 11
+      }
+    ]
+  },
+  "TD": {
+    "zonas": {
+      "CARBONÍFERA": {
+        "unidad": 159,
+        "almacen": 0,
+        "total": 159
+      },
+      "CENTRO": {
+        "unidad": 173,
+        "almacen": 0,
+        "total": 173
+      },
+      "LAGUNA": {
+        "unidad": 418,
+        "almacen": 0,
+        "total": 418
+      },
+      "NORTE": {
+        "unidad": 151,
+        "almacen": 0,
+        "total": 151
+      },
+      "SUR": {
+        "unidad": 902,
+        "almacen": 0,
+        "total": 902
+      }
+    },
+    "unidades": [
+      {
+        "nombre": "Direccion UMF 28",
+        "zona": "CARBONÍFERA",
+        "unidad": 38,
+        "almacen": 0,
+        "total": 38
+      },
+      {
+        "nombre": "Direccion UMF 29",
+        "zona": "CARBONÍFERA",
+        "unidad": 10,
+        "almacen": 0,
+        "total": 10
+      },
+      {
+        "nombre": "Direccion UMF 31",
+        "zona": "CARBONÍFERA",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Direccion UMF 32",
+        "zona": "CARBONÍFERA",
+        "unidad": 35,
+        "almacen": 0,
+        "total": 35
+      },
+      {
+        "nombre": "Direccion UMF 61",
+        "zona": "CARBONÍFERA",
+        "unidad": 10,
+        "almacen": 0,
+        "total": 10
+      },
+      {
+        "nombre": "Direccion UMF 62",
+        "zona": "CARBONÍFERA",
+        "unidad": 60,
+        "almacen": 0,
+        "total": 60
+      },
+      {
+        "nombre": "Direccion UMF 64",
+        "zona": "CARBONÍFERA",
+        "unidad": 6,
+        "almacen": 0,
+        "total": 6
+      },
+      {
+        "nombre": "Farmacia HGSZ-MF 13",
+        "zona": "CARBONÍFERA",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Direccion UMF 50",
+        "zona": "CENTRO",
+        "unidad": 3,
+        "almacen": 0,
+        "total": 3
+      },
+      {
+        "nombre": "Direccion UMF 84",
+        "zona": "CENTRO",
+        "unidad": 130,
+        "almacen": 0,
+        "total": 130
+      },
+      {
+        "nombre": "Direccion UMF 88",
+        "zona": "CENTRO",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Direccion UMF 9",
+        "zona": "CENTRO",
+        "unidad": 40,
+        "almacen": 0,
+        "total": 40
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 7",
+        "zona": "CENTRO",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Direccion UMF 15",
+        "zona": "LAGUNA",
+        "unidad": 9,
+        "almacen": 0,
+        "total": 9
+      },
+      {
+        "nombre": "Direccion UMF 80",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Direccion UMF 83",
+        "zona": "LAGUNA",
+        "unidad": 409,
+        "almacen": 0,
+        "total": 409
+      },
+      {
+        "nombre": "Farmacia HGZ 11",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 16",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 18",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 24",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Farmacia UMF 93",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Direccion UMF 12",
+        "zona": "NORTE",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Farmacia HRS Ramos",
+        "zona": "NORTE",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Farmacia UMF 79",
+        "zona": "NORTE",
+        "unidad": 151,
+        "almacen": 0,
+        "total": 151
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 2",
+        "zona": "SUR",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Farmacia UMAA 89",
+        "zona": "SUR",
+        "unidad": 93,
+        "almacen": 0,
+        "total": 93
+      },
+      {
+        "nombre": "Farmacia UMF 73",
+        "zona": "SUR",
+        "unidad": 397,
+        "almacen": 0,
+        "total": 397
+      },
+      {
+        "nombre": "Farmacia UMF 82",
+        "zona": "SUR",
+        "unidad": 402,
+        "almacen": 0,
+        "total": 402
+      },
+      {
+        "nombre": "Farmacia UMF 91",
+        "zona": "SUR",
+        "unidad": 10,
+        "almacen": 0,
+        "total": 10
+      }
+    ]
+  },
+  "TDPA": {
+    "zonas": {
+      "CARBONÍFERA": {
+        "unidad": 519,
+        "almacen": 12584,
+        "total": 13103
+      },
+      "CENTRO": {
+        "unidad": 783,
+        "almacen": 9152,
+        "total": 9935
+      },
+      "LAGUNA": {
+        "unidad": 1917,
+        "almacen": 13728,
+        "total": 15645
+      },
+      "NORTE": {
+        "unidad": 1549,
+        "almacen": 6864,
+        "total": 8413
+      },
+      "SUR": {
+        "unidad": 3626,
+        "almacen": 8008,
+        "total": 11634
+      }
+    },
+    "unidades": [
+      {
+        "nombre": "Direccion UMF 14",
+        "zona": "CARBONÍFERA",
+        "unidad": 8,
+        "almacen": 1144,
+        "total": 1152
+      },
+      {
+        "nombre": "Direccion UMF 23",
+        "zona": "CARBONÍFERA",
+        "unidad": 220,
+        "almacen": 1144,
+        "total": 1364
+      },
+      {
+        "nombre": "Direccion UMF 25",
+        "zona": "CARBONÍFERA",
+        "unidad": 0,
+        "almacen": 1144,
+        "total": 1144
+      },
+      {
+        "nombre": "Direccion UMF 28",
+        "zona": "CARBONÍFERA",
+        "unidad": 31,
+        "almacen": 1144,
+        "total": 1175
+      },
+      {
+        "nombre": "Direccion UMF 29",
+        "zona": "CARBONÍFERA",
+        "unidad": 0,
+        "almacen": 1144,
+        "total": 1144
+      },
+      {
+        "nombre": "Direccion UMF 31",
+        "zona": "CARBONÍFERA",
+        "unidad": 5,
+        "almacen": 1144,
+        "total": 1149
+      },
+      {
+        "nombre": "Direccion UMF 32",
+        "zona": "CARBONÍFERA",
+        "unidad": 4,
+        "almacen": 1144,
+        "total": 1148
+      },
+      {
+        "nombre": "Direccion UMF 61",
+        "zona": "CARBONÍFERA",
+        "unidad": 32,
+        "almacen": 1144,
+        "total": 1176
+      },
+      {
+        "nombre": "Direccion UMF 62",
+        "zona": "CARBONÍFERA",
+        "unidad": 24,
+        "almacen": 1144,
+        "total": 1168
+      },
+      {
+        "nombre": "Direccion UMF 64",
+        "zona": "CARBONÍFERA",
+        "unidad": 12,
+        "almacen": 1144,
+        "total": 1156
+      },
+      {
+        "nombre": "Farmacia HGSZ-MF 27",
+        "zona": "CARBONÍFERA",
+        "unidad": 183,
+        "almacen": 1144,
+        "total": 1327
+      },
+      {
+        "nombre": "Direccion UMF 10",
+        "zona": "CENTRO",
+        "unidad": 0,
+        "almacen": 1144,
+        "total": 1144
+      },
+      {
+        "nombre": "Direccion UMF 8",
+        "zona": "CENTRO",
+        "unidad": 173,
+        "almacen": 1144,
+        "total": 1317
+      },
+      {
+        "nombre": "Direccion UMF 84",
+        "zona": "CENTRO",
+        "unidad": 83,
+        "almacen": 1144,
+        "total": 1227
+      },
+      {
+        "nombre": "Direccion UMF 85",
+        "zona": "CENTRO",
+        "unidad": 0,
+        "almacen": 1144,
+        "total": 1144
+      },
+      {
+        "nombre": "Direccion UMF 86",
+        "zona": "CENTRO",
+        "unidad": 120,
+        "almacen": 1144,
+        "total": 1264
+      },
+      {
+        "nombre": "Direccion UMF 88",
+        "zona": "CENTRO",
+        "unidad": 107,
+        "almacen": 1144,
+        "total": 1251
+      },
+      {
+        "nombre": "Direccion UMF 9",
+        "zona": "CENTRO",
+        "unidad": 150,
+        "almacen": 1144,
+        "total": 1294
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 7",
+        "zona": "CENTRO",
+        "unidad": 150,
+        "almacen": 1144,
+        "total": 1294
+      },
+      {
+        "nombre": "Direccion UMF 15",
+        "zona": "LAGUNA",
+        "unidad": 31,
+        "almacen": 1144,
+        "total": 1175
+      },
+      {
+        "nombre": "Direccion UMF 26",
+        "zona": "LAGUNA",
+        "unidad": 5,
+        "almacen": 1144,
+        "total": 1149
+      },
+      {
+        "nombre": "Direccion UMF 80",
+        "zona": "LAGUNA",
+        "unidad": 314,
+        "almacen": 1144,
+        "total": 1458
+      },
+      {
+        "nombre": "Direccion UMF 83",
+        "zona": "LAGUNA",
+        "unidad": 478,
+        "almacen": 1144,
+        "total": 1622
+      },
+      {
+        "nombre": "Farmacia HGSZ-MF 20",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 1144,
+        "total": 1144
+      },
+      {
+        "nombre": "Farmacia HGSZ-MF 21",
+        "zona": "LAGUNA",
+        "unidad": 200,
+        "almacen": 1144,
+        "total": 1344
+      },
+      {
+        "nombre": "Farmacia HGZ 11",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 1144,
+        "total": 1144
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 16",
+        "zona": "LAGUNA",
+        "unidad": 589,
+        "almacen": 1144,
+        "total": 1733
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 18",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 1144,
+        "total": 1144
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 24",
+        "zona": "LAGUNA",
+        "unidad": 28,
+        "almacen": 1144,
+        "total": 1172
+      },
+      {
+        "nombre": "Farmacia UMF 66",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 1144,
+        "total": 1144
+      },
+      {
+        "nombre": "Farmacia UMF 93",
+        "zona": "LAGUNA",
+        "unidad": 272,
+        "almacen": 1144,
+        "total": 1416
+      },
+      {
+        "nombre": "Direccion UMF 12",
+        "zona": "NORTE",
+        "unidad": 145,
+        "almacen": 1144,
+        "total": 1289
+      },
+      {
+        "nombre": "Direccion UMF 81",
+        "zona": "NORTE",
+        "unidad": 921,
+        "almacen": 1144,
+        "total": 2065
+      },
+      {
+        "nombre": "Direccion UMF 87",
+        "zona": "NORTE",
+        "unidad": 0,
+        "almacen": 1144,
+        "total": 1144
+      },
+      {
+        "nombre": "Farmacia HGSZ-MF 6",
+        "zona": "NORTE",
+        "unidad": 0,
+        "almacen": 1144,
+        "total": 1144
+      },
+      {
+        "nombre": "Farmacia HRS Ramos",
+        "zona": "NORTE",
+        "unidad": 0,
+        "almacen": 1144,
+        "total": 1144
+      },
+      {
+        "nombre": "Farmacia UMF 79",
+        "zona": "NORTE",
+        "unidad": 483,
+        "almacen": 1144,
+        "total": 1627
+      },
+      {
+        "nombre": "Direccion UMF 3",
+        "zona": "SUR",
+        "unidad": 50,
+        "almacen": 1144,
+        "total": 1194
+      },
+      {
+        "nombre": "Direccion UMF 4",
+        "zona": "SUR",
+        "unidad": 10,
+        "almacen": 1144,
+        "total": 1154
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 2",
+        "zona": "SUR",
+        "unidad": 0,
+        "almacen": 1144,
+        "total": 1144
+      },
+      {
+        "nombre": "Farmacia UMAA 89",
+        "zona": "SUR",
+        "unidad": 168,
+        "almacen": 1144,
+        "total": 1312
+      },
+      {
+        "nombre": "Farmacia UMF 73",
+        "zona": "SUR",
+        "unidad": 1881,
+        "almacen": 1144,
+        "total": 3025
+      },
+      {
+        "nombre": "Farmacia UMF 82",
+        "zona": "SUR",
+        "unidad": 1507,
+        "almacen": 1144,
+        "total": 2651
+      },
+      {
+        "nombre": "Farmacia UMF 91",
+        "zona": "SUR",
+        "unidad": 10,
+        "almacen": 1144,
+        "total": 1154
+      }
+    ]
+  },
+  "TRIPLE VIRAL (S...)": {
+    "zonas": {
+      "CARBONÍFERA": {
+        "unidad": 6639,
+        "almacen": 75075,
+        "total": 81714
+      },
+      "CENTRO": {
+        "unidad": 8583,
+        "almacen": 68250,
+        "total": 76833
+      },
+      "LAGUNA": {
+        "unidad": 25300,
+        "almacen": 81900,
+        "total": 107200
+      },
+      "NORTE": {
+        "unidad": 3450,
+        "almacen": 40950,
+        "total": 44400
+      },
+      "SUR": {
+        "unidad": 9444,
+        "almacen": 68250,
+        "total": 77694
+      }
+    },
+    "unidades": [
+      {
+        "nombre": "Direccion UMF 14",
+        "zona": "CARBONÍFERA",
+        "unidad": 169,
+        "almacen": 6825,
+        "total": 6994
+      },
+      {
+        "nombre": "Direccion UMF 23",
+        "zona": "CARBONÍFERA",
+        "unidad": 1300,
+        "almacen": 6825,
+        "total": 8125
+      },
+      {
+        "nombre": "Direccion UMF 25",
+        "zona": "CARBONÍFERA",
+        "unidad": 0,
+        "almacen": 6825,
+        "total": 6825
+      },
+      {
+        "nombre": "Direccion UMF 28",
+        "zona": "CARBONÍFERA",
+        "unidad": 34,
+        "almacen": 6825,
+        "total": 6859
+      },
+      {
+        "nombre": "Direccion UMF 29",
+        "zona": "CARBONÍFERA",
+        "unidad": 0,
+        "almacen": 6825,
+        "total": 6825
+      },
+      {
+        "nombre": "Direccion UMF 31",
+        "zona": "CARBONÍFERA",
+        "unidad": 300,
+        "almacen": 6825,
+        "total": 7125
+      },
+      {
+        "nombre": "Direccion UMF 32",
+        "zona": "CARBONÍFERA",
+        "unidad": 39,
+        "almacen": 6825,
+        "total": 6864
+      },
+      {
+        "nombre": "Direccion UMF 61",
+        "zona": "CARBONÍFERA",
+        "unidad": 102,
+        "almacen": 6825,
+        "total": 6927
+      },
+      {
+        "nombre": "Direccion UMF 62",
+        "zona": "CARBONÍFERA",
+        "unidad": 580,
+        "almacen": 6825,
+        "total": 7405
+      },
+      {
+        "nombre": "Direccion UMF 64",
+        "zona": "CARBONÍFERA",
+        "unidad": 25,
+        "almacen": 6825,
+        "total": 6850
+      },
+      {
+        "nombre": "Farmacia HGSZ-MF 27",
+        "zona": "CARBONÍFERA",
+        "unidad": 4090,
+        "almacen": 6825,
+        "total": 10915
+      },
+      {
+        "nombre": "Direccion UMF 10",
+        "zona": "CENTRO",
+        "unidad": 0,
+        "almacen": 6825,
+        "total": 6825
+      },
+      {
+        "nombre": "Direccion UMF 50",
+        "zona": "CENTRO",
+        "unidad": 93,
+        "almacen": 6825,
+        "total": 6918
+      },
+      {
+        "nombre": "Direccion UMF 74",
+        "zona": "CENTRO",
+        "unidad": 0,
+        "almacen": 6825,
+        "total": 6825
+      },
+      {
+        "nombre": "Direccion UMF 8",
+        "zona": "CENTRO",
+        "unidad": 200,
+        "almacen": 6825,
+        "total": 7025
+      },
+      {
+        "nombre": "Direccion UMF 84",
+        "zona": "CENTRO",
+        "unidad": 530,
+        "almacen": 6825,
+        "total": 7355
+      },
+      {
+        "nombre": "Direccion UMF 85",
+        "zona": "CENTRO",
+        "unidad": 0,
+        "almacen": 6825,
+        "total": 6825
+      },
+      {
+        "nombre": "Direccion UMF 86",
+        "zona": "CENTRO",
+        "unidad": 150,
+        "almacen": 6825,
+        "total": 6975
+      },
+      {
+        "nombre": "Direccion UMF 88",
+        "zona": "CENTRO",
+        "unidad": 400,
+        "almacen": 6825,
+        "total": 7225
+      },
+      {
+        "nombre": "Direccion UMF 9",
+        "zona": "CENTRO",
+        "unidad": 1105,
+        "almacen": 6825,
+        "total": 7930
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 7",
+        "zona": "CENTRO",
+        "unidad": 6105,
+        "almacen": 6825,
+        "total": 12930
+      },
+      {
+        "nombre": "Direccion UMF 15",
+        "zona": "LAGUNA",
+        "unidad": 200,
+        "almacen": 6825,
+        "total": 7025
+      },
+      {
+        "nombre": "Direccion UMF 26",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 6825,
+        "total": 6825
+      },
+      {
+        "nombre": "Direccion UMF 80",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 6825,
+        "total": 6825
+      },
+      {
+        "nombre": "Direccion UMF 83",
+        "zona": "LAGUNA",
+        "unidad": 500,
+        "almacen": 6825,
+        "total": 7325
+      },
+      {
+        "nombre": "Farmacia HGSZ-MF 20",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 6825,
+        "total": 6825
+      },
+      {
+        "nombre": "Farmacia HGSZ-MF 21",
+        "zona": "LAGUNA",
+        "unidad": 4700,
+        "almacen": 6825,
+        "total": 11525
+      },
+      {
+        "nombre": "Farmacia HGZ 11",
+        "zona": "LAGUNA",
+        "unidad": 4100,
+        "almacen": 6825,
+        "total": 10925
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 16",
+        "zona": "LAGUNA",
+        "unidad": 5900,
+        "almacen": 6825,
+        "total": 12725
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 18",
+        "zona": "LAGUNA",
+        "unidad": 4800,
+        "almacen": 6825,
+        "total": 11625
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 24",
+        "zona": "LAGUNA",
+        "unidad": 5100,
+        "almacen": 6825,
+        "total": 11925
+      },
+      {
+        "nombre": "Farmacia UMF 66",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 6825,
+        "total": 6825
+      },
+      {
+        "nombre": "Farmacia UMF 93",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 6825,
+        "total": 6825
+      },
+      {
+        "nombre": "Direccion UMF 12",
+        "zona": "NORTE",
+        "unidad": 200,
+        "almacen": 6825,
+        "total": 7025
+      },
+      {
+        "nombre": "Direccion UMF 81",
+        "zona": "NORTE",
+        "unidad": 1350,
+        "almacen": 6825,
+        "total": 8175
+      },
+      {
+        "nombre": "Direccion UMF 87",
+        "zona": "NORTE",
+        "unidad": 550,
+        "almacen": 6825,
+        "total": 7375
+      },
+      {
+        "nombre": "Farmacia HGSZ-MF 6",
+        "zona": "NORTE",
+        "unidad": 0,
+        "almacen": 6825,
+        "total": 6825
+      },
+      {
+        "nombre": "Farmacia HRS Ramos",
+        "zona": "NORTE",
+        "unidad": 0,
+        "almacen": 6825,
+        "total": 6825
+      },
+      {
+        "nombre": "Farmacia UMF 79",
+        "zona": "NORTE",
+        "unidad": 1350,
+        "almacen": 6825,
+        "total": 8175
+      },
+      {
+        "nombre": "Direccion UMF 3",
+        "zona": "SUR",
+        "unidad": 1200,
+        "almacen": 6825,
+        "total": 8025
+      },
+      {
+        "nombre": "Direccion UMF 4",
+        "zona": "SUR",
+        "unidad": 221,
+        "almacen": 6825,
+        "total": 7046
+      },
+      {
+        "nombre": "Direccion UMF 60",
+        "zona": "SUR",
+        "unidad": 0,
+        "almacen": 6825,
+        "total": 6825
+      },
+      {
+        "nombre": "Direccion UMF 70",
+        "zona": "SUR",
+        "unidad": 1070,
+        "almacen": 6825,
+        "total": 7895
+      },
+      {
+        "nombre": "Direccion UMR-EM 52",
+        "zona": "SUR",
+        "unidad": 3,
+        "almacen": 6825,
+        "total": 6828
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 2",
+        "zona": "SUR",
+        "unidad": 6000,
+        "almacen": 6825,
+        "total": 12825
+      },
+      {
+        "nombre": "Farmacia UMAA 89",
+        "zona": "SUR",
+        "unidad": 400,
+        "almacen": 6825,
+        "total": 7225
+      },
+      {
+        "nombre": "Farmacia UMF 73",
+        "zona": "SUR",
+        "unidad": 0,
+        "almacen": 6825,
+        "total": 6825
+      },
+      {
+        "nombre": "Farmacia UMF 82",
+        "zona": "SUR",
+        "unidad": 0,
+        "almacen": 6825,
+        "total": 6825
+      },
+      {
+        "nombre": "Farmacia UMF 91",
+        "zona": "SUR",
+        "unidad": 550,
+        "almacen": 6825,
+        "total": 7375
+      }
+    ]
+  },
+  "VACUNA ANTIR...": {
+    "zonas": {
+      "CARBONÍFERA": {
+        "unidad": 20,
+        "almacen": 10,
+        "total": 30
+      },
+      "CENTRO": {
+        "unidad": 46,
+        "almacen": 16,
+        "total": 62
+      },
+      "LAGUNA": {
+        "unidad": 46,
+        "almacen": 18,
+        "total": 64
+      },
+      "NORTE": {
+        "unidad": 16,
+        "almacen": 8,
+        "total": 24
+      },
+      "SUR": {
+        "unidad": 23,
+        "almacen": 12,
+        "total": 35
+      }
+    },
+    "unidades": [
+      {
+        "nombre": "Direccion UMF 14",
+        "zona": "CARBONÍFERA",
+        "unidad": 2,
+        "almacen": 2,
+        "total": 4
+      },
+      {
+        "nombre": "Direccion UMF 23",
+        "zona": "CARBONÍFERA",
+        "unidad": 3,
+        "almacen": 2,
+        "total": 5
+      },
+      {
+        "nombre": "Direccion UMF 28",
+        "zona": "CARBONÍFERA",
+        "unidad": 12,
+        "almacen": 2,
+        "total": 14
+      },
+      {
+        "nombre": "Direccion UMF 31",
+        "zona": "CARBONÍFERA",
+        "unidad": 0,
+        "almacen": 2,
+        "total": 2
+      },
+      {
+        "nombre": "Farmacia HGSZ-MF 27",
+        "zona": "CARBONÍFERA",
+        "unidad": 3,
+        "almacen": 2,
+        "total": 5
+      },
+      {
+        "nombre": "Direccion UMF 10",
+        "zona": "CENTRO",
+        "unidad": 0,
+        "almacen": 2,
+        "total": 2
+      },
+      {
+        "nombre": "Direccion UMF 8",
+        "zona": "CENTRO",
+        "unidad": 2,
+        "almacen": 2,
+        "total": 4
+      },
+      {
+        "nombre": "Direccion UMF 84",
+        "zona": "CENTRO",
+        "unidad": 23,
+        "almacen": 2,
+        "total": 25
+      },
+      {
+        "nombre": "Direccion UMF 85",
+        "zona": "CENTRO",
+        "unidad": 0,
+        "almacen": 2,
+        "total": 2
+      },
+      {
+        "nombre": "Direccion UMF 86",
+        "zona": "CENTRO",
+        "unidad": 6,
+        "almacen": 2,
+        "total": 8
+      },
+      {
+        "nombre": "Direccion UMF 88",
+        "zona": "CENTRO",
+        "unidad": 2,
+        "almacen": 2,
+        "total": 4
+      },
+      {
+        "nombre": "Direccion UMF 9",
+        "zona": "CENTRO",
+        "unidad": 3,
+        "almacen": 2,
+        "total": 5
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 7",
+        "zona": "CENTRO",
+        "unidad": 10,
+        "almacen": 2,
+        "total": 12
+      },
+      {
+        "nombre": "Direccion UMF 15",
+        "zona": "LAGUNA",
+        "unidad": 15,
+        "almacen": 2,
+        "total": 17
+      },
+      {
+        "nombre": "Direccion UMF 80",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 2,
+        "total": 2
+      },
+      {
+        "nombre": "Direccion UMF 83",
+        "zona": "LAGUNA",
+        "unidad": 22,
+        "almacen": 2,
+        "total": 24
+      },
+      {
+        "nombre": "Farmacia HGZ 11",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 2,
+        "total": 2
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 16",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 2,
+        "total": 2
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 18",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 2,
+        "total": 2
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 24",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 2,
+        "total": 2
+      },
+      {
+        "nombre": "Farmacia UMF 66",
+        "zona": "LAGUNA",
+        "unidad": 3,
+        "almacen": 2,
+        "total": 5
+      },
+      {
+        "nombre": "Farmacia UMF 93",
+        "zona": "LAGUNA",
+        "unidad": 6,
+        "almacen": 2,
+        "total": 8
+      },
+      {
+        "nombre": "Direccion UMF 12",
+        "zona": "NORTE",
+        "unidad": 16,
+        "almacen": 2,
+        "total": 18
+      },
+      {
+        "nombre": "Direccion UMF 87",
+        "zona": "NORTE",
+        "unidad": 0,
+        "almacen": 2,
+        "total": 2
+      },
+      {
+        "nombre": "Farmacia HRS Ramos",
+        "zona": "NORTE",
+        "unidad": 0,
+        "almacen": 2,
+        "total": 2
+      },
+      {
+        "nombre": "Farmacia UMF 79",
+        "zona": "NORTE",
+        "unidad": 0,
+        "almacen": 2,
+        "total": 2
+      },
+      {
+        "nombre": "Direccion UMF 3",
+        "zona": "SUR",
+        "unidad": 2,
+        "almacen": 2,
+        "total": 4
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 2",
+        "zona": "SUR",
+        "unidad": 0,
+        "almacen": 2,
+        "total": 2
+      },
+      {
+        "nombre": "Farmacia UMAA 89",
+        "zona": "SUR",
+        "unidad": 0,
+        "almacen": 2,
+        "total": 2
+      },
+      {
+        "nombre": "Farmacia UMF 73",
+        "zona": "SUR",
+        "unidad": 0,
+        "almacen": 2,
+        "total": 2
+      },
+      {
+        "nombre": "Farmacia UMF 82",
+        "zona": "SUR",
+        "unidad": 21,
+        "almacen": 2,
+        "total": 23
+      },
+      {
+        "nombre": "Farmacia UMF 91",
+        "zona": "SUR",
+        "unidad": 0,
+        "almacen": 2,
+        "total": 2
+      }
+    ]
+  },
+  "VARICELA": {
+    "zonas": {
+      "CARBONÍFERA": {
+        "unidad": 25,
+        "almacen": 0,
+        "total": 25
+      },
+      "CENTRO": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "LAGUNA": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "SUR": {
+        "unidad": 159,
+        "almacen": 0,
+        "total": 159
+      }
+    },
+    "unidades": [
+      {
+        "nombre": "Direccion UMF 62",
+        "zona": "CARBONÍFERA",
+        "unidad": 20,
+        "almacen": 0,
+        "total": 20
+      },
+      {
+        "nombre": "Direccion UMF 64",
+        "zona": "CARBONÍFERA",
+        "unidad": 5,
+        "almacen": 0,
+        "total": 5
+      },
+      {
+        "nombre": "Direccion UMF 88",
+        "zona": "CENTRO",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Direccion UMF 83",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 16",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 18",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 2",
+        "zona": "SUR",
+        "unidad": 159,
+        "almacen": 0,
+        "total": 159
+      },
+      {
+        "nombre": "Farmacia UMF 73",
+        "zona": "SUR",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Farmacia UMF 82",
+        "zona": "SUR",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Farmacia UMF 91",
+        "zona": "SUR",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      }
+    ]
+  },
+  "VHP 9 V": {
+    "zonas": {
+      "CARBONÍFERA": {
+        "unidad": 6,
+        "almacen": 17,
+        "total": 23
+      },
+      "CENTRO": {
+        "unidad": 67,
+        "almacen": 51,
+        "total": 118
+      },
+      "LAGUNA": {
+        "unidad": 130,
+        "almacen": 102,
+        "total": 232
+      },
+      "NORTE": {
+        "unidad": 0,
+        "almacen": 51,
+        "total": 51
+      },
+      "SUR": {
+        "unidad": 396,
+        "almacen": 85,
+        "total": 481
+      }
+    },
+    "unidades": [
+      {
+        "nombre": "Direccion UMF 28",
+        "zona": "CARBONÍFERA",
+        "unidad": 1,
+        "almacen": 0,
+        "total": 1
+      },
+      {
+        "nombre": "Direccion UMF 31",
+        "zona": "CARBONÍFERA",
+        "unidad": 0,
+        "almacen": 17,
+        "total": 17
+      },
+      {
+        "nombre": "Direccion UMF 61",
+        "zona": "CARBONÍFERA",
+        "unidad": 5,
+        "almacen": 0,
+        "total": 5
+      },
+      {
+        "nombre": "Direccion UMF 84",
+        "zona": "CENTRO",
+        "unidad": 14,
+        "almacen": 17,
+        "total": 31
+      },
+      {
+        "nombre": "Direccion UMF 85",
+        "zona": "CENTRO",
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      {
+        "nombre": "Direccion UMF 88",
+        "zona": "CENTRO",
+        "unidad": 38,
+        "almacen": 17,
+        "total": 55
+      },
+      {
+        "nombre": "Direccion UMF 9",
+        "zona": "CENTRO",
+        "unidad": 15,
+        "almacen": 17,
+        "total": 32
+      },
+      {
+        "nombre": "Direccion UMF 15",
+        "zona": "LAGUNA",
+        "unidad": 7,
+        "almacen": 17,
+        "total": 24
+      },
+      {
+        "nombre": "Direccion UMF 80",
+        "zona": "LAGUNA",
+        "unidad": 1,
+        "almacen": 17,
+        "total": 18
+      },
+      {
+        "nombre": "Direccion UMF 83",
+        "zona": "LAGUNA",
+        "unidad": 25,
+        "almacen": 17,
+        "total": 42
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 16",
+        "zona": "LAGUNA",
+        "unidad": 73,
+        "almacen": 17,
+        "total": 90
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 18",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 17,
+        "total": 17
+      },
+      {
+        "nombre": "Farmacia UMF 93",
+        "zona": "LAGUNA",
+        "unidad": 24,
+        "almacen": 17,
+        "total": 41
+      },
+      {
+        "nombre": "Direccion UMF 12",
+        "zona": "NORTE",
+        "unidad": 0,
+        "almacen": 17,
+        "total": 17
+      },
+      {
+        "nombre": "Farmacia HRS Ramos",
+        "zona": "NORTE",
+        "unidad": 0,
+        "almacen": 17,
+        "total": 17
+      },
+      {
+        "nombre": "Farmacia UMF 79",
+        "zona": "NORTE",
+        "unidad": 0,
+        "almacen": 17,
+        "total": 17
+      },
+      {
+        "nombre": "Direccion UMF 4",
+        "zona": "SUR",
+        "unidad": 10,
+        "almacen": 0,
+        "total": 10
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 2",
+        "zona": "SUR",
+        "unidad": 103,
+        "almacen": 17,
+        "total": 120
+      },
+      {
+        "nombre": "Farmacia UMAA 89",
+        "zona": "SUR",
+        "unidad": 136,
+        "almacen": 17,
+        "total": 153
+      },
+      {
+        "nombre": "Farmacia UMF 73",
+        "zona": "SUR",
+        "unidad": 75,
+        "almacen": 17,
+        "total": 92
+      },
+      {
+        "nombre": "Farmacia UMF 82",
+        "zona": "SUR",
+        "unidad": 72,
+        "almacen": 17,
+        "total": 89
+      },
+      {
+        "nombre": "Farmacia UMF 91",
+        "zona": "SUR",
+        "unidad": 0,
+        "almacen": 17,
+        "total": 17
+      }
+    ]
+  },
+  "VITAMINA A": {
+    "zonas": {
+      "CARBONÍFERA": {
+        "unidad": 448,
+        "almacen": 2030,
+        "total": 2478
+      },
+      "CENTRO": {
+        "unidad": 871,
+        "almacen": 2030,
+        "total": 2901
+      },
+      "LAGUNA": {
+        "unidad": 1511,
+        "almacen": 2610,
+        "total": 4121
+      },
+      "NORTE": {
+        "unidad": 0,
+        "almacen": 580,
+        "total": 580
+      },
+      "SUR": {
+        "unidad": 1154,
+        "almacen": 2030,
+        "total": 3184
+      }
+    },
+    "unidades": [
+      {
+        "nombre": "Direccion UMF 28",
+        "zona": "CARBONÍFERA",
+        "unidad": 61,
+        "almacen": 290,
+        "total": 351
+      },
+      {
+        "nombre": "Direccion UMF 29",
+        "zona": "CARBONÍFERA",
+        "unidad": 0,
+        "almacen": 290,
+        "total": 290
+      },
+      {
+        "nombre": "Direccion UMF 31",
+        "zona": "CARBONÍFERA",
+        "unidad": 0,
+        "almacen": 290,
+        "total": 290
+      },
+      {
+        "nombre": "Direccion UMF 61",
+        "zona": "CARBONÍFERA",
+        "unidad": 20,
+        "almacen": 290,
+        "total": 310
+      },
+      {
+        "nombre": "Direccion UMF 62",
+        "zona": "CARBONÍFERA",
+        "unidad": 164,
+        "almacen": 290,
+        "total": 454
+      },
+      {
+        "nombre": "Direccion UMF 64",
+        "zona": "CARBONÍFERA",
+        "unidad": 203,
+        "almacen": 290,
+        "total": 493
+      },
+      {
+        "nombre": "Farmacia HGSZ-MF 13",
+        "zona": "CARBONÍFERA",
+        "unidad": 0,
+        "almacen": 290,
+        "total": 290
+      },
+      {
+        "nombre": "Direccion UMF 74",
+        "zona": "CENTRO",
+        "unidad": 6,
+        "almacen": 290,
+        "total": 296
+      },
+      {
+        "nombre": "Direccion UMF 8",
+        "zona": "CENTRO",
+        "unidad": 130,
+        "almacen": 290,
+        "total": 420
+      },
+      {
+        "nombre": "Direccion UMF 84",
+        "zona": "CENTRO",
+        "unidad": 135,
+        "almacen": 290,
+        "total": 425
+      },
+      {
+        "nombre": "Direccion UMF 86",
+        "zona": "CENTRO",
+        "unidad": 40,
+        "almacen": 290,
+        "total": 330
+      },
+      {
+        "nombre": "Direccion UMF 88",
+        "zona": "CENTRO",
+        "unidad": 150,
+        "almacen": 290,
+        "total": 440
+      },
+      {
+        "nombre": "Direccion UMF 9",
+        "zona": "CENTRO",
+        "unidad": 180,
+        "almacen": 290,
+        "total": 470
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 7",
+        "zona": "CENTRO",
+        "unidad": 230,
+        "almacen": 290,
+        "total": 520
+      },
+      {
+        "nombre": "Direccion UMF 15",
+        "zona": "LAGUNA",
+        "unidad": 151,
+        "almacen": 290,
+        "total": 441
+      },
+      {
+        "nombre": "Direccion UMF 80",
+        "zona": "LAGUNA",
+        "unidad": 125,
+        "almacen": 290,
+        "total": 415
+      },
+      {
+        "nombre": "Direccion UMF 83",
+        "zona": "LAGUNA",
+        "unidad": 500,
+        "almacen": 290,
+        "total": 790
+      },
+      {
+        "nombre": "Farmacia HGZ 11",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 290,
+        "total": 290
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 16",
+        "zona": "LAGUNA",
+        "unidad": 435,
+        "almacen": 290,
+        "total": 725
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 18",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 290,
+        "total": 290
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 24",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 290,
+        "total": 290
+      },
+      {
+        "nombre": "Farmacia UMF 66",
+        "zona": "LAGUNA",
+        "unidad": 0,
+        "almacen": 290,
+        "total": 290
+      },
+      {
+        "nombre": "Farmacia UMF 93",
+        "zona": "LAGUNA",
+        "unidad": 300,
+        "almacen": 290,
+        "total": 590
+      },
+      {
+        "nombre": "Direccion UMF 12",
+        "zona": "NORTE",
+        "unidad": 0,
+        "almacen": 290,
+        "total": 290
+      },
+      {
+        "nombre": "Farmacia UMF 79",
+        "zona": "NORTE",
+        "unidad": 0,
+        "almacen": 290,
+        "total": 290
+      },
+      {
+        "nombre": "Direccion UMF 3",
+        "zona": "SUR",
+        "unidad": 40,
+        "almacen": 290,
+        "total": 330
+      },
+      {
+        "nombre": "Direccion UMF 4",
+        "zona": "SUR",
+        "unidad": 40,
+        "almacen": 290,
+        "total": 330
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 2",
+        "zona": "SUR",
+        "unidad": 105,
+        "almacen": 290,
+        "total": 395
+      },
+      {
+        "nombre": "Farmacia UMAA 89",
+        "zona": "SUR",
+        "unidad": 200,
+        "almacen": 290,
+        "total": 490
+      },
+      {
+        "nombre": "Farmacia UMF 73",
+        "zona": "SUR",
+        "unidad": 0,
+        "almacen": 290,
+        "total": 290
+      },
+      {
+        "nombre": "Farmacia UMF 82",
+        "zona": "SUR",
+        "unidad": 769,
+        "almacen": 290,
+        "total": 1059
+      },
+      {
+        "nombre": "Farmacia UMF 91",
+        "zona": "SUR",
+        "unidad": 0,
+        "almacen": 290,
+        "total": 290
+      }
+    ]
+  }
+}

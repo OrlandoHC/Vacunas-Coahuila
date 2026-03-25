@@ -1,0 +1,4177 @@
+{
+  "Direccion UMF 14": {
+    "zona": "CARBONÍFERA",
+    "vacunas": {
+      "DOBLE VIRAL (SR)": {
+        "unidad": 10,
+        "almacen": 60,
+        "total": 70
+      },
+      "HEPATITIS A AD...": {
+        "unidad": 6,
+        "almacen": 64,
+        "total": 70
+      },
+      "HEPATITIS B": {
+        "unidad": 1,
+        "almacen": 34,
+        "total": 35
+      },
+      "HEXAVALENTE": {
+        "unidad": 8,
+        "almacen": 217,
+        "total": 225
+      },
+      "NEUMO 13 V": {
+        "unidad": 11,
+        "almacen": 0,
+        "total": 11
+      },
+      "ROTAVIRUS": {
+        "unidad": 1,
+        "almacen": 0,
+        "total": 1
+      },
+      "TDPA": {
+        "unidad": 8,
+        "almacen": 1144,
+        "total": 1152
+      },
+      "TRIPLE VIRAL (S...)": {
+        "unidad": 169,
+        "almacen": 6825,
+        "total": 6994
+      },
+      "VACUNA ANTIR...": {
+        "unidad": 2,
+        "almacen": 2,
+        "total": 4
+      }
+    }
+  },
+  "Direccion UMF 23": {
+    "zona": "CARBONÍFERA",
+    "vacunas": {
+      "ANTIALACRAN": {
+        "unidad": 5,
+        "almacen": 0,
+        "total": 5
+      },
+      "BCG": {
+        "unidad": 12,
+        "almacen": 86,
+        "total": 98
+      },
+      "COVID-19": {
+        "unidad": 2,
+        "almacen": 78,
+        "total": 80
+      },
+      "DOBLE VIRAL (SR)": {
+        "unidad": 200,
+        "almacen": 60,
+        "total": 260
+      },
+      "DPT": {
+        "unidad": 25,
+        "almacen": 578,
+        "total": 603
+      },
+      "HEPATITIS A": {
+        "unidad": 20,
+        "almacen": 8,
+        "total": 28
+      },
+      "HEPATITIS A AD...": {
+        "unidad": 43,
+        "almacen": 64,
+        "total": 107
+      },
+      "HEPATITIS B": {
+        "unidad": 50,
+        "almacen": 34,
+        "total": 84
+      },
+      "HEXAVALENTE": {
+        "unidad": 57,
+        "almacen": 217,
+        "total": 274
+      },
+      "INFLUENZA TET...": {
+        "unidad": 30,
+        "almacen": 0,
+        "total": 30
+      },
+      "NEUMO 13 V": {
+        "unidad": 10,
+        "almacen": 0,
+        "total": 10
+      },
+      "NEUMO 20 V": {
+        "unidad": 400,
+        "almacen": 480,
+        "total": 880
+      },
+      "ROTAVIRUS": {
+        "unidad": 16,
+        "almacen": 0,
+        "total": 16
+      },
+      "TDPA": {
+        "unidad": 220,
+        "almacen": 1144,
+        "total": 1364
+      },
+      "TRIPLE VIRAL (S...)": {
+        "unidad": 1300,
+        "almacen": 6825,
+        "total": 8125
+      },
+      "VACUNA ANTIR...": {
+        "unidad": 3,
+        "almacen": 2,
+        "total": 5
+      }
+    }
+  },
+  "Direccion UMF 25": {
+    "zona": "CARBONÍFERA",
+    "vacunas": {
+      "BCG": {
+        "unidad": 0,
+        "almacen": 86,
+        "total": 86
+      },
+      "DOBLE VIRAL (SR)": {
+        "unidad": 0,
+        "almacen": 60,
+        "total": 60
+      },
+      "DPT": {
+        "unidad": 0,
+        "almacen": 578,
+        "total": 578
+      },
+      "HEPATITIS A AD...": {
+        "unidad": 0,
+        "almacen": 64,
+        "total": 64
+      },
+      "HEPATITIS B": {
+        "unidad": 0,
+        "almacen": 34,
+        "total": 34
+      },
+      "HEXAVALENTE": {
+        "unidad": 0,
+        "almacen": 217,
+        "total": 217
+      },
+      "NEUMO 20 V": {
+        "unidad": 0,
+        "almacen": 480,
+        "total": 480
+      },
+      "TDPA": {
+        "unidad": 0,
+        "almacen": 1144,
+        "total": 1144
+      },
+      "TRIPLE VIRAL (S...)": {
+        "unidad": 0,
+        "almacen": 6825,
+        "total": 6825
+      }
+    }
+  },
+  "Direccion UMF 28": {
+    "zona": "CARBONÍFERA",
+    "vacunas": {
+      "ANTIALACRAN": {
+        "unidad": 2,
+        "almacen": 0,
+        "total": 2
+      },
+      "ANTIARACNIDO F/I": {
+        "unidad": 2,
+        "almacen": 0,
+        "total": 2
+      },
+      "ANTIVIPERINO": {
+        "unidad": 2,
+        "almacen": 0,
+        "total": 2
+      },
+      "BCG": {
+        "unidad": 2,
+        "almacen": 86,
+        "total": 88
+      },
+      "DOBLE VIRAL (SR)": {
+        "unidad": 0,
+        "almacen": 60,
+        "total": 60
+      },
+      "DPT": {
+        "unidad": 15,
+        "almacen": 578,
+        "total": 593
+      },
+      "GAMA ANITETA...": {
+        "unidad": 10,
+        "almacen": 2,
+        "total": 12
+      },
+      "GAMA ANITRA...": {
+        "unidad": 12,
+        "almacen": 0,
+        "total": 12
+      },
+      "HEPATITIS A AD...": {
+        "unidad": 2,
+        "almacen": 64,
+        "total": 66
+      },
+      "HEPATITIS B": {
+        "unidad": 9,
+        "almacen": 34,
+        "total": 43
+      },
+      "HEXAVALENTE": {
+        "unidad": 6,
+        "almacen": 217,
+        "total": 223
+      },
+      "NEUMO 13 V": {
+        "unidad": 13,
+        "almacen": 0,
+        "total": 13
+      },
+      "NEUMO 20 V": {
+        "unidad": 0,
+        "almacen": 480,
+        "total": 480
+      },
+      "NEUMO 23 V": {
+        "unidad": 24,
+        "almacen": 0,
+        "total": 24
+      },
+      "ROTAVIRUS": {
+        "unidad": 6,
+        "almacen": 0,
+        "total": 6
+      },
+      "TD": {
+        "unidad": 38,
+        "almacen": 0,
+        "total": 38
+      },
+      "TDPA": {
+        "unidad": 31,
+        "almacen": 1144,
+        "total": 1175
+      },
+      "TRIPLE VIRAL (S...)": {
+        "unidad": 34,
+        "almacen": 6825,
+        "total": 6859
+      },
+      "VACUNA ANTIR...": {
+        "unidad": 12,
+        "almacen": 2,
+        "total": 14
+      },
+      "VHP 9 V": {
+        "unidad": 1,
+        "almacen": 0,
+        "total": 1
+      },
+      "VITAMINA A": {
+        "unidad": 61,
+        "almacen": 290,
+        "total": 351
+      }
+    }
+  },
+  "Direccion UMF 29": {
+    "zona": "CARBONÍFERA",
+    "vacunas": {
+      "ANTIALACRAN": {
+        "unidad": 2,
+        "almacen": 0,
+        "total": 2
+      },
+      "ANTIARACNIDO F/I": {
+        "unidad": 3,
+        "almacen": 0,
+        "total": 3
+      },
+      "BCG": {
+        "unidad": 0,
+        "almacen": 86,
+        "total": 86
+      },
+      "DOBLE VIRAL (SR)": {
+        "unidad": 0,
+        "almacen": 60,
+        "total": 60
+      },
+      "DPT": {
+        "unidad": 0,
+        "almacen": 578,
+        "total": 578
+      },
+      "GAMA ANITETA...": {
+        "unidad": 1,
+        "almacen": 2,
+        "total": 3
+      },
+      "GAMA ANITRA...": {
+        "unidad": 8,
+        "almacen": 0,
+        "total": 8
+      },
+      "HEPATITIS A": {
+        "unidad": 10,
+        "almacen": 8,
+        "total": 18
+      },
+      "HEPATITIS A AD...": {
+        "unidad": 46,
+        "almacen": 64,
+        "total": 110
+      },
+      "HEPATITIS B": {
+        "unidad": 0,
+        "almacen": 34,
+        "total": 34
+      },
+      "HEXAVALENTE": {
+        "unidad": 0,
+        "almacen": 217,
+        "total": 217
+      },
+      "NEUMO 13 V": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "NEUMO 20 V": {
+        "unidad": 0,
+        "almacen": 480,
+        "total": 480
+      },
+      "TD": {
+        "unidad": 10,
+        "almacen": 0,
+        "total": 10
+      },
+      "TDPA": {
+        "unidad": 0,
+        "almacen": 1144,
+        "total": 1144
+      },
+      "TRIPLE VIRAL (S...)": {
+        "unidad": 0,
+        "almacen": 6825,
+        "total": 6825
+      },
+      "VITAMINA A": {
+        "unidad": 0,
+        "almacen": 290,
+        "total": 290
+      }
+    }
+  },
+  "Direccion UMF 31": {
+    "zona": "CARBONÍFERA",
+    "vacunas": {
+      "ANTIALACRAN": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "ANTIARACNIDO F/I": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "ANTIVIPERINO": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "BCG": {
+        "unidad": 4,
+        "almacen": 86,
+        "total": 90
+      },
+      "COVID-19": {
+        "unidad": 0,
+        "almacen": 173,
+        "total": 173
+      },
+      "DOBLE VIRAL (SR)": {
+        "unidad": 47,
+        "almacen": 60,
+        "total": 107
+      },
+      "DPT": {
+        "unidad": 8,
+        "almacen": 578,
+        "total": 586
+      },
+      "GAMA ANITETA...": {
+        "unidad": 0,
+        "almacen": 2,
+        "total": 2
+      },
+      "GAMA ANITRA...": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "HEPATITIS A AD...": {
+        "unidad": 3,
+        "almacen": 64,
+        "total": 67
+      },
+      "HEPATITIS B": {
+        "unidad": 20,
+        "almacen": 34,
+        "total": 54
+      },
+      "HEXAVALENTE": {
+        "unidad": 10,
+        "almacen": 217,
+        "total": 227
+      },
+      "INFLUENZA TET...": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "NEUMO 13 V": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "NEUMO 20 V": {
+        "unidad": 40,
+        "almacen": 480,
+        "total": 520
+      },
+      "ROTAVIRUS": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "TD": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "TDPA": {
+        "unidad": 5,
+        "almacen": 1144,
+        "total": 1149
+      },
+      "TRIPLE VIRAL (S...)": {
+        "unidad": 300,
+        "almacen": 6825,
+        "total": 7125
+      },
+      "VACUNA ANTIR...": {
+        "unidad": 0,
+        "almacen": 2,
+        "total": 2
+      },
+      "VHP 9 V": {
+        "unidad": 0,
+        "almacen": 17,
+        "total": 17
+      },
+      "VITAMINA A": {
+        "unidad": 0,
+        "almacen": 290,
+        "total": 290
+      }
+    }
+  },
+  "Direccion UMF 32": {
+    "zona": "CARBONÍFERA",
+    "vacunas": {
+      "ANTIALACRAN": {
+        "unidad": 4,
+        "almacen": 0,
+        "total": 4
+      },
+      "ANTIARACNIDO F/I": {
+        "unidad": 2,
+        "almacen": 0,
+        "total": 2
+      },
+      "ANTIVIPERINO": {
+        "unidad": 3,
+        "almacen": 0,
+        "total": 3
+      },
+      "BCG": {
+        "unidad": 7,
+        "almacen": 86,
+        "total": 93
+      },
+      "DOBLE VIRAL (SR)": {
+        "unidad": 22,
+        "almacen": 60,
+        "total": 82
+      },
+      "DPT": {
+        "unidad": 20,
+        "almacen": 578,
+        "total": 598
+      },
+      "GAMA ANITRA...": {
+        "unidad": 5,
+        "almacen": 0,
+        "total": 5
+      },
+      "HEPATITIS A": {
+        "unidad": 10,
+        "almacen": 8,
+        "total": 18
+      },
+      "HEPATITIS A AD...": {
+        "unidad": 0,
+        "almacen": 64,
+        "total": 64
+      },
+      "HEPATITIS B": {
+        "unidad": 17,
+        "almacen": 34,
+        "total": 51
+      },
+      "HEXAVALENTE": {
+        "unidad": 17,
+        "almacen": 217,
+        "total": 234
+      },
+      "NEUMO 13 V": {
+        "unidad": 32,
+        "almacen": 0,
+        "total": 32
+      },
+      "NEUMO 20 V": {
+        "unidad": 0,
+        "almacen": 480,
+        "total": 480
+      },
+      "NEUMO 23 V": {
+        "unidad": 27,
+        "almacen": 0,
+        "total": 27
+      },
+      "ROTAVIRUS": {
+        "unidad": 36,
+        "almacen": 0,
+        "total": 36
+      },
+      "TD": {
+        "unidad": 35,
+        "almacen": 0,
+        "total": 35
+      },
+      "TDPA": {
+        "unidad": 4,
+        "almacen": 1144,
+        "total": 1148
+      },
+      "TRIPLE VIRAL (S...)": {
+        "unidad": 39,
+        "almacen": 6825,
+        "total": 6864
+      }
+    }
+  },
+  "Direccion UMF 61": {
+    "zona": "CARBONÍFERA",
+    "vacunas": {
+      "ANTIALACRAN": {
+        "unidad": 5,
+        "almacen": 0,
+        "total": 5
+      },
+      "ANTIARACNIDO F/I": {
+        "unidad": 10,
+        "almacen": 0,
+        "total": 10
+      },
+      "ANTIVIPERINO": {
+        "unidad": 5,
+        "almacen": 0,
+        "total": 5
+      },
+      "BCG": {
+        "unidad": 1,
+        "almacen": 86,
+        "total": 87
+      },
+      "DOBLE VIRAL (SR)": {
+        "unidad": 66,
+        "almacen": 60,
+        "total": 126
+      },
+      "DPT": {
+        "unidad": 1,
+        "almacen": 578,
+        "total": 579
+      },
+      "HEPATITIS B": {
+        "unidad": 5,
+        "almacen": 34,
+        "total": 39
+      },
+      "HEXAVALENTE": {
+        "unidad": 26,
+        "almacen": 217,
+        "total": 243
+      },
+      "NEUMO 13 V": {
+        "unidad": 28,
+        "almacen": 0,
+        "total": 28
+      },
+      "NEUMO 23 V": {
+        "unidad": 15,
+        "almacen": 0,
+        "total": 15
+      },
+      "ROTAVIRUS": {
+        "unidad": 6,
+        "almacen": 0,
+        "total": 6
+      },
+      "TD": {
+        "unidad": 10,
+        "almacen": 0,
+        "total": 10
+      },
+      "TDPA": {
+        "unidad": 32,
+        "almacen": 1144,
+        "total": 1176
+      },
+      "TRIPLE VIRAL (S...)": {
+        "unidad": 102,
+        "almacen": 6825,
+        "total": 6927
+      },
+      "VHP 9 V": {
+        "unidad": 5,
+        "almacen": 0,
+        "total": 5
+      },
+      "VITAMINA A": {
+        "unidad": 20,
+        "almacen": 290,
+        "total": 310
+      }
+    }
+  },
+  "Direccion UMF 62": {
+    "zona": "CARBONÍFERA",
+    "vacunas": {
+      "ANTIALACRAN": {
+        "unidad": 6,
+        "almacen": 0,
+        "total": 6
+      },
+      "ANTIARACNIDO F/I": {
+        "unidad": 3,
+        "almacen": 0,
+        "total": 3
+      },
+      "ANTIVIPERINO": {
+        "unidad": 3,
+        "almacen": 0,
+        "total": 3
+      },
+      "COVID-19": {
+        "unidad": 5,
+        "almacen": 95,
+        "total": 100
+      },
+      "DOBLE VIRAL (SR)": {
+        "unidad": 61,
+        "almacen": 60,
+        "total": 121
+      },
+      "DPT": {
+        "unidad": 23,
+        "almacen": 578,
+        "total": 601
+      },
+      "HEPATITIS A AD...": {
+        "unidad": 12,
+        "almacen": 64,
+        "total": 76
+      },
+      "HEPATITIS B": {
+        "unidad": 10,
+        "almacen": 34,
+        "total": 44
+      },
+      "HEXAVALENTE": {
+        "unidad": 27,
+        "almacen": 217,
+        "total": 244
+      },
+      "INFLUENZA TET...": {
+        "unidad": 9,
+        "almacen": 0,
+        "total": 9
+      },
+      "NEUMO 13 V": {
+        "unidad": 53,
+        "almacen": 0,
+        "total": 53
+      },
+      "NEUMO 23 V": {
+        "unidad": 20,
+        "almacen": 0,
+        "total": 20
+      },
+      "ROTAVIRUS": {
+        "unidad": 39,
+        "almacen": 0,
+        "total": 39
+      },
+      "TD": {
+        "unidad": 60,
+        "almacen": 0,
+        "total": 60
+      },
+      "TDPA": {
+        "unidad": 24,
+        "almacen": 1144,
+        "total": 1168
+      },
+      "TRIPLE VIRAL (S...)": {
+        "unidad": 580,
+        "almacen": 6825,
+        "total": 7405
+      },
+      "VARICELA": {
+        "unidad": 20,
+        "almacen": 0,
+        "total": 20
+      },
+      "VITAMINA A": {
+        "unidad": 164,
+        "almacen": 290,
+        "total": 454
+      }
+    }
+  },
+  "Direccion UMF 64": {
+    "zona": "CARBONÍFERA",
+    "vacunas": {
+      "DOBLE VIRAL (SR)": {
+        "unidad": 3,
+        "almacen": 60,
+        "total": 63
+      },
+      "DPT": {
+        "unidad": 1,
+        "almacen": 578,
+        "total": 579
+      },
+      "HEPATITIS B": {
+        "unidad": 5,
+        "almacen": 34,
+        "total": 39
+      },
+      "ROTAVIRUS": {
+        "unidad": 25,
+        "almacen": 0,
+        "total": 25
+      },
+      "TD": {
+        "unidad": 6,
+        "almacen": 0,
+        "total": 6
+      },
+      "TDPA": {
+        "unidad": 12,
+        "almacen": 1144,
+        "total": 1156
+      },
+      "TRIPLE VIRAL (S...)": {
+        "unidad": 25,
+        "almacen": 6825,
+        "total": 6850
+      },
+      "VARICELA": {
+        "unidad": 5,
+        "almacen": 0,
+        "total": 5
+      },
+      "VITAMINA A": {
+        "unidad": 203,
+        "almacen": 290,
+        "total": 493
+      }
+    }
+  },
+  "Farmacia HGSZ-MF 13": {
+    "zona": "CARBONÍFERA",
+    "vacunas": {
+      "ANTIVIPERINO": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "BCG": {
+        "unidad": 0,
+        "almacen": 86,
+        "total": 86
+      },
+      "GAMA ANITETA...": {
+        "unidad": 0,
+        "almacen": 2,
+        "total": 2
+      },
+      "GAMA ANITRA...": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "HEPATITIS B": {
+        "unidad": 0,
+        "almacen": 34,
+        "total": 34
+      },
+      "TD": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "VITAMINA A": {
+        "unidad": 0,
+        "almacen": 290,
+        "total": 290
+      }
+    }
+  },
+  "Farmacia HGSZ-MF 27": {
+    "zona": "CARBONÍFERA",
+    "vacunas": {
+      "BCG": {
+        "unidad": 22,
+        "almacen": 86,
+        "total": 108
+      },
+      "COVID-19": {
+        "unidad": 32,
+        "almacen": 173,
+        "total": 205
+      },
+      "DOBLE VIRAL (SR)": {
+        "unidad": 151,
+        "almacen": 60,
+        "total": 211
+      },
+      "DPT": {
+        "unidad": 23,
+        "almacen": 578,
+        "total": 601
+      },
+      "GAMA ANITRA...": {
+        "unidad": 5,
+        "almacen": 0,
+        "total": 5
+      },
+      "HEPATITIS A": {
+        "unidad": 2,
+        "almacen": 8,
+        "total": 10
+      },
+      "HEPATITIS A AD...": {
+        "unidad": 9,
+        "almacen": 64,
+        "total": 73
+      },
+      "HEPATITIS B": {
+        "unidad": 150,
+        "almacen": 34,
+        "total": 184
+      },
+      "HEXAVALENTE": {
+        "unidad": 41,
+        "almacen": 217,
+        "total": 258
+      },
+      "INFLUENZA TET...": {
+        "unidad": 17,
+        "almacen": 0,
+        "total": 17
+      },
+      "NEUMO 13 V": {
+        "unidad": 10,
+        "almacen": 0,
+        "total": 10
+      },
+      "NEUMO 20 V": {
+        "unidad": 280,
+        "almacen": 480,
+        "total": 760
+      },
+      "ROTAVIRUS": {
+        "unidad": 3,
+        "almacen": 0,
+        "total": 3
+      },
+      "TDPA": {
+        "unidad": 183,
+        "almacen": 1144,
+        "total": 1327
+      },
+      "TRIPLE VIRAL (S...)": {
+        "unidad": 4090,
+        "almacen": 6825,
+        "total": 10915
+      },
+      "VACUNA ANTIR...": {
+        "unidad": 3,
+        "almacen": 2,
+        "total": 5
+      }
+    }
+  },
+  "Direccion UMF 10": {
+    "zona": "CENTRO",
+    "vacunas": {
+      "COVID-19": {
+        "unidad": 0,
+        "almacen": 95,
+        "total": 95
+      },
+      "DOBLE VIRAL (SR)": {
+        "unidad": 0,
+        "almacen": 60,
+        "total": 60
+      },
+      "HEPATITIS A": {
+        "unidad": 0,
+        "almacen": 8,
+        "total": 8
+      },
+      "HEPATITIS A AD...": {
+        "unidad": 0,
+        "almacen": 64,
+        "total": 64
+      },
+      "HEPATITIS B": {
+        "unidad": 0,
+        "almacen": 34,
+        "total": 34
+      },
+      "HEXAVALENTE": {
+        "unidad": 0,
+        "almacen": 217,
+        "total": 217
+      },
+      "NEUMO 13 V": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "ROTAVIRUS": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "TDPA": {
+        "unidad": 0,
+        "almacen": 1144,
+        "total": 1144
+      },
+      "TRIPLE VIRAL (S...)": {
+        "unidad": 0,
+        "almacen": 6825,
+        "total": 6825
+      },
+      "VACUNA ANTIR...": {
+        "unidad": 0,
+        "almacen": 2,
+        "total": 2
+      }
+    }
+  },
+  "Direccion UMF 50": {
+    "zona": "CENTRO",
+    "vacunas": {
+      "DOBLE VIRAL (SR)": {
+        "unidad": 22,
+        "almacen": 60,
+        "total": 82
+      },
+      "TD": {
+        "unidad": 3,
+        "almacen": 0,
+        "total": 3
+      },
+      "TRIPLE VIRAL (S...)": {
+        "unidad": 93,
+        "almacen": 6825,
+        "total": 6918
+      }
+    }
+  },
+  "Direccion UMF 74": {
+    "zona": "CENTRO",
+    "vacunas": {
+      "ANTIVIPERINO": {
+        "unidad": 1,
+        "almacen": 0,
+        "total": 1
+      },
+      "TRIPLE VIRAL (S...)": {
+        "unidad": 0,
+        "almacen": 6825,
+        "total": 6825
+      },
+      "VITAMINA A": {
+        "unidad": 6,
+        "almacen": 290,
+        "total": 296
+      }
+    }
+  },
+  "Direccion UMF 8": {
+    "zona": "CENTRO",
+    "vacunas": {
+      "COVID-19": {
+        "unidad": 0,
+        "almacen": 95,
+        "total": 95
+      },
+      "DOBLE VIRAL (SR)": {
+        "unidad": 0,
+        "almacen": 60,
+        "total": 60
+      },
+      "HEPATITIS A AD...": {
+        "unidad": 10,
+        "almacen": 64,
+        "total": 74
+      },
+      "HEPATITIS B": {
+        "unidad": 10,
+        "almacen": 34,
+        "total": 44
+      },
+      "HEXAVALENTE": {
+        "unidad": 25,
+        "almacen": 217,
+        "total": 242
+      },
+      "INFLUENZA TET...": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "NEUMO 13 V": {
+        "unidad": 5,
+        "almacen": 0,
+        "total": 5
+      },
+      "ROTAVIRUS": {
+        "unidad": 7,
+        "almacen": 0,
+        "total": 7
+      },
+      "TDPA": {
+        "unidad": 173,
+        "almacen": 1144,
+        "total": 1317
+      },
+      "TRIPLE VIRAL (S...)": {
+        "unidad": 200,
+        "almacen": 6825,
+        "total": 7025
+      },
+      "VACUNA ANTIR...": {
+        "unidad": 2,
+        "almacen": 2,
+        "total": 4
+      },
+      "VITAMINA A": {
+        "unidad": 130,
+        "almacen": 290,
+        "total": 420
+      }
+    }
+  },
+  "Direccion UMF 84": {
+    "zona": "CENTRO",
+    "vacunas": {
+      "ANTIALACRAN": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "ANTIARACNIDO F/I": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "ANTIVIPERINO": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "BCG": {
+        "unidad": 0,
+        "almacen": 86,
+        "total": 86
+      },
+      "COVID-19": {
+        "unidad": 0,
+        "almacen": 173,
+        "total": 173
+      },
+      "DOBLE VIRAL (SR)": {
+        "unidad": 56,
+        "almacen": 60,
+        "total": 116
+      },
+      "DPT": {
+        "unidad": 24,
+        "almacen": 578,
+        "total": 602
+      },
+      "GAMA ANITRA...": {
+        "unidad": 5,
+        "almacen": 0,
+        "total": 5
+      },
+      "HEPATITIS A AD...": {
+        "unidad": 0,
+        "almacen": 64,
+        "total": 64
+      },
+      "HEPATITIS B": {
+        "unidad": 0,
+        "almacen": 34,
+        "total": 34
+      },
+      "HEXAVALENTE": {
+        "unidad": 67,
+        "almacen": 217,
+        "total": 284
+      },
+      "INFLUENZA TET...": {
+        "unidad": 30,
+        "almacen": 0,
+        "total": 30
+      },
+      "NEUMO 13 V": {
+        "unidad": 10,
+        "almacen": 0,
+        "total": 10
+      },
+      "ROTAVIRUS": {
+        "unidad": 6,
+        "almacen": 0,
+        "total": 6
+      },
+      "TD": {
+        "unidad": 130,
+        "almacen": 0,
+        "total": 130
+      },
+      "TDPA": {
+        "unidad": 83,
+        "almacen": 1144,
+        "total": 1227
+      },
+      "TRIPLE VIRAL (S...)": {
+        "unidad": 530,
+        "almacen": 6825,
+        "total": 7355
+      },
+      "VACUNA ANTIR...": {
+        "unidad": 23,
+        "almacen": 2,
+        "total": 25
+      },
+      "VHP 9 V": {
+        "unidad": 14,
+        "almacen": 17,
+        "total": 31
+      },
+      "VITAMINA A": {
+        "unidad": 135,
+        "almacen": 290,
+        "total": 425
+      }
+    }
+  },
+  "Direccion UMF 85": {
+    "zona": "CENTRO",
+    "vacunas": {
+      "COVID-19": {
+        "unidad": 0,
+        "almacen": 95,
+        "total": 95
+      },
+      "DOBLE VIRAL (SR)": {
+        "unidad": 0,
+        "almacen": 60,
+        "total": 60
+      },
+      "HEPATITIS A": {
+        "unidad": 0,
+        "almacen": 8,
+        "total": 8
+      },
+      "HEPATITIS A AD...": {
+        "unidad": 0,
+        "almacen": 64,
+        "total": 64
+      },
+      "HEPATITIS B": {
+        "unidad": 0,
+        "almacen": 34,
+        "total": 34
+      },
+      "HEXAVALENTE": {
+        "unidad": 0,
+        "almacen": 217,
+        "total": 217
+      },
+      "INFLUENZA TET...": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "NEUMO 13 V": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "ROTAVIRUS": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "TDPA": {
+        "unidad": 0,
+        "almacen": 1144,
+        "total": 1144
+      },
+      "TRIPLE VIRAL (S...)": {
+        "unidad": 0,
+        "almacen": 6825,
+        "total": 6825
+      },
+      "VACUNA ANTIR...": {
+        "unidad": 0,
+        "almacen": 2,
+        "total": 2
+      },
+      "VHP 9 V": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      }
+    }
+  },
+  "Direccion UMF 86": {
+    "zona": "CENTRO",
+    "vacunas": {
+      "COVID-19": {
+        "unidad": 5,
+        "almacen": 95,
+        "total": 100
+      },
+      "HEPATITIS A": {
+        "unidad": 20,
+        "almacen": 8,
+        "total": 28
+      },
+      "HEPATITIS A AD...": {
+        "unidad": 10,
+        "almacen": 64,
+        "total": 74
+      },
+      "HEPATITIS B": {
+        "unidad": 10,
+        "almacen": 34,
+        "total": 44
+      },
+      "HEXAVALENTE": {
+        "unidad": 20,
+        "almacen": 217,
+        "total": 237
+      },
+      "INFLUENZA TET...": {
+        "unidad": 30,
+        "almacen": 0,
+        "total": 30
+      },
+      "NEUMO 13 V": {
+        "unidad": 10,
+        "almacen": 0,
+        "total": 10
+      },
+      "ROTAVIRUS": {
+        "unidad": 6,
+        "almacen": 0,
+        "total": 6
+      },
+      "TDPA": {
+        "unidad": 120,
+        "almacen": 1144,
+        "total": 1264
+      },
+      "TRIPLE VIRAL (S...)": {
+        "unidad": 150,
+        "almacen": 6825,
+        "total": 6975
+      },
+      "VACUNA ANTIR...": {
+        "unidad": 6,
+        "almacen": 2,
+        "total": 8
+      },
+      "VITAMINA A": {
+        "unidad": 40,
+        "almacen": 290,
+        "total": 330
+      }
+    }
+  },
+  "Direccion UMF 88": {
+    "zona": "CENTRO",
+    "vacunas": {
+      "ANTIALACRAN": {
+        "unidad": 5,
+        "almacen": 0,
+        "total": 5
+      },
+      "ANTIARACNIDO F/I": {
+        "unidad": 25,
+        "almacen": 0,
+        "total": 25
+      },
+      "ANTIVIPERINO": {
+        "unidad": 8,
+        "almacen": 0,
+        "total": 8
+      },
+      "BCG": {
+        "unidad": 0,
+        "almacen": 86,
+        "total": 86
+      },
+      "COVID-19": {
+        "unidad": 21,
+        "almacen": 173,
+        "total": 194
+      },
+      "DOBLE VIRAL (SR)": {
+        "unidad": 37,
+        "almacen": 60,
+        "total": 97
+      },
+      "DPT": {
+        "unidad": 29,
+        "almacen": 578,
+        "total": 607
+      },
+      "GAMA ANITRA...": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "HEPATITIS A": {
+        "unidad": 0,
+        "almacen": 8,
+        "total": 8
+      },
+      "HEPATITIS A AD...": {
+        "unidad": 50,
+        "almacen": 64,
+        "total": 114
+      },
+      "HEPATITIS B": {
+        "unidad": 39,
+        "almacen": 34,
+        "total": 73
+      },
+      "HEXAVALENTE": {
+        "unidad": 70,
+        "almacen": 217,
+        "total": 287
+      },
+      "INFLUENZA TET...": {
+        "unidad": 30,
+        "almacen": 0,
+        "total": 30
+      },
+      "NEUMO 13 V": {
+        "unidad": 10,
+        "almacen": 0,
+        "total": 10
+      },
+      "NEUMO 23 V": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "ROTAVIRUS": {
+        "unidad": 38,
+        "almacen": 0,
+        "total": 38
+      },
+      "TD": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "TDPA": {
+        "unidad": 107,
+        "almacen": 1144,
+        "total": 1251
+      },
+      "TRIPLE VIRAL (S...)": {
+        "unidad": 400,
+        "almacen": 6825,
+        "total": 7225
+      },
+      "VACUNA ANTIR...": {
+        "unidad": 2,
+        "almacen": 2,
+        "total": 4
+      },
+      "VARICELA": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "VHP 9 V": {
+        "unidad": 38,
+        "almacen": 17,
+        "total": 55
+      },
+      "VITAMINA A": {
+        "unidad": 150,
+        "almacen": 290,
+        "total": 440
+      }
+    }
+  },
+  "Direccion UMF 9": {
+    "zona": "CENTRO",
+    "vacunas": {
+      "ANTIALACRAN": {
+        "unidad": 15,
+        "almacen": 0,
+        "total": 15
+      },
+      "ANTIARACNIDO F/I": {
+        "unidad": 10,
+        "almacen": 0,
+        "total": 10
+      },
+      "ANTIVIPERINO": {
+        "unidad": 5,
+        "almacen": 0,
+        "total": 5
+      },
+      "BCG": {
+        "unidad": 30,
+        "almacen": 86,
+        "total": 116
+      },
+      "COVID-19": {
+        "unidad": 110,
+        "almacen": 173,
+        "total": 283
+      },
+      "DOBLE VIRAL (SR)": {
+        "unidad": 282,
+        "almacen": 60,
+        "total": 342
+      },
+      "DPT": {
+        "unidad": 33,
+        "almacen": 578,
+        "total": 611
+      },
+      "HEPATITIS A": {
+        "unidad": 20,
+        "almacen": 8,
+        "total": 28
+      },
+      "HEPATITIS A AD...": {
+        "unidad": 30,
+        "almacen": 64,
+        "total": 94
+      },
+      "HEPATITIS B": {
+        "unidad": 30,
+        "almacen": 34,
+        "total": 64
+      },
+      "HEXAVALENTE": {
+        "unidad": 95,
+        "almacen": 217,
+        "total": 312
+      },
+      "INFLUENZA TET...": {
+        "unidad": 19,
+        "almacen": 0,
+        "total": 19
+      },
+      "NEUMO 13 V": {
+        "unidad": 155,
+        "almacen": 0,
+        "total": 155
+      },
+      "ROTAVIRUS": {
+        "unidad": 25,
+        "almacen": 0,
+        "total": 25
+      },
+      "TD": {
+        "unidad": 40,
+        "almacen": 0,
+        "total": 40
+      },
+      "TDPA": {
+        "unidad": 150,
+        "almacen": 1144,
+        "total": 1294
+      },
+      "TRIPLE VIRAL (S...)": {
+        "unidad": 1105,
+        "almacen": 6825,
+        "total": 7930
+      },
+      "VACUNA ANTIR...": {
+        "unidad": 3,
+        "almacen": 2,
+        "total": 5
+      },
+      "VHP 9 V": {
+        "unidad": 15,
+        "almacen": 17,
+        "total": 32
+      },
+      "VITAMINA A": {
+        "unidad": 180,
+        "almacen": 290,
+        "total": 470
+      }
+    }
+  },
+  "Farmacia HGZ-MF 7": {
+    "zona": "CENTRO",
+    "vacunas": {
+      "ANTIALACRAN": {
+        "unidad": 10,
+        "almacen": 0,
+        "total": 10
+      },
+      "ANTIARACNIDO F/I": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "ANTICORALILLO": {
+        "unidad": 2,
+        "almacen": 0,
+        "total": 2
+      },
+      "ANTIVIPERINO": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "BCG": {
+        "unidad": 0,
+        "almacen": 86,
+        "total": 86
+      },
+      "COVID-19": {
+        "unidad": 9,
+        "almacen": 95,
+        "total": 104
+      },
+      "DOBLE VIRAL (SR)": {
+        "unidad": 1174,
+        "almacen": 60,
+        "total": 1234
+      },
+      "DPT": {
+        "unidad": 0,
+        "almacen": 578,
+        "total": 578
+      },
+      "GAMA ANITETA...": {
+        "unidad": 0,
+        "almacen": 2,
+        "total": 2
+      },
+      "HEPATITIS A": {
+        "unidad": 240,
+        "almacen": 8,
+        "total": 248
+      },
+      "HEPATITIS B": {
+        "unidad": 106,
+        "almacen": 34,
+        "total": 140
+      },
+      "HEXAVALENTE": {
+        "unidad": 35,
+        "almacen": 217,
+        "total": 252
+      },
+      "INFLUENZA TET...": {
+        "unidad": 18,
+        "almacen": 0,
+        "total": 18
+      },
+      "NEUMO 13 V": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "ROTAVIRUS": {
+        "unidad": 10,
+        "almacen": 0,
+        "total": 10
+      },
+      "TD": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "TDPA": {
+        "unidad": 150,
+        "almacen": 1144,
+        "total": 1294
+      },
+      "TRIPLE VIRAL (S...)": {
+        "unidad": 6105,
+        "almacen": 6825,
+        "total": 12930
+      },
+      "VACUNA ANTIR...": {
+        "unidad": 10,
+        "almacen": 2,
+        "total": 12
+      },
+      "VITAMINA A": {
+        "unidad": 230,
+        "almacen": 290,
+        "total": 520
+      }
+    }
+  },
+  "Direccion UMF 15": {
+    "zona": "LAGUNA",
+    "vacunas": {
+      "ANTIALACRAN": {
+        "unidad": 6,
+        "almacen": 0,
+        "total": 6
+      },
+      "ANTIARACNIDO F/I": {
+        "unidad": 1,
+        "almacen": 0,
+        "total": 1
+      },
+      "ANTIVIPERINO": {
+        "unidad": 6,
+        "almacen": 0,
+        "total": 6
+      },
+      "BCG": {
+        "unidad": 13,
+        "almacen": 86,
+        "total": 99
+      },
+      "COVID-19": {
+        "unidad": 19,
+        "almacen": 173,
+        "total": 192
+      },
+      "DOBLE VIRAL (SR)": {
+        "unidad": 13,
+        "almacen": 60,
+        "total": 73
+      },
+      "DPT": {
+        "unidad": 12,
+        "almacen": 578,
+        "total": 590
+      },
+      "GAMA ANITETA...": {
+        "unidad": 4,
+        "almacen": 2,
+        "total": 6
+      },
+      "GAMA ANITRA...": {
+        "unidad": 4,
+        "almacen": 0,
+        "total": 4
+      },
+      "HEPATITIS B": {
+        "unidad": 6,
+        "almacen": 34,
+        "total": 40
+      },
+      "HEXAVALENTE": {
+        "unidad": 55,
+        "almacen": 217,
+        "total": 272
+      },
+      "INFLUENZA TET...": {
+        "unidad": 31,
+        "almacen": 0,
+        "total": 31
+      },
+      "NEUMO 13 V": {
+        "unidad": 61,
+        "almacen": 0,
+        "total": 61
+      },
+      "NEUMO 23 V": {
+        "unidad": 180,
+        "almacen": 0,
+        "total": 180
+      },
+      "ROTAVIRUS": {
+        "unidad": 4,
+        "almacen": 0,
+        "total": 4
+      },
+      "TD": {
+        "unidad": 9,
+        "almacen": 0,
+        "total": 9
+      },
+      "TDPA": {
+        "unidad": 31,
+        "almacen": 1144,
+        "total": 1175
+      },
+      "TRIPLE VIRAL (S...)": {
+        "unidad": 200,
+        "almacen": 6825,
+        "total": 7025
+      },
+      "VACUNA ANTIR...": {
+        "unidad": 15,
+        "almacen": 2,
+        "total": 17
+      },
+      "VHP 9 V": {
+        "unidad": 7,
+        "almacen": 17,
+        "total": 24
+      },
+      "VITAMINA A": {
+        "unidad": 151,
+        "almacen": 290,
+        "total": 441
+      }
+    }
+  },
+  "Direccion UMF 26": {
+    "zona": "LAGUNA",
+    "vacunas": {
+      "BCG": {
+        "unidad": 0,
+        "almacen": 86,
+        "total": 86
+      },
+      "DOBLE VIRAL (SR)": {
+        "unidad": 0,
+        "almacen": 60,
+        "total": 60
+      },
+      "DPT": {
+        "unidad": 0,
+        "almacen": 578,
+        "total": 578
+      },
+      "HEPATITIS A AD...": {
+        "unidad": 0,
+        "almacen": 64,
+        "total": 64
+      },
+      "HEPATITIS B": {
+        "unidad": 0,
+        "almacen": 34,
+        "total": 34
+      },
+      "HEXAVALENTE": {
+        "unidad": 0,
+        "almacen": 217,
+        "total": 217
+      },
+      "NEUMO 20 V": {
+        "unidad": 0,
+        "almacen": 480,
+        "total": 480
+      },
+      "TDPA": {
+        "unidad": 5,
+        "almacen": 1144,
+        "total": 1149
+      },
+      "TRIPLE VIRAL (S...)": {
+        "unidad": 0,
+        "almacen": 6825,
+        "total": 6825
+      }
+    }
+  },
+  "Direccion UMF 80": {
+    "zona": "LAGUNA",
+    "vacunas": {
+      "ANTIARACNIDO F/I": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "ANTIVIPERINO": {
+        "unidad": 10,
+        "almacen": 0,
+        "total": 10
+      },
+      "BCG": {
+        "unidad": 0,
+        "almacen": 86,
+        "total": 86
+      },
+      "COVID-19": {
+        "unidad": 0,
+        "almacen": 173,
+        "total": 173
+      },
+      "DOBLE VIRAL (SR)": {
+        "unidad": 0,
+        "almacen": 60,
+        "total": 60
+      },
+      "DPT": {
+        "unidad": 0,
+        "almacen": 578,
+        "total": 578
+      },
+      "GAMA ANITRA...": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "HEPATITIS A AD...": {
+        "unidad": 0,
+        "almacen": 64,
+        "total": 64
+      },
+      "HEPATITIS B": {
+        "unidad": 25,
+        "almacen": 34,
+        "total": 59
+      },
+      "HEXAVALENTE": {
+        "unidad": 0,
+        "almacen": 217,
+        "total": 217
+      },
+      "INFLUENZA TET...": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "NEUMO 13 V": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "NEUMO 20 V": {
+        "unidad": 0,
+        "almacen": 480,
+        "total": 480
+      },
+      "ROTAVIRUS": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "TD": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "TDPA": {
+        "unidad": 314,
+        "almacen": 1144,
+        "total": 1458
+      },
+      "TRIPLE VIRAL (S...)": {
+        "unidad": 0,
+        "almacen": 6825,
+        "total": 6825
+      },
+      "VACUNA ANTIR...": {
+        "unidad": 0,
+        "almacen": 2,
+        "total": 2
+      },
+      "VHP 9 V": {
+        "unidad": 1,
+        "almacen": 17,
+        "total": 18
+      },
+      "VITAMINA A": {
+        "unidad": 125,
+        "almacen": 290,
+        "total": 415
+      }
+    }
+  },
+  "Direccion UMF 83": {
+    "zona": "LAGUNA",
+    "vacunas": {
+      "ANTIALACRAN": {
+        "unidad": 3,
+        "almacen": 0,
+        "total": 3
+      },
+      "ANTIARACNIDO F/I": {
+        "unidad": 9,
+        "almacen": 0,
+        "total": 9
+      },
+      "ANTIVIPERINO": {
+        "unidad": 25,
+        "almacen": 0,
+        "total": 25
+      },
+      "BCG": {
+        "unidad": 24,
+        "almacen": 86,
+        "total": 110
+      },
+      "COVID-19": {
+        "unidad": 51,
+        "almacen": 173,
+        "total": 224
+      },
+      "DOBLE VIRAL (SR)": {
+        "unidad": 102,
+        "almacen": 60,
+        "total": 162
+      },
+      "DPT": {
+        "unidad": 44,
+        "almacen": 578,
+        "total": 622
+      },
+      "GAMA ANITETA...": {
+        "unidad": 10,
+        "almacen": 2,
+        "total": 12
+      },
+      "GAMA ANITRA...": {
+        "unidad": 10,
+        "almacen": 0,
+        "total": 10
+      },
+      "HEPATITIS A AD...": {
+        "unidad": 0,
+        "almacen": 64,
+        "total": 64
+      },
+      "HEPATITIS B": {
+        "unidad": 13,
+        "almacen": 34,
+        "total": 47
+      },
+      "HEXAVALENTE": {
+        "unidad": 25,
+        "almacen": 217,
+        "total": 242
+      },
+      "INFLUENZA TET...": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "NEUMO 13 V": {
+        "unidad": 166,
+        "almacen": 0,
+        "total": 166
+      },
+      "NEUMO 20 V": {
+        "unidad": 0,
+        "almacen": 480,
+        "total": 480
+      },
+      "NEUMO 23 V": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "ROTAVIRUS": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "TD": {
+        "unidad": 409,
+        "almacen": 0,
+        "total": 409
+      },
+      "TDPA": {
+        "unidad": 478,
+        "almacen": 1144,
+        "total": 1622
+      },
+      "TRIPLE VIRAL (S...)": {
+        "unidad": 500,
+        "almacen": 6825,
+        "total": 7325
+      },
+      "VACUNA ANTIR...": {
+        "unidad": 22,
+        "almacen": 2,
+        "total": 24
+      },
+      "VARICELA": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "VHP 9 V": {
+        "unidad": 25,
+        "almacen": 17,
+        "total": 42
+      },
+      "VITAMINA A": {
+        "unidad": 500,
+        "almacen": 290,
+        "total": 790
+      }
+    }
+  },
+  "Farmacia HGSZ-MF 20": {
+    "zona": "LAGUNA",
+    "vacunas": {
+      "BCG": {
+        "unidad": 0,
+        "almacen": 86,
+        "total": 86
+      },
+      "COVID-19": {
+        "unidad": 0,
+        "almacen": 78,
+        "total": 78
+      },
+      "DOBLE VIRAL (SR)": {
+        "unidad": 0,
+        "almacen": 60,
+        "total": 60
+      },
+      "DPT": {
+        "unidad": 0,
+        "almacen": 578,
+        "total": 578
+      },
+      "HEPATITIS A AD...": {
+        "unidad": 0,
+        "almacen": 64,
+        "total": 64
+      },
+      "HEPATITIS B": {
+        "unidad": 0,
+        "almacen": 34,
+        "total": 34
+      },
+      "HEXAVALENTE": {
+        "unidad": 0,
+        "almacen": 217,
+        "total": 217
+      },
+      "INFLUENZA TET...": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "NEUMO 20 V": {
+        "unidad": 0,
+        "almacen": 480,
+        "total": 480
+      },
+      "ROTAVIRUS": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "TDPA": {
+        "unidad": 0,
+        "almacen": 1144,
+        "total": 1144
+      },
+      "TRIPLE VIRAL (S...)": {
+        "unidad": 0,
+        "almacen": 6825,
+        "total": 6825
+      }
+    }
+  },
+  "Farmacia HGSZ-MF 21": {
+    "zona": "LAGUNA",
+    "vacunas": {
+      "ANTIVIPERINO": {
+        "unidad": 5,
+        "almacen": 0,
+        "total": 5
+      },
+      "BCG": {
+        "unidad": 0,
+        "almacen": 86,
+        "total": 86
+      },
+      "COVID-19": {
+        "unidad": 1,
+        "almacen": 78,
+        "total": 79
+      },
+      "DOBLE VIRAL (SR)": {
+        "unidad": 200,
+        "almacen": 60,
+        "total": 260
+      },
+      "DPT": {
+        "unidad": 0,
+        "almacen": 578,
+        "total": 578
+      },
+      "HEPATITIS A AD...": {
+        "unidad": 0,
+        "almacen": 64,
+        "total": 64
+      },
+      "HEPATITIS B": {
+        "unidad": 0,
+        "almacen": 34,
+        "total": 34
+      },
+      "HEXAVALENTE": {
+        "unidad": 13,
+        "almacen": 217,
+        "total": 230
+      },
+      "INFLUENZA TET...": {
+        "unidad": 30,
+        "almacen": 0,
+        "total": 30
+      },
+      "NEUMO 20 V": {
+        "unidad": 0,
+        "almacen": 480,
+        "total": 480
+      },
+      "ROTAVIRUS": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "TDPA": {
+        "unidad": 200,
+        "almacen": 1144,
+        "total": 1344
+      },
+      "TRIPLE VIRAL (S...)": {
+        "unidad": 4700,
+        "almacen": 6825,
+        "total": 11525
+      }
+    }
+  },
+  "Farmacia HGZ 11": {
+    "zona": "LAGUNA",
+    "vacunas": {
+      "ANTIALACRAN": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "ANTIARACNIDO F/I": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "ANTIVIPERINO": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "BCG": {
+        "unidad": 0,
+        "almacen": 86,
+        "total": 86
+      },
+      "DOBLE VIRAL (SR)": {
+        "unidad": 0,
+        "almacen": 60,
+        "total": 60
+      },
+      "GAMA ANITETA...": {
+        "unidad": 0,
+        "almacen": 2,
+        "total": 2
+      },
+      "GAMA ANITRA...": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "HEPATITIS A AD...": {
+        "unidad": 0,
+        "almacen": 64,
+        "total": 64
+      },
+      "HEPATITIS B": {
+        "unidad": 0,
+        "almacen": 34,
+        "total": 34
+      },
+      "TD": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "TDPA": {
+        "unidad": 0,
+        "almacen": 1144,
+        "total": 1144
+      },
+      "TRIPLE VIRAL (S...)": {
+        "unidad": 4100,
+        "almacen": 6825,
+        "total": 10925
+      },
+      "VACUNA ANTIR...": {
+        "unidad": 0,
+        "almacen": 2,
+        "total": 2
+      },
+      "VITAMINA A": {
+        "unidad": 0,
+        "almacen": 290,
+        "total": 290
+      }
+    }
+  },
+  "Farmacia HGZ-MF 16": {
+    "zona": "LAGUNA",
+    "vacunas": {
+      "ANTIALACRAN": {
+        "unidad": 10,
+        "almacen": 0,
+        "total": 10
+      },
+      "ANTIARACNIDO F/I": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "ANTICORALILLO": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "ANTIVIPERINO": {
+        "unidad": 73,
+        "almacen": 0,
+        "total": 73
+      },
+      "BCG": {
+        "unidad": 0,
+        "almacen": 86,
+        "total": 86
+      },
+      "COVID-19": {
+        "unidad": 54,
+        "almacen": 173,
+        "total": 227
+      },
+      "DOBLE VIRAL (SR)": {
+        "unidad": 1380,
+        "almacen": 60,
+        "total": 1440
+      },
+      "DPT": {
+        "unidad": 0,
+        "almacen": 578,
+        "total": 578
+      },
+      "GAMA ANITETA...": {
+        "unidad": 34,
+        "almacen": 2,
+        "total": 36
+      },
+      "GAMA ANITRA...": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "HEPATITIS A": {
+        "unidad": 0,
+        "almacen": 8,
+        "total": 8
+      },
+      "HEPATITIS A AD...": {
+        "unidad": 120,
+        "almacen": 64,
+        "total": 184
+      },
+      "HEPATITIS B": {
+        "unidad": 35,
+        "almacen": 34,
+        "total": 69
+      },
+      "HEXAVALENTE": {
+        "unidad": 203,
+        "almacen": 217,
+        "total": 420
+      },
+      "INFLUENZA TET...": {
+        "unidad": 20,
+        "almacen": 0,
+        "total": 20
+      },
+      "NEUMO 13 V": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "NEUMO 20 V": {
+        "unidad": 0,
+        "almacen": 480,
+        "total": 480
+      },
+      "NEUMO 23 V": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "ROTAVIRUS": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "TD": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "TDPA": {
+        "unidad": 589,
+        "almacen": 1144,
+        "total": 1733
+      },
+      "TRIPLE VIRAL (S...)": {
+        "unidad": 5900,
+        "almacen": 6825,
+        "total": 12725
+      },
+      "VACUNA ANTIR...": {
+        "unidad": 0,
+        "almacen": 2,
+        "total": 2
+      },
+      "VARICELA": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "VHP 9 V": {
+        "unidad": 73,
+        "almacen": 17,
+        "total": 90
+      },
+      "VITAMINA A": {
+        "unidad": 435,
+        "almacen": 290,
+        "total": 725
+      }
+    }
+  },
+  "Farmacia HGZ-MF 18": {
+    "zona": "LAGUNA",
+    "vacunas": {
+      "ANTIALACRAN": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "ANTIARACNIDO F/I": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "ANTICORALILLO": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "ANTIVIPERINO": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "BCG": {
+        "unidad": 0,
+        "almacen": 86,
+        "total": 86
+      },
+      "COVID-19": {
+        "unidad": 14,
+        "almacen": 173,
+        "total": 187
+      },
+      "DOBLE VIRAL (SR)": {
+        "unidad": 0,
+        "almacen": 60,
+        "total": 60
+      },
+      "DPT": {
+        "unidad": 0,
+        "almacen": 578,
+        "total": 578
+      },
+      "GAMA ANITETA...": {
+        "unidad": 0,
+        "almacen": 2,
+        "total": 2
+      },
+      "GAMA ANITRA...": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "HEPATITIS A": {
+        "unidad": 0,
+        "almacen": 8,
+        "total": 8
+      },
+      "HEPATITIS A AD...": {
+        "unidad": 0,
+        "almacen": 64,
+        "total": 64
+      },
+      "HEPATITIS B": {
+        "unidad": 0,
+        "almacen": 34,
+        "total": 34
+      },
+      "HEXAVALENTE": {
+        "unidad": 0,
+        "almacen": 217,
+        "total": 217
+      },
+      "INFLUENZA TET...": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "NEUMO 13 V": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "NEUMO 20 V": {
+        "unidad": 0,
+        "almacen": 480,
+        "total": 480
+      },
+      "NEUMO 23 V": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "ROTAVIRUS": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "TD": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "TDPA": {
+        "unidad": 0,
+        "almacen": 1144,
+        "total": 1144
+      },
+      "TRIPLE VIRAL (S...)": {
+        "unidad": 4800,
+        "almacen": 6825,
+        "total": 11625
+      },
+      "VACUNA ANTIR...": {
+        "unidad": 0,
+        "almacen": 2,
+        "total": 2
+      },
+      "VARICELA": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "VHP 9 V": {
+        "unidad": 0,
+        "almacen": 17,
+        "total": 17
+      },
+      "VITAMINA A": {
+        "unidad": 0,
+        "almacen": 290,
+        "total": 290
+      }
+    }
+  },
+  "Farmacia HGZ-MF 24": {
+    "zona": "LAGUNA",
+    "vacunas": {
+      "ANTIALACRAN": {
+        "unidad": 10,
+        "almacen": 0,
+        "total": 10
+      },
+      "ANTIARACNIDO F/I": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "ANTIVIPERINO": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "BCG": {
+        "unidad": 46,
+        "almacen": 86,
+        "total": 132
+      },
+      "COVID-19": {
+        "unidad": 0,
+        "almacen": 173,
+        "total": 173
+      },
+      "DOBLE VIRAL (SR)": {
+        "unidad": 20,
+        "almacen": 60,
+        "total": 80
+      },
+      "DPT": {
+        "unidad": 25,
+        "almacen": 578,
+        "total": 603
+      },
+      "HEPATITIS A": {
+        "unidad": 8,
+        "almacen": 8,
+        "total": 16
+      },
+      "HEPATITIS A AD...": {
+        "unidad": 3,
+        "almacen": 64,
+        "total": 67
+      },
+      "HEPATITIS B": {
+        "unidad": 100,
+        "almacen": 34,
+        "total": 134
+      },
+      "HEXAVALENTE": {
+        "unidad": 30,
+        "almacen": 217,
+        "total": 247
+      },
+      "INFLUENZA TET...": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "NEUMO 13 V": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "NEUMO 20 V": {
+        "unidad": 600,
+        "almacen": 480,
+        "total": 1080
+      },
+      "NEUMO 23 V": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "ROTAVIRUS": {
+        "unidad": 11,
+        "almacen": 0,
+        "total": 11
+      },
+      "TD": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "TDPA": {
+        "unidad": 28,
+        "almacen": 1144,
+        "total": 1172
+      },
+      "TRIPLE VIRAL (S...)": {
+        "unidad": 5100,
+        "almacen": 6825,
+        "total": 11925
+      },
+      "VACUNA ANTIR...": {
+        "unidad": 0,
+        "almacen": 2,
+        "total": 2
+      },
+      "VITAMINA A": {
+        "unidad": 0,
+        "almacen": 290,
+        "total": 290
+      }
+    }
+  },
+  "Farmacia UMF 66": {
+    "zona": "LAGUNA",
+    "vacunas": {
+      "BCG": {
+        "unidad": 0,
+        "almacen": 86,
+        "total": 86
+      },
+      "COVID-19": {
+        "unidad": 0,
+        "almacen": 173,
+        "total": 173
+      },
+      "DOBLE VIRAL (SR)": {
+        "unidad": 0,
+        "almacen": 60,
+        "total": 60
+      },
+      "DPT": {
+        "unidad": 0,
+        "almacen": 578,
+        "total": 578
+      },
+      "HEPATITIS A": {
+        "unidad": 0,
+        "almacen": 8,
+        "total": 8
+      },
+      "HEPATITIS A AD...": {
+        "unidad": 0,
+        "almacen": 64,
+        "total": 64
+      },
+      "HEPATITIS B": {
+        "unidad": 50,
+        "almacen": 34,
+        "total": 84
+      },
+      "HEXAVALENTE": {
+        "unidad": 0,
+        "almacen": 217,
+        "total": 217
+      },
+      "INFLUENZA TET...": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "NEUMO 13 V": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "NEUMO 20 V": {
+        "unidad": 0,
+        "almacen": 480,
+        "total": 480
+      },
+      "ROTAVIRUS": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "TDPA": {
+        "unidad": 0,
+        "almacen": 1144,
+        "total": 1144
+      },
+      "TRIPLE VIRAL (S...)": {
+        "unidad": 0,
+        "almacen": 6825,
+        "total": 6825
+      },
+      "VACUNA ANTIR...": {
+        "unidad": 3,
+        "almacen": 2,
+        "total": 5
+      },
+      "VITAMINA A": {
+        "unidad": 0,
+        "almacen": 290,
+        "total": 290
+      }
+    }
+  },
+  "Farmacia UMF 93": {
+    "zona": "LAGUNA",
+    "vacunas": {
+      "ANTIALACRAN": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "ANTIARACNIDO F/I": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "ANTIVIPERINO": {
+        "unidad": 12,
+        "almacen": 0,
+        "total": 12
+      },
+      "BCG": {
+        "unidad": 10,
+        "almacen": 86,
+        "total": 96
+      },
+      "COVID-19": {
+        "unidad": 5,
+        "almacen": 173,
+        "total": 178
+      },
+      "DOBLE VIRAL (SR)": {
+        "unidad": 0,
+        "almacen": 60,
+        "total": 60
+      },
+      "DPT": {
+        "unidad": 9,
+        "almacen": 578,
+        "total": 587
+      },
+      "GAMA ANITETA...": {
+        "unidad": 0,
+        "almacen": 2,
+        "total": 2
+      },
+      "GAMA ANITRA...": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "HEPATITIS A AD...": {
+        "unidad": 0,
+        "almacen": 64,
+        "total": 64
+      },
+      "HEPATITIS B": {
+        "unidad": 0,
+        "almacen": 34,
+        "total": 34
+      },
+      "HEXAVALENTE": {
+        "unidad": 0,
+        "almacen": 217,
+        "total": 217
+      },
+      "INFLUENZA TET...": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "NEUMO 13 V": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "NEUMO 20 V": {
+        "unidad": 0,
+        "almacen": 480,
+        "total": 480
+      },
+      "NEUMO 23 V": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "ROTAVIRUS": {
+        "unidad": 1,
+        "almacen": 0,
+        "total": 1
+      },
+      "TD": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "TDPA": {
+        "unidad": 272,
+        "almacen": 1144,
+        "total": 1416
+      },
+      "TRIPLE VIRAL (S...)": {
+        "unidad": 0,
+        "almacen": 6825,
+        "total": 6825
+      },
+      "VACUNA ANTIR...": {
+        "unidad": 6,
+        "almacen": 2,
+        "total": 8
+      },
+      "VHP 9 V": {
+        "unidad": 24,
+        "almacen": 17,
+        "total": 41
+      },
+      "VITAMINA A": {
+        "unidad": 300,
+        "almacen": 290,
+        "total": 590
+      }
+    }
+  },
+  "Direccion UMF 12": {
+    "zona": "NORTE",
+    "vacunas": {
+      "ANTIALACRAN": {
+        "unidad": 10,
+        "almacen": 0,
+        "total": 10
+      },
+      "ANTIARACNIDO F/I": {
+        "unidad": 10,
+        "almacen": 0,
+        "total": 10
+      },
+      "ANTIVIPERINO": {
+        "unidad": 5,
+        "almacen": 0,
+        "total": 5
+      },
+      "BCG": {
+        "unidad": 0,
+        "almacen": 86,
+        "total": 86
+      },
+      "COVID-19": {
+        "unidad": 5,
+        "almacen": 173,
+        "total": 178
+      },
+      "DOBLE VIRAL (SR)": {
+        "unidad": 120,
+        "almacen": 60,
+        "total": 180
+      },
+      "DPT": {
+        "unidad": 0,
+        "almacen": 578,
+        "total": 578
+      },
+      "GAMA ANITETA...": {
+        "unidad": 0,
+        "almacen": 2,
+        "total": 2
+      },
+      "GAMA ANITRA...": {
+        "unidad": 4,
+        "almacen": 0,
+        "total": 4
+      },
+      "HEPATITIS A AD...": {
+        "unidad": 10,
+        "almacen": 64,
+        "total": 74
+      },
+      "HEPATITIS B": {
+        "unidad": 2,
+        "almacen": 34,
+        "total": 36
+      },
+      "HEXAVALENTE": {
+        "unidad": 0,
+        "almacen": 217,
+        "total": 217
+      },
+      "INFLUENZA TET...": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "NEUMO 13 V": {
+        "unidad": 15,
+        "almacen": 0,
+        "total": 15
+      },
+      "NEUMO 23 V": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "ROTAVIRUS": {
+        "unidad": 8,
+        "almacen": 0,
+        "total": 8
+      },
+      "TD": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "TDPA": {
+        "unidad": 145,
+        "almacen": 1144,
+        "total": 1289
+      },
+      "TRIPLE VIRAL (S...)": {
+        "unidad": 200,
+        "almacen": 6825,
+        "total": 7025
+      },
+      "VACUNA ANTIR...": {
+        "unidad": 16,
+        "almacen": 2,
+        "total": 18
+      },
+      "VHP 9 V": {
+        "unidad": 0,
+        "almacen": 17,
+        "total": 17
+      },
+      "VITAMINA A": {
+        "unidad": 0,
+        "almacen": 290,
+        "total": 290
+      }
+    }
+  },
+  "Direccion UMF 81": {
+    "zona": "NORTE",
+    "vacunas": {
+      "ANTIVIPERINO": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "BCG": {
+        "unidad": 24,
+        "almacen": 86,
+        "total": 110
+      },
+      "COVID-19": {
+        "unidad": 0,
+        "almacen": 78,
+        "total": 78
+      },
+      "DOBLE VIRAL (SR)": {
+        "unidad": 426,
+        "almacen": 60,
+        "total": 486
+      },
+      "HEPATITIS A": {
+        "unidad": 174,
+        "almacen": 8,
+        "total": 182
+      },
+      "HEPATITIS A AD...": {
+        "unidad": 50,
+        "almacen": 64,
+        "total": 114
+      },
+      "HEPATITIS B": {
+        "unidad": 50,
+        "almacen": 34,
+        "total": 84
+      },
+      "HEXAVALENTE": {
+        "unidad": 0,
+        "almacen": 217,
+        "total": 217
+      },
+      "INFLUENZA TET...": {
+        "unidad": 40,
+        "almacen": 0,
+        "total": 40
+      },
+      "NEUMO 13 V": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "ROTAVIRUS": {
+        "unidad": 6,
+        "almacen": 0,
+        "total": 6
+      },
+      "TDPA": {
+        "unidad": 921,
+        "almacen": 1144,
+        "total": 2065
+      },
+      "TRIPLE VIRAL (S...)": {
+        "unidad": 1350,
+        "almacen": 6825,
+        "total": 8175
+      }
+    }
+  },
+  "Direccion UMF 87": {
+    "zona": "NORTE",
+    "vacunas": {
+      "ANTIALACRAN": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "ANTIARACNIDO F/I": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "ANTIVIPERINO": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "COVID-19": {
+        "unidad": 1,
+        "almacen": 78,
+        "total": 79
+      },
+      "DOBLE VIRAL (SR)": {
+        "unidad": 0,
+        "almacen": 60,
+        "total": 60
+      },
+      "HEPATITIS A": {
+        "unidad": 50,
+        "almacen": 8,
+        "total": 58
+      },
+      "HEPATITIS A AD...": {
+        "unidad": 0,
+        "almacen": 64,
+        "total": 64
+      },
+      "HEPATITIS B": {
+        "unidad": 0,
+        "almacen": 34,
+        "total": 34
+      },
+      "HEXAVALENTE": {
+        "unidad": 0,
+        "almacen": 217,
+        "total": 217
+      },
+      "INFLUENZA TET...": {
+        "unidad": 60,
+        "almacen": 0,
+        "total": 60
+      },
+      "NEUMO 13 V": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "ROTAVIRUS": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "TDPA": {
+        "unidad": 0,
+        "almacen": 1144,
+        "total": 1144
+      },
+      "TRIPLE VIRAL (S...)": {
+        "unidad": 550,
+        "almacen": 6825,
+        "total": 7375
+      },
+      "VACUNA ANTIR...": {
+        "unidad": 0,
+        "almacen": 2,
+        "total": 2
+      }
+    }
+  },
+  "Farmacia HGSZ-MF 6": {
+    "zona": "NORTE",
+    "vacunas": {
+      "BCG": {
+        "unidad": 0,
+        "almacen": 86,
+        "total": 86
+      },
+      "DOBLE VIRAL (SR)": {
+        "unidad": 0,
+        "almacen": 60,
+        "total": 60
+      },
+      "DPT": {
+        "unidad": 0,
+        "almacen": 578,
+        "total": 578
+      },
+      "HEPATITIS A AD...": {
+        "unidad": 0,
+        "almacen": 64,
+        "total": 64
+      },
+      "HEPATITIS B": {
+        "unidad": 0,
+        "almacen": 34,
+        "total": 34
+      },
+      "HEXAVALENTE": {
+        "unidad": 0,
+        "almacen": 217,
+        "total": 217
+      },
+      "NEUMO 20 V": {
+        "unidad": 0,
+        "almacen": 480,
+        "total": 480
+      },
+      "ROTAVIRUS": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "TDPA": {
+        "unidad": 0,
+        "almacen": 1144,
+        "total": 1144
+      },
+      "TRIPLE VIRAL (S...)": {
+        "unidad": 0,
+        "almacen": 6825,
+        "total": 6825
+      }
+    }
+  },
+  "Farmacia HRS Ramos": {
+    "zona": "NORTE",
+    "vacunas": {
+      "ANTIALACRAN": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "ANTIVIPERINO": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "BCG": {
+        "unidad": 0,
+        "almacen": 86,
+        "total": 86
+      },
+      "COVID-19": {
+        "unidad": 0,
+        "almacen": 78,
+        "total": 78
+      },
+      "DOBLE VIRAL (SR)": {
+        "unidad": 0,
+        "almacen": 60,
+        "total": 60
+      },
+      "DPT": {
+        "unidad": 0,
+        "almacen": 578,
+        "total": 578
+      },
+      "HEPATITIS B": {
+        "unidad": 0,
+        "almacen": 34,
+        "total": 34
+      },
+      "HEXAVALENTE": {
+        "unidad": 0,
+        "almacen": 217,
+        "total": 217
+      },
+      "INFLUENZA TET...": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "NEUMO 13 V": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "ROTAVIRUS": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "TD": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "TDPA": {
+        "unidad": 0,
+        "almacen": 1144,
+        "total": 1144
+      },
+      "TRIPLE VIRAL (S...)": {
+        "unidad": 0,
+        "almacen": 6825,
+        "total": 6825
+      },
+      "VACUNA ANTIR...": {
+        "unidad": 0,
+        "almacen": 2,
+        "total": 2
+      },
+      "VHP 9 V": {
+        "unidad": 0,
+        "almacen": 17,
+        "total": 17
+      }
+    }
+  },
+  "Farmacia HRS San Buenaventura": {
+    "zona": "NORTE",
+    "vacunas": {
+      "INFLUENZA TET...": {
+        "unidad": 45,
+        "almacen": 0,
+        "total": 45
+      }
+    }
+  },
+  "Farmacia UMF 79": {
+    "zona": "NORTE",
+    "vacunas": {
+      "BCG": {
+        "unidad": 0,
+        "almacen": 86,
+        "total": 86
+      },
+      "COVID-19": {
+        "unidad": 0,
+        "almacen": 173,
+        "total": 173
+      },
+      "DOBLE VIRAL (SR)": {
+        "unidad": 475,
+        "almacen": 60,
+        "total": 535
+      },
+      "DPT": {
+        "unidad": 0,
+        "almacen": 578,
+        "total": 578
+      },
+      "HEPATITIS A": {
+        "unidad": 0,
+        "almacen": 8,
+        "total": 8
+      },
+      "HEPATITIS A AD...": {
+        "unidad": 10,
+        "almacen": 64,
+        "total": 74
+      },
+      "HEPATITIS B": {
+        "unidad": 61,
+        "almacen": 34,
+        "total": 95
+      },
+      "HEXAVALENTE": {
+        "unidad": 224,
+        "almacen": 217,
+        "total": 441
+      },
+      "INFLUENZA TET...": {
+        "unidad": 25,
+        "almacen": 0,
+        "total": 25
+      },
+      "NEUMO 13 V": {
+        "unidad": 137,
+        "almacen": 0,
+        "total": 137
+      },
+      "ROTAVIRUS": {
+        "unidad": 12,
+        "almacen": 0,
+        "total": 12
+      },
+      "TD": {
+        "unidad": 151,
+        "almacen": 0,
+        "total": 151
+      },
+      "TDPA": {
+        "unidad": 483,
+        "almacen": 1144,
+        "total": 1627
+      },
+      "TRIPLE VIRAL (S...)": {
+        "unidad": 1350,
+        "almacen": 6825,
+        "total": 8175
+      },
+      "VACUNA ANTIR...": {
+        "unidad": 0,
+        "almacen": 2,
+        "total": 2
+      },
+      "VHP 9 V": {
+        "unidad": 0,
+        "almacen": 17,
+        "total": 17
+      },
+      "VITAMINA A": {
+        "unidad": 0,
+        "almacen": 290,
+        "total": 290
+      }
+    }
+  },
+  "Direccion UMF 3": {
+    "zona": "SUR",
+    "vacunas": {
+      "COVID-19": {
+        "unidad": 5,
+        "almacen": 95,
+        "total": 100
+      },
+      "DOBLE VIRAL (SR)": {
+        "unidad": 200,
+        "almacen": 60,
+        "total": 260
+      },
+      "HEPATITIS A AD...": {
+        "unidad": 30,
+        "almacen": 64,
+        "total": 94
+      },
+      "HEPATITIS B": {
+        "unidad": 20,
+        "almacen": 34,
+        "total": 54
+      },
+      "HEXAVALENTE": {
+        "unidad": 32,
+        "almacen": 217,
+        "total": 249
+      },
+      "INFLUENZA TET...": {
+        "unidad": 30,
+        "almacen": 0,
+        "total": 30
+      },
+      "NEUMO 13 V": {
+        "unidad": 40,
+        "almacen": 0,
+        "total": 40
+      },
+      "ROTAVIRUS": {
+        "unidad": 8,
+        "almacen": 0,
+        "total": 8
+      },
+      "TDPA": {
+        "unidad": 50,
+        "almacen": 1144,
+        "total": 1194
+      },
+      "TRIPLE VIRAL (S...)": {
+        "unidad": 1200,
+        "almacen": 6825,
+        "total": 8025
+      },
+      "VACUNA ANTIR...": {
+        "unidad": 2,
+        "almacen": 2,
+        "total": 4
+      },
+      "VITAMINA A": {
+        "unidad": 40,
+        "almacen": 290,
+        "total": 330
+      }
+    }
+  },
+  "Direccion UMF 4": {
+    "zona": "SUR",
+    "vacunas": {
+      "ANTIALACRAN": {
+        "unidad": 1,
+        "almacen": 0,
+        "total": 1
+      },
+      "ANTIARACNIDO F/I": {
+        "unidad": 2,
+        "almacen": 0,
+        "total": 2
+      },
+      "COVID-19": {
+        "unidad": 5,
+        "almacen": 95,
+        "total": 100
+      },
+      "DOBLE VIRAL (SR)": {
+        "unidad": 78,
+        "almacen": 60,
+        "total": 138
+      },
+      "DPT": {
+        "unidad": 10,
+        "almacen": 578,
+        "total": 588
+      },
+      "HEPATITIS A AD...": {
+        "unidad": 10,
+        "almacen": 64,
+        "total": 74
+      },
+      "HEPATITIS B": {
+        "unidad": 10,
+        "almacen": 34,
+        "total": 44
+      },
+      "HEXAVALENTE": {
+        "unidad": 25,
+        "almacen": 217,
+        "total": 242
+      },
+      "NEUMO 13 V": {
+        "unidad": 15,
+        "almacen": 0,
+        "total": 15
+      },
+      "ROTAVIRUS": {
+        "unidad": 2,
+        "almacen": 0,
+        "total": 2
+      },
+      "TDPA": {
+        "unidad": 10,
+        "almacen": 1144,
+        "total": 1154
+      },
+      "TRIPLE VIRAL (S...)": {
+        "unidad": 221,
+        "almacen": 6825,
+        "total": 7046
+      },
+      "VHP 9 V": {
+        "unidad": 10,
+        "almacen": 0,
+        "total": 10
+      },
+      "VITAMINA A": {
+        "unidad": 40,
+        "almacen": 290,
+        "total": 330
+      }
+    }
+  },
+  "Direccion UMF 60": {
+    "zona": "SUR",
+    "vacunas": {
+      "TRIPLE VIRAL (S...)": {
+        "unidad": 0,
+        "almacen": 6825,
+        "total": 6825
+      }
+    }
+  },
+  "Direccion UMF 70": {
+    "zona": "SUR",
+    "vacunas": {
+      "DOBLE VIRAL (SR)": {
+        "unidad": 0,
+        "almacen": 60,
+        "total": 60
+      },
+      "TRIPLE VIRAL (S...)": {
+        "unidad": 1070,
+        "almacen": 6825,
+        "total": 7895
+      }
+    }
+  },
+  "Direccion UMR-EM 52": {
+    "zona": "SUR",
+    "vacunas": {
+      "ANTIVIPERINO": {
+        "unidad": 2,
+        "almacen": 0,
+        "total": 2
+      },
+      "DPT": {
+        "unidad": 2,
+        "almacen": 0,
+        "total": 2
+      },
+      "TRIPLE VIRAL (S...)": {
+        "unidad": 3,
+        "almacen": 6825,
+        "total": 6828
+      }
+    }
+  },
+  "Farmacia HGZ-MF 2": {
+    "zona": "SUR",
+    "vacunas": {
+      "ANTIALACRAN": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "ANTIARACNIDO F/I": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "ANTICORALILLO": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "ANTIVIPERINO": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "BCG": {
+        "unidad": 54,
+        "almacen": 86,
+        "total": 140
+      },
+      "COVID-19": {
+        "unidad": 66,
+        "almacen": 173,
+        "total": 239
+      },
+      "DOBLE VIRAL (SR)": {
+        "unidad": 1967,
+        "almacen": 60,
+        "total": 2027
+      },
+      "DPT": {
+        "unidad": 0,
+        "almacen": 578,
+        "total": 578
+      },
+      "GAMA ANITETA...": {
+        "unidad": 0,
+        "almacen": 2,
+        "total": 2
+      },
+      "GAMA ANITRA...": {
+        "unidad": 5,
+        "almacen": 0,
+        "total": 5
+      },
+      "HEPATITIS A": {
+        "unidad": 0,
+        "almacen": 8,
+        "total": 8
+      },
+      "HEPATITIS A AD...": {
+        "unidad": 80,
+        "almacen": 64,
+        "total": 144
+      },
+      "HEPATITIS B": {
+        "unidad": 100,
+        "almacen": 34,
+        "total": 134
+      },
+      "HEXAVALENTE": {
+        "unidad": 0,
+        "almacen": 217,
+        "total": 217
+      },
+      "INFLUENZA TET...": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "NEUMO 13 V": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "ROTAVIRUS": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "TD": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "TDPA": {
+        "unidad": 0,
+        "almacen": 1144,
+        "total": 1144
+      },
+      "TRIPLE VIRAL (S...)": {
+        "unidad": 6000,
+        "almacen": 6825,
+        "total": 12825
+      },
+      "VACUNA ANTIR...": {
+        "unidad": 0,
+        "almacen": 2,
+        "total": 2
+      },
+      "VARICELA": {
+        "unidad": 159,
+        "almacen": 0,
+        "total": 159
+      },
+      "VHP 9 V": {
+        "unidad": 103,
+        "almacen": 17,
+        "total": 120
+      },
+      "VITAMINA A": {
+        "unidad": 105,
+        "almacen": 290,
+        "total": 395
+      }
+    }
+  },
+  "Farmacia UMAA 89": {
+    "zona": "SUR",
+    "vacunas": {
+      "ANTIALACRAN": {
+        "unidad": 5,
+        "almacen": 0,
+        "total": 5
+      },
+      "ANTIARACNIDO F/I": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "ANTIVIPERINO": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "BCG": {
+        "unidad": 10,
+        "almacen": 86,
+        "total": 96
+      },
+      "COVID-19": {
+        "unidad": 0,
+        "almacen": 173,
+        "total": 173
+      },
+      "DOBLE VIRAL (SR)": {
+        "unidad": 214,
+        "almacen": 60,
+        "total": 274
+      },
+      "DPT": {
+        "unidad": 23,
+        "almacen": 578,
+        "total": 601
+      },
+      "GAMA ANITETA...": {
+        "unidad": 0,
+        "almacen": 2,
+        "total": 2
+      },
+      "GAMA ANITRA...": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "HEPATITIS A AD...": {
+        "unidad": 50,
+        "almacen": 64,
+        "total": 114
+      },
+      "HEPATITIS B": {
+        "unidad": 3,
+        "almacen": 34,
+        "total": 37
+      },
+      "HEXAVALENTE": {
+        "unidad": 22,
+        "almacen": 217,
+        "total": 239
+      },
+      "INFLUENZA TET...": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "NEUMO 13 V": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "NEUMO 23 V": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "ROTAVIRUS": {
+        "unidad": 12,
+        "almacen": 0,
+        "total": 12
+      },
+      "TD": {
+        "unidad": 93,
+        "almacen": 0,
+        "total": 93
+      },
+      "TDPA": {
+        "unidad": 168,
+        "almacen": 1144,
+        "total": 1312
+      },
+      "TRIPLE VIRAL (S...)": {
+        "unidad": 400,
+        "almacen": 6825,
+        "total": 7225
+      },
+      "VACUNA ANTIR...": {
+        "unidad": 0,
+        "almacen": 2,
+        "total": 2
+      },
+      "VHP 9 V": {
+        "unidad": 136,
+        "almacen": 17,
+        "total": 153
+      },
+      "VITAMINA A": {
+        "unidad": 200,
+        "almacen": 290,
+        "total": 490
+      }
+    }
+  },
+  "Farmacia UMF 73": {
+    "zona": "SUR",
+    "vacunas": {
+      "ANTIALACRAN": {
+        "unidad": 51,
+        "almacen": 0,
+        "total": 51
+      },
+      "ANTIARACNIDO F/I": {
+        "unidad": 70,
+        "almacen": 0,
+        "total": 70
+      },
+      "ANTICORALILLO": {
+        "unidad": 5,
+        "almacen": 0,
+        "total": 5
+      },
+      "ANTIVIPERINO": {
+        "unidad": 50,
+        "almacen": 0,
+        "total": 50
+      },
+      "BCG": {
+        "unidad": 0,
+        "almacen": 86,
+        "total": 86
+      },
+      "COVID-19": {
+        "unidad": 0,
+        "almacen": 173,
+        "total": 173
+      },
+      "DOBLE VIRAL (SR)": {
+        "unidad": 0,
+        "almacen": 60,
+        "total": 60
+      },
+      "DPT": {
+        "unidad": 204,
+        "almacen": 578,
+        "total": 782
+      },
+      "GAMA ANITETA...": {
+        "unidad": 14,
+        "almacen": 2,
+        "total": 16
+      },
+      "GAMA ANITRA...": {
+        "unidad": 5,
+        "almacen": 0,
+        "total": 5
+      },
+      "HEPATITIS A": {
+        "unidad": 120,
+        "almacen": 8,
+        "total": 128
+      },
+      "HEPATITIS A AD...": {
+        "unidad": 0,
+        "almacen": 64,
+        "total": 64
+      },
+      "HEPATITIS B": {
+        "unidad": 0,
+        "almacen": 34,
+        "total": 34
+      },
+      "HEXAVALENTE": {
+        "unidad": 202,
+        "almacen": 217,
+        "total": 419
+      },
+      "INFLUENZA TET...": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "NEUMO 13 V": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "NEUMO 23 V": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "ROTAVIRUS": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "TD": {
+        "unidad": 397,
+        "almacen": 0,
+        "total": 397
+      },
+      "TDPA": {
+        "unidad": 1881,
+        "almacen": 1144,
+        "total": 3025
+      },
+      "TRIPLE VIRAL (S...)": {
+        "unidad": 0,
+        "almacen": 6825,
+        "total": 6825
+      },
+      "VACUNA ANTIR...": {
+        "unidad": 0,
+        "almacen": 2,
+        "total": 2
+      },
+      "VARICELA": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "VHP 9 V": {
+        "unidad": 75,
+        "almacen": 17,
+        "total": 92
+      },
+      "VITAMINA A": {
+        "unidad": 0,
+        "almacen": 290,
+        "total": 290
+      }
+    }
+  },
+  "Farmacia UMF 82": {
+    "zona": "SUR",
+    "vacunas": {
+      "ANTIALACRAN": {
+        "unidad": 3,
+        "almacen": 0,
+        "total": 3
+      },
+      "ANTIARACNIDO F/I": {
+        "unidad": 20,
+        "almacen": 0,
+        "total": 20
+      },
+      "ANTIVIPERINO": {
+        "unidad": 10,
+        "almacen": 0,
+        "total": 10
+      },
+      "BCG": {
+        "unidad": 45,
+        "almacen": 86,
+        "total": 131
+      },
+      "COVID-19": {
+        "unidad": 53,
+        "almacen": 173,
+        "total": 226
+      },
+      "DOBLE VIRAL (SR)": {
+        "unidad": 0,
+        "almacen": 60,
+        "total": 60
+      },
+      "DPT": {
+        "unidad": 84,
+        "almacen": 578,
+        "total": 662
+      },
+      "GAMA ANITETA...": {
+        "unidad": 0,
+        "almacen": 2,
+        "total": 2
+      },
+      "GAMA ANITRA...": {
+        "unidad": 14,
+        "almacen": 0,
+        "total": 14
+      },
+      "HEPATITIS A": {
+        "unidad": 0,
+        "almacen": 8,
+        "total": 8
+      },
+      "HEPATITIS A AD...": {
+        "unidad": 10,
+        "almacen": 64,
+        "total": 74
+      },
+      "HEPATITIS B": {
+        "unidad": 130,
+        "almacen": 34,
+        "total": 164
+      },
+      "HEXAVALENTE": {
+        "unidad": 11,
+        "almacen": 217,
+        "total": 228
+      },
+      "INFLUENZA TET...": {
+        "unidad": 64,
+        "almacen": 0,
+        "total": 64
+      },
+      "NEUMO 13 V": {
+        "unidad": 14,
+        "almacen": 0,
+        "total": 14
+      },
+      "NEUMO 23 V": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "ROTAVIRUS": {
+        "unidad": 30,
+        "almacen": 0,
+        "total": 30
+      },
+      "TD": {
+        "unidad": 402,
+        "almacen": 0,
+        "total": 402
+      },
+      "TDPA": {
+        "unidad": 1507,
+        "almacen": 1144,
+        "total": 2651
+      },
+      "TRIPLE VIRAL (S...)": {
+        "unidad": 0,
+        "almacen": 6825,
+        "total": 6825
+      },
+      "VACUNA ANTIR...": {
+        "unidad": 21,
+        "almacen": 2,
+        "total": 23
+      },
+      "VARICELA": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "VHP 9 V": {
+        "unidad": 72,
+        "almacen": 17,
+        "total": 89
+      },
+      "VITAMINA A": {
+        "unidad": 769,
+        "almacen": 290,
+        "total": 1059
+      }
+    }
+  },
+  "Farmacia UMF 91": {
+    "zona": "SUR",
+    "vacunas": {
+      "ANTIALACRAN": {
+        "unidad": 3,
+        "almacen": 0,
+        "total": 3
+      },
+      "ANTIARACNIDO F/I": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "ANTIVIPERINO": {
+        "unidad": 12,
+        "almacen": 0,
+        "total": 12
+      },
+      "BCG": {
+        "unidad": 20,
+        "almacen": 86,
+        "total": 106
+      },
+      "COVID-19": {
+        "unidad": 0,
+        "almacen": 173,
+        "total": 173
+      },
+      "DOBLE VIRAL (SR)": {
+        "unidad": 50,
+        "almacen": 60,
+        "total": 110
+      },
+      "DPT": {
+        "unidad": 0,
+        "almacen": 578,
+        "total": 578
+      },
+      "GAMA ANITETA...": {
+        "unidad": 0,
+        "almacen": 2,
+        "total": 2
+      },
+      "GAMA ANITRA...": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "HEPATITIS A": {
+        "unidad": 40,
+        "almacen": 8,
+        "total": 48
+      },
+      "HEPATITIS B": {
+        "unidad": 40,
+        "almacen": 34,
+        "total": 74
+      },
+      "HEXAVALENTE": {
+        "unidad": 126,
+        "almacen": 217,
+        "total": 343
+      },
+      "INFLUENZA TET...": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "NEUMO 13 V": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "NEUMO 23 V": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "ROTAVIRUS": {
+        "unidad": 11,
+        "almacen": 0,
+        "total": 11
+      },
+      "TD": {
+        "unidad": 10,
+        "almacen": 0,
+        "total": 10
+      },
+      "TDPA": {
+        "unidad": 10,
+        "almacen": 1144,
+        "total": 1154
+      },
+      "TRIPLE VIRAL (S...)": {
+        "unidad": 550,
+        "almacen": 6825,
+        "total": 7375
+      },
+      "VACUNA ANTIR...": {
+        "unidad": 0,
+        "almacen": 2,
+        "total": 2
+      },
+      "VARICELA": {
+        "unidad": 0,
+        "almacen": 0,
+        "total": 0
+      },
+      "VHP 9 V": {
+        "unidad": 0,
+        "almacen": 17,
+        "total": 17
+      },
+      "VITAMINA A": {
+        "unidad": 0,
+        "almacen": 290,
+        "total": 290
+      }
+    }
+  }
+}
