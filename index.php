@@ -2,6 +2,7 @@
 // Control de Vacunas – Grupo 020
 // Vistas: Por Zona | Por Unidad Médica | Por Vacuna
 // Sin Composer. Actualizar: python actualizar.py
+date_default_timezone_set('America/Mexico_City');
 $jsonZones   = __DIR__ . '/cache_data.json';
 $jsonUnits   = __DIR__ . '/cache_units.json';
 $jsonVaccines= __DIR__ . '/cache_vaccines.json';
