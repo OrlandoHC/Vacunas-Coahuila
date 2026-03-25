@@ -1633,9 +1633,9 @@
         "total": 2398
       },
       "LAGUNA": {
-        "unidad": 90,
+        "unidad": 85,
         "almacen": 6358,
-        "total": 6448
+        "total": 6443
       },
       "NORTE": {
         "unidad": 0,
@@ -1771,9 +1771,9 @@
       {
         "nombre": "Direccion UMF 83",
         "zona": "LAGUNA",
-        "unidad": 44,
+        "unidad": 39,
         "almacen": 578,
-        "total": 622
+        "total": 617
       },
       {
         "nombre": "Farmacia HGSZ-MF 20",
@@ -3065,9 +3065,9 @@
         "total": 2048
       },
       "LAGUNA": {
-        "unidad": 326,
+        "unidad": 301,
         "almacen": 2387,
-        "total": 2713
+        "total": 2688
       },
       "NORTE": {
         "unidad": 224,
@@ -3231,9 +3231,9 @@
       {
         "nombre": "Direccion UMF 83",
         "zona": "LAGUNA",
-        "unidad": 25,
+        "unidad": 0,
         "almacen": 217,
-        "total": 242
+        "total": 217
       },
       {
         "nombre": "Farmacia HGSZ-MF 20",
@@ -4543,9 +4543,9 @@
         "total": 173
       },
       "LAGUNA": {
-        "unidad": 418,
+        "unidad": 403,
         "almacen": 0,
-        "total": 418
+        "total": 403
       },
       "NORTE": {
         "unidad": 151,
@@ -4667,9 +4667,9 @@
       {
         "nombre": "Direccion UMF 83",
         "zona": "LAGUNA",
-        "unidad": 409,
+        "unidad": 394,
         "almacen": 0,
-        "total": 409
+        "total": 394
       },
       {
         "nombre": "Farmacia HGZ 11",
@@ -4777,9 +4777,9 @@
         "total": 9935
       },
       "LAGUNA": {
-        "unidad": 1917,
+        "unidad": 1902,
         "almacen": 13728,
-        "total": 15645
+        "total": 15630
       },
       "NORTE": {
         "unidad": 1549,
@@ -4950,9 +4950,9 @@
       {
         "nombre": "Direccion UMF 83",
         "zona": "LAGUNA",
-        "unidad": 478,
+        "unidad": 463,
         "almacen": 1144,
-        "total": 1622
+        "total": 1607
       },
       {
         "nombre": "Farmacia HGSZ-MF 20",

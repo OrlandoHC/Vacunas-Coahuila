@@ -1983,9 +1983,9 @@
         "total": 162
       },
       "DPT": {
-        "unidad": 44,
+        "unidad": 39,
         "almacen": 578,
-        "total": 622
+        "total": 617
       },
       "GAMA ANITETA...": {
         "unidad": 10,
@@ -2008,9 +2008,9 @@
         "total": 47
       },
       "HEXAVALENTE": {
-        "unidad": 25,
+        "unidad": 0,
         "almacen": 217,
-        "total": 242
+        "total": 217
       },
       "INFLUENZA TET...": {
         "unidad": 0,
@@ -2038,14 +2038,14 @@
         "total": 0
       },
       "TD": {
-        "unidad": 409,
+        "unidad": 394,
         "almacen": 0,
-        "total": 409
+        "total": 394
       },
       "TDPA": {
-        "unidad": 478,
+        "unidad": 463,
         "almacen": 1144,
-        "total": 1622
+        "total": 1607
       },
       "TRIPLE VIRAL (S...)": {
         "unidad": 500,
