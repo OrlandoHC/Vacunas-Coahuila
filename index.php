@@ -2,7 +2,6 @@
 // Control de Vacunas – Grupo 020
 // Vistas: Por Zona | Por Unidad Médica | Por Vacuna
 // Sin Composer. Actualizar: python actualizar.py
-date_default_timezone_set('America/Mexico_City');
 $jsonZones   = __DIR__ . '/cache_data.json';
 $jsonUnits   = __DIR__ . '/cache_units.json';
 $jsonVaccines= __DIR__ . '/cache_vaccines.json';
@@ -499,7 +498,8 @@ function renderZone(){
   const names=Object.keys(vacs).sort();
   const gT=names.reduce((s,n)=>s+vacs[n].total,0);
   const gU=names.reduce((s,n)=>s+vacs[n].unidad,0);
-  const gA=names.reduce((s,n)=>s+vacs[n].almacen,0);
+  // almacén OOAD es un stock único global — sumar los valores únicos (no multiplicar)
+  const gA=names.reduce((s,n)=>s+(vacs[n].almacen||0),0);
   const gZ=names.filter(n=>vacs[n].total===0).length;
   ico('zs-total').textContent=fmt(gT); ico('zs-unidad').textContent=fmt(gU);
   ico('zs-almacen').textContent=fmt(gA); ico('zs-zero').textContent=gZ;
@@ -578,7 +578,8 @@ function renderUnitDetail(name){
   const vacs=d.vacunas||{}, names=Object.keys(vacs).sort();
   const gT=names.reduce((s,n)=>s+vacs[n].total,0);
   const gU=names.reduce((s,n)=>s+vacs[n].unidad,0);
-  const gA=names.reduce((s,n)=>s+vacs[n].almacen,0);
+  // almacén OOAD ya es el valor único — no multiplicar
+  const gA=names.reduce((s,n)=>s+(vacs[n].almacen||0),0);
   const gZ=names.filter(n=>vacs[n].total===0).length;
   const zc=ZONE_COLORS[d.zona]||'#64748b';
   const zclt=ZONE_COLORS_LT[d.zona]||'#f8fafc';
@@ -703,7 +704,8 @@ function renderVacDetail(vac){
   const zonas=d.zonas||{}, units=d.unidades||[];
   const gT=Object.values(zonas).reduce((s,z)=>s+z.total,0);
   const gU=Object.values(zonas).reduce((s,z)=>s+z.unidad,0);
-  const gA=Object.values(zonas).reduce((s,z)=>s+z.almacen,0);
+  // almacén OOAD es un valor único global, no sumar por zonas
+  const gA=d.almacen_ooad||0;
   const gZ=Object.values(zonas).filter(z=>z.total===0).length;
   const maxZoneTotal=Math.max(...Object.values(zonas).map(z=>z.total),1);
 

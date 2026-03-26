@@ -1,5 +1,6 @@
 {
   "ANTIALACRAN": {
+    "almacen_ooad": 0,
     "zonas": {
       "CARBONÍFERA": {
         "unidad": 24,
@@ -220,6 +221,7 @@
     ]
   },
   "ANTIARACNIDO F/I": {
+    "almacen_ooad": 0,
     "zonas": {
       "CARBONÍFERA": {
         "unidad": 20,
@@ -433,6 +435,7 @@
     ]
   },
   "ANTICORALILLO": {
+    "almacen_ooad": 0,
     "zonas": {
       "CENTRO": {
         "unidad": 2,
@@ -489,6 +492,7 @@
     ]
   },
   "ANTIVIPERINO": {
+    "almacen_ooad": 0,
     "zonas": {
       "CARBONÍFERA": {
         "unidad": 13,
@@ -730,31 +734,32 @@
     ]
   },
   "BCG": {
+    "almacen_ooad": 86,
     "zonas": {
       "CARBONÍFERA": {
         "unidad": 48,
-        "almacen": 774,
-        "total": 822
+        "almacen": 86,
+        "total": 134
       },
       "CENTRO": {
         "unidad": 30,
-        "almacen": 344,
-        "total": 374
+        "almacen": 86,
+        "total": 116
       },
       "LAGUNA": {
         "unidad": 93,
-        "almacen": 1032,
-        "total": 1125
+        "almacen": 86,
+        "total": 179
       },
       "NORTE": {
         "unidad": 24,
-        "almacen": 430,
-        "total": 454
+        "almacen": 86,
+        "total": 110
       },
       "SUR": {
         "unidad": 129,
-        "almacen": 430,
-        "total": 559
+        "almacen": 86,
+        "total": 215
       }
     },
     "unidades": [
@@ -1006,31 +1011,32 @@
     ]
   },
   "COVID-19": {
+    "almacen_ooad": 95,
     "zonas": {
       "CARBONÍFERA": {
         "unidad": 39,
-        "almacen": 519,
-        "total": 558
+        "almacen": 95,
+        "total": 134
       },
       "CENTRO": {
         "unidad": 145,
-        "almacen": 994,
-        "total": 1139
+        "almacen": 95,
+        "total": 240
       },
       "LAGUNA": {
         "unidad": 144,
-        "almacen": 1540,
-        "total": 1684
+        "almacen": 95,
+        "total": 239
       },
       "NORTE": {
         "unidad": 6,
-        "almacen": 580,
-        "total": 586
+        "almacen": 95,
+        "total": 101
       },
       "SUR": {
         "unidad": 129,
-        "almacen": 1055,
-        "total": 1184
+        "almacen": 95,
+        "total": 224
       }
     },
     "unidades": [
@@ -1038,15 +1044,15 @@
         "nombre": "Direccion UMF 23",
         "zona": "CARBONÍFERA",
         "unidad": 2,
-        "almacen": 78,
-        "total": 80
+        "almacen": 95,
+        "total": 97
       },
       {
         "nombre": "Direccion UMF 31",
         "zona": "CARBONÍFERA",
         "unidad": 0,
-        "almacen": 173,
-        "total": 173
+        "almacen": 95,
+        "total": 95
       },
       {
         "nombre": "Direccion UMF 62",
@@ -1059,8 +1065,8 @@
         "nombre": "Farmacia HGSZ-MF 27",
         "zona": "CARBONÍFERA",
         "unidad": 32,
-        "almacen": 173,
-        "total": 205
+        "almacen": 95,
+        "total": 127
       },
       {
         "nombre": "Direccion UMF 10",
@@ -1080,8 +1086,8 @@
         "nombre": "Direccion UMF 84",
         "zona": "CENTRO",
         "unidad": 0,
-        "almacen": 173,
-        "total": 173
+        "almacen": 95,
+        "total": 95
       },
       {
         "nombre": "Direccion UMF 85",
@@ -1101,15 +1107,15 @@
         "nombre": "Direccion UMF 88",
         "zona": "CENTRO",
         "unidad": 21,
-        "almacen": 173,
-        "total": 194
+        "almacen": 95,
+        "total": 116
       },
       {
         "nombre": "Direccion UMF 9",
         "zona": "CENTRO",
         "unidad": 110,
-        "almacen": 173,
-        "total": 283
+        "almacen": 95,
+        "total": 205
       },
       {
         "nombre": "Farmacia HGZ-MF 7",
@@ -1122,106 +1128,106 @@
         "nombre": "Direccion UMF 15",
         "zona": "LAGUNA",
         "unidad": 19,
-        "almacen": 173,
-        "total": 192
+        "almacen": 95,
+        "total": 114
       },
       {
         "nombre": "Direccion UMF 80",
         "zona": "LAGUNA",
         "unidad": 0,
-        "almacen": 173,
-        "total": 173
+        "almacen": 95,
+        "total": 95
       },
       {
         "nombre": "Direccion UMF 83",
         "zona": "LAGUNA",
         "unidad": 51,
-        "almacen": 173,
-        "total": 224
+        "almacen": 95,
+        "total": 146
       },
       {
         "nombre": "Farmacia HGSZ-MF 20",
         "zona": "LAGUNA",
         "unidad": 0,
-        "almacen": 78,
-        "total": 78
+        "almacen": 95,
+        "total": 95
       },
       {
         "nombre": "Farmacia HGSZ-MF 21",
         "zona": "LAGUNA",
         "unidad": 1,
-        "almacen": 78,
-        "total": 79
+        "almacen": 95,
+        "total": 96
       },
       {
         "nombre": "Farmacia HGZ-MF 16",
         "zona": "LAGUNA",
         "unidad": 54,
-        "almacen": 173,
-        "total": 227
+        "almacen": 95,
+        "total": 149
       },
       {
         "nombre": "Farmacia HGZ-MF 18",
         "zona": "LAGUNA",
         "unidad": 14,
-        "almacen": 173,
-        "total": 187
+        "almacen": 95,
+        "total": 109
       },
       {
         "nombre": "Farmacia HGZ-MF 24",
         "zona": "LAGUNA",
         "unidad": 0,
-        "almacen": 173,
-        "total": 173
+        "almacen": 95,
+        "total": 95
       },
       {
         "nombre": "Farmacia UMF 66",
         "zona": "LAGUNA",
         "unidad": 0,
-        "almacen": 173,
-        "total": 173
+        "almacen": 95,
+        "total": 95
       },
       {
         "nombre": "Farmacia UMF 93",
         "zona": "LAGUNA",
         "unidad": 5,
-        "almacen": 173,
-        "total": 178
+        "almacen": 95,
+        "total": 100
       },
       {
         "nombre": "Direccion UMF 12",
         "zona": "NORTE",
         "unidad": 5,
-        "almacen": 173,
-        "total": 178
+        "almacen": 95,
+        "total": 100
       },
       {
         "nombre": "Direccion UMF 81",
         "zona": "NORTE",
         "unidad": 0,
-        "almacen": 78,
-        "total": 78
+        "almacen": 95,
+        "total": 95
       },
       {
         "nombre": "Direccion UMF 87",
         "zona": "NORTE",
         "unidad": 1,
-        "almacen": 78,
-        "total": 79
+        "almacen": 95,
+        "total": 96
       },
       {
         "nombre": "Farmacia HRS Ramos",
         "zona": "NORTE",
         "unidad": 0,
-        "almacen": 78,
-        "total": 78
+        "almacen": 95,
+        "total": 95
       },
       {
         "nombre": "Farmacia UMF 79",
         "zona": "NORTE",
         "unidad": 0,
-        "almacen": 173,
-        "total": 173
+        "almacen": 95,
+        "total": 95
       },
       {
         "nombre": "Direccion UMF 3",
@@ -1241,65 +1247,66 @@
         "nombre": "Farmacia HGZ-MF 2",
         "zona": "SUR",
         "unidad": 66,
-        "almacen": 173,
-        "total": 239
+        "almacen": 95,
+        "total": 161
       },
       {
         "nombre": "Farmacia UMAA 89",
         "zona": "SUR",
         "unidad": 0,
-        "almacen": 173,
-        "total": 173
+        "almacen": 95,
+        "total": 95
       },
       {
         "nombre": "Farmacia UMF 73",
         "zona": "SUR",
         "unidad": 0,
-        "almacen": 173,
-        "total": 173
+        "almacen": 95,
+        "total": 95
       },
       {
         "nombre": "Farmacia UMF 82",
         "zona": "SUR",
         "unidad": 53,
-        "almacen": 173,
-        "total": 226
+        "almacen": 95,
+        "total": 148
       },
       {
         "nombre": "Farmacia UMF 91",
         "zona": "SUR",
         "unidad": 0,
-        "almacen": 173,
-        "total": 173
+        "almacen": 95,
+        "total": 95
       }
     ]
   },
   "DOBLE VIRAL (SR)": {
+    "almacen_ooad": 60,
     "zonas": {
       "CARBONÍFERA": {
         "unidad": 560,
-        "almacen": 660,
-        "total": 1220
+        "almacen": 60,
+        "total": 620
       },
       "CENTRO": {
         "unidad": 1571,
-        "almacen": 480,
-        "total": 2051
+        "almacen": 60,
+        "total": 1631
       },
       "LAGUNA": {
         "unidad": 1715,
-        "almacen": 720,
-        "total": 2435
+        "almacen": 60,
+        "total": 1775
       },
       "NORTE": {
         "unidad": 1021,
-        "almacen": 360,
-        "total": 1381
+        "almacen": 60,
+        "total": 1081
       },
       "SUR": {
         "unidad": 2509,
-        "almacen": 480,
-        "total": 2989
+        "almacen": 60,
+        "total": 2569
       }
     },
     "unidades": [
@@ -1621,31 +1628,32 @@
     ]
   },
   "DPT": {
+    "almacen_ooad": 578,
     "zonas": {
       "CARBONÍFERA": {
         "unidad": 116,
-        "almacen": 5780,
-        "total": 5896
+        "almacen": 578,
+        "total": 694
       },
       "CENTRO": {
         "unidad": 86,
-        "almacen": 2312,
-        "total": 2398
+        "almacen": 578,
+        "total": 664
       },
       "LAGUNA": {
         "unidad": 85,
-        "almacen": 6358,
-        "total": 6443
+        "almacen": 578,
+        "total": 663
       },
       "NORTE": {
         "unidad": 0,
-        "almacen": 2312,
-        "total": 2312
+        "almacen": 578,
+        "total": 578
       },
       "SUR": {
         "unidad": 323,
-        "almacen": 3468,
-        "total": 3791
+        "almacen": 578,
+        "total": 901
       }
     },
     "unidades": [
@@ -1863,8 +1871,8 @@
         "nombre": "Direccion UMR-EM 52",
         "zona": "SUR",
         "unidad": 2,
-        "almacen": 0,
-        "total": 2
+        "almacen": 578,
+        "total": 580
       },
       {
         "nombre": "Farmacia HGZ-MF 2",
@@ -1904,11 +1912,12 @@
     ]
   },
   "GAMA ANITETA...": {
+    "almacen_ooad": 2,
     "zonas": {
       "CARBONÍFERA": {
         "unidad": 11,
-        "almacen": 8,
-        "total": 19
+        "almacen": 2,
+        "total": 13
       },
       "CENTRO": {
         "unidad": 0,
@@ -1917,8 +1926,8 @@
       },
       "LAGUNA": {
         "unidad": 48,
-        "almacen": 12,
-        "total": 60
+        "almacen": 2,
+        "total": 50
       },
       "NORTE": {
         "unidad": 0,
@@ -1927,8 +1936,8 @@
       },
       "SUR": {
         "unidad": 14,
-        "almacen": 10,
-        "total": 24
+        "almacen": 2,
+        "total": 16
       }
     },
     "unidades": [
@@ -2054,6 +2063,7 @@
     ]
   },
   "GAMA ANITRA...": {
+    "almacen_ooad": 0,
     "zonas": {
       "CARBONÍFERA": {
         "unidad": 30,
@@ -2232,31 +2242,32 @@
     ]
   },
   "HEPATITIS A": {
+    "almacen_ooad": 8,
     "zonas": {
       "CARBONÍFERA": {
         "unidad": 42,
-        "almacen": 32,
-        "total": 74
+        "almacen": 8,
+        "total": 50
       },
       "CENTRO": {
         "unidad": 280,
-        "almacen": 48,
-        "total": 328
+        "almacen": 8,
+        "total": 288
       },
       "LAGUNA": {
         "unidad": 8,
-        "almacen": 32,
-        "total": 40
+        "almacen": 8,
+        "total": 16
       },
       "NORTE": {
         "unidad": 224,
-        "almacen": 24,
-        "total": 248
+        "almacen": 8,
+        "total": 232
       },
       "SUR": {
         "unidad": 160,
-        "almacen": 32,
-        "total": 192
+        "almacen": 8,
+        "total": 168
       }
     },
     "unidades": [
@@ -2410,31 +2421,32 @@
     ]
   },
   "HEPATITIS A AD...": {
+    "almacen_ooad": 64,
     "zonas": {
       "CARBONÍFERA": {
         "unidad": 121,
-        "almacen": 576,
-        "total": 697
+        "almacen": 64,
+        "total": 185
       },
       "CENTRO": {
         "unidad": 100,
-        "almacen": 448,
-        "total": 548
+        "almacen": 64,
+        "total": 164
       },
       "LAGUNA": {
         "unidad": 123,
-        "almacen": 704,
-        "total": 827
+        "almacen": 64,
+        "total": 187
       },
       "NORTE": {
         "unidad": 70,
-        "almacen": 320,
-        "total": 390
+        "almacen": 64,
+        "total": 134
       },
       "SUR": {
         "unidad": 180,
-        "almacen": 384,
-        "total": 564
+        "almacen": 64,
+        "total": 244
       }
     },
     "unidades": [
@@ -2707,31 +2719,32 @@
     ]
   },
   "HEPATITIS B": {
+    "almacen_ooad": 34,
     "zonas": {
       "CARBONÍFERA": {
         "unidad": 267,
-        "almacen": 408,
-        "total": 675
+        "almacen": 34,
+        "total": 301
       },
       "CENTRO": {
         "unidad": 195,
-        "almacen": 272,
-        "total": 467
+        "almacen": 34,
+        "total": 229
       },
       "LAGUNA": {
         "unidad": 229,
-        "almacen": 408,
-        "total": 637
+        "almacen": 34,
+        "total": 263
       },
       "NORTE": {
         "unidad": 113,
-        "almacen": 204,
-        "total": 317
+        "almacen": 34,
+        "total": 147
       },
       "SUR": {
         "unidad": 303,
-        "almacen": 238,
-        "total": 541
+        "almacen": 34,
+        "total": 337
       }
     },
     "unidades": [
@@ -3053,31 +3066,32 @@
     ]
   },
   "HEXAVALENTE": {
+    "almacen_ooad": 217,
     "zonas": {
       "CARBONÍFERA": {
         "unidad": 192,
-        "almacen": 2170,
-        "total": 2362
+        "almacen": 217,
+        "total": 409
       },
       "CENTRO": {
         "unidad": 312,
-        "almacen": 1736,
-        "total": 2048
+        "almacen": 217,
+        "total": 529
       },
       "LAGUNA": {
         "unidad": 301,
-        "almacen": 2387,
-        "total": 2688
+        "almacen": 217,
+        "total": 518
       },
       "NORTE": {
         "unidad": 224,
-        "almacen": 1302,
-        "total": 1526
+        "almacen": 217,
+        "total": 441
       },
       "SUR": {
         "unidad": 418,
-        "almacen": 1519,
-        "total": 1937
+        "almacen": 217,
+        "total": 635
       }
     },
     "unidades": [
@@ -3378,6 +3392,7 @@
     ]
   },
   "INFLUENZA TET...": {
+    "almacen_ooad": 0,
     "zonas": {
       "CARBONÍFERA": {
         "unidad": 56,
@@ -3640,6 +3655,7 @@
     ]
   },
   "NEUMO 13 V": {
+    "almacen_ooad": 0,
     "zonas": {
       "CARBONÍFERA": {
         "unidad": 157,
@@ -3930,16 +3946,17 @@
     ]
   },
   "NEUMO 20 V": {
+    "almacen_ooad": 480,
     "zonas": {
       "CARBONÍFERA": {
         "unidad": 720,
-        "almacen": 3360,
-        "total": 4080
+        "almacen": 480,
+        "total": 1200
       },
       "LAGUNA": {
         "unidad": 600,
-        "almacen": 4800,
-        "total": 5400
+        "almacen": 480,
+        "total": 1080
       },
       "NORTE": {
         "unidad": 0,
@@ -4077,6 +4094,7 @@
     ]
   },
   "NEUMO 23 V": {
+    "almacen_ooad": 0,
     "zonas": {
       "CARBONÍFERA": {
         "unidad": 86,
@@ -4220,6 +4238,7 @@
     ]
   },
   "ROTAVIRUS": {
+    "almacen_ooad": 0,
     "zonas": {
       "CARBONÍFERA": {
         "unidad": 132,
@@ -4531,6 +4550,7 @@
     ]
   },
   "TD": {
+    "almacen_ooad": 0,
     "zonas": {
       "CARBONÍFERA": {
         "unidad": 159,
@@ -4765,31 +4785,32 @@
     ]
   },
   "TDPA": {
+    "almacen_ooad": 1144,
     "zonas": {
       "CARBONÍFERA": {
         "unidad": 519,
-        "almacen": 12584,
-        "total": 13103
+        "almacen": 1144,
+        "total": 1663
       },
       "CENTRO": {
         "unidad": 783,
-        "almacen": 9152,
-        "total": 9935
+        "almacen": 1144,
+        "total": 1927
       },
       "LAGUNA": {
         "unidad": 1902,
-        "almacen": 13728,
-        "total": 15630
+        "almacen": 1144,
+        "total": 3046
       },
       "NORTE": {
         "unidad": 1549,
-        "almacen": 6864,
-        "total": 8413
+        "almacen": 1144,
+        "total": 2693
       },
       "SUR": {
         "unidad": 3626,
-        "almacen": 8008,
-        "total": 11634
+        "almacen": 1144,
+        "total": 4770
       }
     },
     "unidades": [
@@ -5104,31 +5125,32 @@
     ]
   },
   "TRIPLE VIRAL (S...)": {
+    "almacen_ooad": 6825,
     "zonas": {
       "CARBONÍFERA": {
         "unidad": 6639,
-        "almacen": 75075,
-        "total": 81714
+        "almacen": 6825,
+        "total": 13464
       },
       "CENTRO": {
         "unidad": 8583,
-        "almacen": 68250,
-        "total": 76833
+        "almacen": 6825,
+        "total": 15408
       },
       "LAGUNA": {
         "unidad": 25300,
-        "almacen": 81900,
-        "total": 107200
+        "almacen": 6825,
+        "total": 32125
       },
       "NORTE": {
         "unidad": 3450,
-        "almacen": 40950,
-        "total": 44400
+        "almacen": 6825,
+        "total": 10275
       },
       "SUR": {
         "unidad": 9444,
-        "almacen": 68250,
-        "total": 77694
+        "almacen": 6825,
+        "total": 16269
       }
     },
     "unidades": [
@@ -5478,31 +5500,32 @@
     ]
   },
   "VACUNA ANTIR...": {
+    "almacen_ooad": 2,
     "zonas": {
       "CARBONÍFERA": {
         "unidad": 20,
-        "almacen": 10,
-        "total": 30
+        "almacen": 2,
+        "total": 22
       },
       "CENTRO": {
         "unidad": 46,
-        "almacen": 16,
-        "total": 62
+        "almacen": 2,
+        "total": 48
       },
       "LAGUNA": {
         "unidad": 46,
-        "almacen": 18,
-        "total": 64
+        "almacen": 2,
+        "total": 48
       },
       "NORTE": {
         "unidad": 16,
-        "almacen": 8,
-        "total": 24
+        "almacen": 2,
+        "total": 18
       },
       "SUR": {
         "unidad": 23,
-        "almacen": 12,
-        "total": 35
+        "almacen": 2,
+        "total": 25
       }
     },
     "unidades": [
@@ -5733,6 +5756,7 @@
     ]
   },
   "VARICELA": {
+    "almacen_ooad": 0,
     "zonas": {
       "CARBONÍFERA": {
         "unidad": 25,
@@ -5829,6 +5853,7 @@
     ]
   },
   "VHP 9 V": {
+    "almacen_ooad": 17,
     "zonas": {
       "CARBONÍFERA": {
         "unidad": 6,
@@ -5837,23 +5862,23 @@
       },
       "CENTRO": {
         "unidad": 67,
-        "almacen": 51,
-        "total": 118
+        "almacen": 17,
+        "total": 84
       },
       "LAGUNA": {
         "unidad": 130,
-        "almacen": 102,
-        "total": 232
+        "almacen": 17,
+        "total": 147
       },
       "NORTE": {
         "unidad": 0,
-        "almacen": 51,
-        "total": 51
+        "almacen": 17,
+        "total": 17
       },
       "SUR": {
         "unidad": 396,
-        "almacen": 85,
-        "total": 481
+        "almacen": 17,
+        "total": 413
       }
     },
     "unidades": [
@@ -5861,8 +5886,8 @@
         "nombre": "Direccion UMF 28",
         "zona": "CARBONÍFERA",
         "unidad": 1,
-        "almacen": 0,
-        "total": 1
+        "almacen": 17,
+        "total": 18
       },
       {
         "nombre": "Direccion UMF 31",
@@ -5875,8 +5900,8 @@
         "nombre": "Direccion UMF 61",
         "zona": "CARBONÍFERA",
         "unidad": 5,
-        "almacen": 0,
-        "total": 5
+        "almacen": 17,
+        "total": 22
       },
       {
         "nombre": "Direccion UMF 84",
@@ -5889,8 +5914,8 @@
         "nombre": "Direccion UMF 85",
         "zona": "CENTRO",
         "unidad": 0,
-        "almacen": 0,
-        "total": 0
+        "almacen": 17,
+        "total": 17
       },
       {
         "nombre": "Direccion UMF 88",
@@ -5973,8 +5998,8 @@
         "nombre": "Direccion UMF 4",
         "zona": "SUR",
         "unidad": 10,
-        "almacen": 0,
-        "total": 10
+        "almacen": 17,
+        "total": 27
       },
       {
         "nombre": "Farmacia HGZ-MF 2",
@@ -6014,31 +6039,32 @@
     ]
   },
   "VITAMINA A": {
+    "almacen_ooad": 290,
     "zonas": {
       "CARBONÍFERA": {
         "unidad": 448,
-        "almacen": 2030,
-        "total": 2478
+        "almacen": 290,
+        "total": 738
       },
       "CENTRO": {
         "unidad": 871,
-        "almacen": 2030,
-        "total": 2901
+        "almacen": 290,
+        "total": 1161
       },
       "LAGUNA": {
         "unidad": 1511,
-        "almacen": 2610,
-        "total": 4121
+        "almacen": 290,
+        "total": 1801
       },
       "NORTE": {
         "unidad": 0,
-        "almacen": 580,
-        "total": 580
+        "almacen": 290,
+        "total": 290
       },
       "SUR": {
         "unidad": 1154,
-        "almacen": 2030,
-        "total": 3184
+        "almacen": 290,
+        "total": 1444
       }
     },
     "unidades": [
