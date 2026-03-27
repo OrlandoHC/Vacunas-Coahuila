@@ -64,8 +64,8 @@
       },
       "COVID-19": {
         "unidad": 2,
-        "almacen": 78,
-        "total": 80
+        "almacen": 95,
+        "total": 97
       },
       "DOBLE VIRAL (SR)": {
         "unidad": 200,
@@ -404,8 +404,8 @@
       },
       "COVID-19": {
         "unidad": 0,
-        "almacen": 78,
-        "total": 78
+        "almacen": 95,
+        "total": 95
       },
       "DOBLE VIRAL (SR)": {
         "unidad": 0,
@@ -689,8 +689,8 @@
       },
       "COVID-19": {
         "unidad": 5,
-        "almacen": 78,
-        "total": 83
+        "almacen": 95,
+        "total": 100
       },
       "DOBLE VIRAL (SR)": {
         "unidad": 61,
@@ -874,8 +874,8 @@
       },
       "COVID-19": {
         "unidad": 32,
-        "almacen": 78,
-        "total": 110
+        "almacen": 95,
+        "total": 127
       },
       "DOBLE VIRAL (SR)": {
         "unidad": 151,
@@ -959,8 +959,8 @@
       },
       "COVID-19": {
         "unidad": 0,
-        "almacen": 78,
-        "total": 78
+        "almacen": 95,
+        "total": 95
       },
       "DOBLE VIRAL (SR)": {
         "unidad": 0,
@@ -1153,39 +1153,39 @@
     "zona": "CENTRO",
     "vacunas": {
       "BCG": {
-        "unidad": 0,
+        "unidad": 6,
         "almacen": 176,
-        "total": 176
+        "total": 182
       },
       "COVID-19": {
         "unidad": 0,
-        "almacen": 78,
-        "total": 78
+        "almacen": 95,
+        "total": 95
       },
       "DOBLE VIRAL (SR)": {
-        "unidad": 0,
+        "unidad": 15,
         "almacen": 60,
-        "total": 60
+        "total": 75
       },
       "DPT": {
-        "unidad": 0,
+        "unidad": 32,
         "almacen": 578,
-        "total": 578
+        "total": 610
       },
       "HEPATITIS A AD...": {
-        "unidad": 10,
+        "unidad": 13,
         "almacen": 64,
-        "total": 74
+        "total": 77
       },
       "HEPATITIS B": {
-        "unidad": 10,
+        "unidad": 20,
         "almacen": 264,
-        "total": 274
+        "total": 284
       },
       "HEXAVALENTE": {
-        "unidad": 25,
+        "unidad": 55,
         "almacen": 217,
-        "total": 242
+        "total": 272
       },
       "INFLUENZA TET...": {
         "unidad": 0,
@@ -1198,24 +1198,24 @@
         "total": 5
       },
       "NEUMO 20 V": {
-        "unidad": 0,
+        "unidad": 90,
         "almacen": 1620,
-        "total": 1620
+        "total": 1710
       },
       "ROTAVIRUS": {
-        "unidad": 7,
+        "unidad": 17,
         "almacen": 0,
-        "total": 7
+        "total": 17
       },
       "TDPA": {
-        "unidad": 173,
+        "unidad": 194,
         "almacen": 1144,
-        "total": 1317
+        "total": 1338
       },
       "TRIPLE VIRAL (S...)": {
-        "unidad": 200,
+        "unidad": 300,
         "almacen": 13375,
-        "total": 13575
+        "total": 13675
       },
       "VACUNA ANTIR...": {
         "unidad": 2,
@@ -1254,8 +1254,8 @@
       },
       "COVID-19": {
         "unidad": 0,
-        "almacen": 78,
-        "total": 78
+        "almacen": 95,
+        "total": 95
       },
       "DOBLE VIRAL (SR)": {
         "unidad": 56,
@@ -1342,45 +1342,35 @@
   "Direccion UMF 85": {
     "zona": "CENTRO",
     "vacunas": {
-      "BCG": {
-        "unidad": 5,
-        "almacen": 176,
-        "total": 181
-      },
       "COVID-19": {
         "unidad": 0,
-        "almacen": 78,
-        "total": 78
+        "almacen": 95,
+        "total": 95
       },
       "DOBLE VIRAL (SR)": {
-        "unidad": 25,
+        "unidad": 0,
         "almacen": 60,
-        "total": 85
-      },
-      "DPT": {
-        "unidad": 32,
-        "almacen": 578,
-        "total": 610
+        "total": 60
       },
       "HEPATITIS A": {
-        "unidad": 4,
+        "unidad": 0,
         "almacen": 8,
-        "total": 12
+        "total": 8
       },
       "HEPATITIS A AD...": {
-        "unidad": 3,
+        "unidad": 0,
         "almacen": 64,
-        "total": 67
+        "total": 64
       },
       "HEPATITIS B": {
-        "unidad": 10,
+        "unidad": 0,
         "almacen": 264,
-        "total": 274
+        "total": 264
       },
       "HEXAVALENTE": {
-        "unidad": 20,
+        "unidad": 0,
         "almacen": 217,
-        "total": 237
+        "total": 217
       },
       "INFLUENZA TET...": {
         "unidad": 0,
@@ -1392,25 +1382,20 @@
         "almacen": 0,
         "total": 0
       },
-      "NEUMO 20 V": {
-        "unidad": 36,
-        "almacen": 1620,
-        "total": 1656
-      },
       "ROTAVIRUS": {
-        "unidad": 10,
+        "unidad": 0,
         "almacen": 0,
-        "total": 10
+        "total": 0
       },
       "TDPA": {
-        "unidad": 8,
+        "unidad": 0,
         "almacen": 1144,
-        "total": 1152
+        "total": 1144
       },
       "TRIPLE VIRAL (S...)": {
-        "unidad": 200,
+        "unidad": 0,
         "almacen": 13375,
-        "total": 13575
+        "total": 13375
       },
       "VACUNA ANTIR...": {
         "unidad": 0,
@@ -1428,44 +1413,44 @@
     "zona": "CENTRO",
     "vacunas": {
       "BCG": {
-        "unidad": 0,
+        "unidad": 5,
         "almacen": 176,
-        "total": 176
+        "total": 181
       },
       "COVID-19": {
         "unidad": 5,
-        "almacen": 78,
-        "total": 83
+        "almacen": 95,
+        "total": 100
       },
       "DOBLE VIRAL (SR)": {
-        "unidad": 0,
+        "unidad": 35,
         "almacen": 60,
-        "total": 60
+        "total": 95
       },
       "DPT": {
-        "unidad": 0,
+        "unidad": 48,
         "almacen": 578,
-        "total": 578
+        "total": 626
       },
       "HEPATITIS A": {
-        "unidad": 20,
+        "unidad": 24,
         "almacen": 8,
-        "total": 28
+        "total": 32
       },
       "HEPATITIS A AD...": {
-        "unidad": 10,
+        "unidad": 13,
         "almacen": 64,
-        "total": 74
+        "total": 77
       },
       "HEPATITIS B": {
-        "unidad": 10,
+        "unidad": 20,
         "almacen": 264,
-        "total": 274
+        "total": 284
       },
       "HEXAVALENTE": {
-        "unidad": 20,
+        "unidad": 60,
         "almacen": 217,
-        "total": 237
+        "total": 277
       },
       "INFLUENZA TET...": {
         "unidad": 30,
@@ -1478,24 +1463,24 @@
         "total": 10
       },
       "NEUMO 20 V": {
-        "unidad": 0,
+        "unidad": 72,
         "almacen": 1620,
-        "total": 1620
+        "total": 1692
       },
       "ROTAVIRUS": {
-        "unidad": 6,
+        "unidad": 16,
         "almacen": 0,
-        "total": 6
+        "total": 16
       },
       "TDPA": {
-        "unidad": 120,
+        "unidad": 134,
         "almacen": 1144,
-        "total": 1264
+        "total": 1278
       },
       "TRIPLE VIRAL (S...)": {
-        "unidad": 150,
+        "unidad": 450,
         "almacen": 13375,
-        "total": 13525
+        "total": 13825
       },
       "VACUNA ANTIR...": {
         "unidad": 6,
@@ -1534,8 +1519,8 @@
       },
       "COVID-19": {
         "unidad": 21,
-        "almacen": 78,
-        "total": 99
+        "almacen": 95,
+        "total": 116
       },
       "DOBLE VIRAL (SR)": {
         "unidad": 37,
@@ -1653,14 +1638,14 @@
         "total": 5
       },
       "BCG": {
-        "unidad": 30,
+        "unidad": 35,
         "almacen": 176,
-        "total": 206
+        "total": 211
       },
       "COVID-19": {
         "unidad": 110,
-        "almacen": 78,
-        "total": 188
+        "almacen": 95,
+        "total": 205
       },
       "DOBLE VIRAL (SR)": {
         "unidad": 282,
@@ -1668,29 +1653,29 @@
         "total": 342
       },
       "DPT": {
-        "unidad": 33,
+        "unidad": 99,
         "almacen": 578,
-        "total": 611
+        "total": 677
       },
       "HEPATITIS A": {
-        "unidad": 20,
+        "unidad": 28,
         "almacen": 8,
-        "total": 28
+        "total": 36
       },
       "HEPATITIS A AD...": {
-        "unidad": 30,
+        "unidad": 34,
         "almacen": 64,
-        "total": 94
+        "total": 98
       },
       "HEPATITIS B": {
-        "unidad": 30,
+        "unidad": 40,
         "almacen": 264,
-        "total": 294
+        "total": 304
       },
       "HEXAVALENTE": {
-        "unidad": 95,
+        "unidad": 143,
         "almacen": 217,
-        "total": 312
+        "total": 360
       },
       "INFLUENZA TET...": {
         "unidad": 19,
@@ -1703,14 +1688,14 @@
         "total": 155
       },
       "NEUMO 20 V": {
-        "unidad": 0,
+        "unidad": 108,
         "almacen": 1620,
-        "total": 1620
+        "total": 1728
       },
       "ROTAVIRUS": {
-        "unidad": 25,
+        "unidad": 35,
         "almacen": 0,
-        "total": 25
+        "total": 35
       },
       "TD": {
         "unidad": 40,
@@ -1718,9 +1703,9 @@
         "total": 40
       },
       "TDPA": {
-        "unidad": 150,
+        "unidad": 185,
         "almacen": 1144,
-        "total": 1294
+        "total": 1329
       },
       "TRIPLE VIRAL (S...)": {
         "unidad": 1105,
@@ -1768,24 +1753,24 @@
         "total": 0
       },
       "BCG": {
-        "unidad": 0,
+        "unidad": 20,
         "almacen": 176,
-        "total": 176
+        "total": 196
       },
       "COVID-19": {
         "unidad": 9,
-        "almacen": 78,
-        "total": 87
+        "almacen": 95,
+        "total": 104
       },
       "DOBLE VIRAL (SR)": {
-        "unidad": 1174,
+        "unidad": 1224,
         "almacen": 60,
-        "total": 1234
+        "total": 1284
       },
       "DPT": {
-        "unidad": 0,
+        "unidad": 82,
         "almacen": 578,
-        "total": 578
+        "total": 660
       },
       "GAMA ANITETA...": {
         "unidad": 0,
@@ -1793,24 +1778,24 @@
         "total": 14
       },
       "HEPATITIS A": {
-        "unidad": 240,
+        "unidad": 248,
         "almacen": 8,
-        "total": 248
+        "total": 256
       },
       "HEPATITIS A AD...": {
-        "unidad": 0,
+        "unidad": 4,
         "almacen": 64,
-        "total": 64
+        "total": 68
       },
       "HEPATITIS B": {
-        "unidad": 106,
+        "unidad": 156,
         "almacen": 264,
-        "total": 370
+        "total": 420
       },
       "HEXAVALENTE": {
-        "unidad": 35,
+        "unidad": 115,
         "almacen": 217,
-        "total": 252
+        "total": 332
       },
       "INFLUENZA TET...": {
         "unidad": 18,
@@ -1823,14 +1808,14 @@
         "total": 0
       },
       "NEUMO 20 V": {
-        "unidad": 0,
+        "unidad": 108,
         "almacen": 1620,
-        "total": 1620
+        "total": 1728
       },
       "ROTAVIRUS": {
-        "unidad": 10,
+        "unidad": 30,
         "almacen": 0,
-        "total": 10
+        "total": 30
       },
       "TD": {
         "unidad": 0,
@@ -1838,14 +1823,14 @@
         "total": 0
       },
       "TDPA": {
-        "unidad": 150,
+        "unidad": 185,
         "almacen": 1144,
-        "total": 1294
+        "total": 1329
       },
       "TRIPLE VIRAL (S...)": {
-        "unidad": 6105,
+        "unidad": 7005,
         "almacen": 13375,
-        "total": 19480
+        "total": 20380
       },
       "VACUNA ANTIR...": {
         "unidad": 10,
@@ -1884,8 +1869,8 @@
       },
       "COVID-19": {
         "unidad": 19,
-        "almacen": 78,
-        "total": 97
+        "almacen": 95,
+        "total": 114
       },
       "DOBLE VIRAL (SR)": {
         "unidad": 13,
@@ -2039,8 +2024,8 @@
       },
       "COVID-19": {
         "unidad": 0,
-        "almacen": 78,
-        "total": 78
+        "almacen": 95,
+        "total": 95
       },
       "DOBLE VIRAL (SR)": {
         "unidad": 15,
@@ -2149,8 +2134,8 @@
       },
       "COVID-19": {
         "unidad": 51,
-        "almacen": 78,
-        "total": 129
+        "almacen": 95,
+        "total": 146
       },
       "DOBLE VIRAL (SR)": {
         "unidad": 137,
@@ -2254,8 +2239,8 @@
       },
       "COVID-19": {
         "unidad": 0,
-        "almacen": 78,
-        "total": 78
+        "almacen": 95,
+        "total": 95
       },
       "DOBLE VIRAL (SR)": {
         "unidad": 0,
@@ -2324,8 +2309,8 @@
       },
       "COVID-19": {
         "unidad": 1,
-        "almacen": 78,
-        "total": 79
+        "almacen": 95,
+        "total": 96
       },
       "DOBLE VIRAL (SR)": {
         "unidad": 200,
@@ -2484,8 +2469,8 @@
       },
       "COVID-19": {
         "unidad": 54,
-        "almacen": 78,
-        "total": 132
+        "almacen": 95,
+        "total": 149
       },
       "DOBLE VIRAL (SR)": {
         "unidad": 1430,
@@ -2619,8 +2604,8 @@
       },
       "COVID-19": {
         "unidad": 14,
-        "almacen": 78,
-        "total": 92
+        "almacen": 95,
+        "total": 109
       },
       "DOBLE VIRAL (SR)": {
         "unidad": 40,
@@ -2728,9 +2713,9 @@
     "zona": "LAGUNA",
     "vacunas": {
       "ANTIALACRAN": {
-        "unidad": 10,
+        "unidad": 0,
         "almacen": 0,
-        "total": 10
+        "total": 0
       },
       "ANTIARACNIDO F/I": {
         "unidad": 0,
@@ -2743,44 +2728,39 @@
         "total": 0
       },
       "BCG": {
-        "unidad": 46,
+        "unidad": 0,
         "almacen": 176,
-        "total": 222
+        "total": 176
       },
       "COVID-19": {
         "unidad": 0,
-        "almacen": 78,
-        "total": 78
+        "almacen": 95,
+        "total": 95
       },
       "DOBLE VIRAL (SR)": {
-        "unidad": 20,
+        "unidad": 0,
         "almacen": 60,
-        "total": 80
+        "total": 60
       },
       "DPT": {
-        "unidad": 25,
+        "unidad": 0,
         "almacen": 578,
-        "total": 603
+        "total": 578
       },
       "HEPATITIS A": {
-        "unidad": 8,
+        "unidad": 0,
         "almacen": 8,
-        "total": 16
-      },
-      "HEPATITIS A AD...": {
-        "unidad": 3,
-        "almacen": 64,
-        "total": 67
+        "total": 8
       },
       "HEPATITIS B": {
-        "unidad": 100,
+        "unidad": 0,
         "almacen": 264,
-        "total": 364
+        "total": 264
       },
       "HEXAVALENTE": {
-        "unidad": 30,
+        "unidad": 0,
         "almacen": 217,
-        "total": 247
+        "total": 217
       },
       "INFLUENZA TET...": {
         "unidad": 0,
@@ -2792,20 +2772,15 @@
         "almacen": 0,
         "total": 0
       },
-      "NEUMO 20 V": {
-        "unidad": 600,
-        "almacen": 1620,
-        "total": 2220
-      },
       "NEUMO 23 V": {
         "unidad": 0,
         "almacen": 0,
         "total": 0
       },
       "ROTAVIRUS": {
-        "unidad": 11,
+        "unidad": 0,
         "almacen": 0,
-        "total": 11
+        "total": 0
       },
       "TD": {
         "unidad": 0,
@@ -2813,14 +2788,14 @@
         "total": 0
       },
       "TDPA": {
-        "unidad": 28,
+        "unidad": 0,
         "almacen": 1144,
-        "total": 1172
+        "total": 1144
       },
       "TRIPLE VIRAL (S...)": {
-        "unidad": 5100,
+        "unidad": 0,
         "almacen": 13375,
-        "total": 18475
+        "total": 13375
       },
       "VACUNA ANTIR...": {
         "unidad": 0,
@@ -2844,8 +2819,8 @@
       },
       "COVID-19": {
         "unidad": 0,
-        "almacen": 78,
-        "total": 78
+        "almacen": 95,
+        "total": 95
       },
       "DOBLE VIRAL (SR)": {
         "unidad": 40,
@@ -2944,8 +2919,8 @@
       },
       "COVID-19": {
         "unidad": 5,
-        "almacen": 78,
-        "total": 83
+        "almacen": 95,
+        "total": 100
       },
       "DOBLE VIRAL (SR)": {
         "unidad": 20,
@@ -3064,8 +3039,8 @@
       },
       "COVID-19": {
         "unidad": 5,
-        "almacen": 78,
-        "total": 83
+        "almacen": 95,
+        "total": 100
       },
       "DOBLE VIRAL (SR)": {
         "unidad": 120,
@@ -3169,8 +3144,8 @@
       },
       "COVID-19": {
         "unidad": 0,
-        "almacen": 78,
-        "total": 78
+        "almacen": 95,
+        "total": 95
       },
       "DOBLE VIRAL (SR)": {
         "unidad": 426,
@@ -3198,9 +3173,9 @@
         "total": 217
       },
       "INFLUENZA TET...": {
-        "unidad": 40,
+        "unidad": 0,
         "almacen": 0,
-        "total": 40
+        "total": 0
       },
       "NEUMO 13 V": {
         "unidad": 0,
@@ -3244,8 +3219,8 @@
       },
       "COVID-19": {
         "unidad": 1,
-        "almacen": 78,
-        "total": 79
+        "almacen": 95,
+        "total": 96
       },
       "DOBLE VIRAL (SR)": {
         "unidad": 0,
@@ -3379,8 +3354,8 @@
       },
       "COVID-19": {
         "unidad": 0,
-        "almacen": 78,
-        "total": 78
+        "almacen": 95,
+        "total": 95
       },
       "DOBLE VIRAL (SR)": {
         "unidad": 0,
@@ -3464,8 +3439,8 @@
       },
       "COVID-19": {
         "unidad": 0,
-        "almacen": 78,
-        "total": 78
+        "almacen": 95,
+        "total": 95
       },
       "DOBLE VIRAL (SR)": {
         "unidad": 475,
@@ -3554,8 +3529,8 @@
       },
       "COVID-19": {
         "unidad": 5,
-        "almacen": 78,
-        "total": 83
+        "almacen": 95,
+        "total": 100
       },
       "DOBLE VIRAL (SR)": {
         "unidad": 200,
@@ -3644,8 +3619,8 @@
       },
       "COVID-19": {
         "unidad": 5,
-        "almacen": 78,
-        "total": 83
+        "almacen": 95,
+        "total": 100
       },
       "DOBLE VIRAL (SR)": {
         "unidad": 78,
@@ -3879,8 +3854,8 @@
       },
       "COVID-19": {
         "unidad": 66,
-        "almacen": 78,
-        "total": 144
+        "almacen": 95,
+        "total": 161
       },
       "DOBLE VIRAL (SR)": {
         "unidad": 1967,
@@ -3982,11 +3957,6 @@
   "Farmacia UMAA 89": {
     "zona": "SUR",
     "vacunas": {
-      "ANTIALACRAN": {
-        "unidad": 5,
-        "almacen": 0,
-        "total": 5
-      },
       "ANTIARACNIDO F/I": {
         "unidad": 0,
         "almacen": 0,
@@ -3998,14 +3968,14 @@
         "total": 0
       },
       "BCG": {
-        "unidad": 8,
+        "unidad": 4,
         "almacen": 176,
-        "total": 184
+        "total": 180
       },
       "COVID-19": {
         "unidad": 0,
-        "almacen": 78,
-        "total": 78
+        "almacen": 95,
+        "total": 95
       },
       "DOBLE VIRAL (SR)": {
         "unidad": 165,
@@ -4013,9 +3983,9 @@
         "total": 225
       },
       "DPT": {
-        "unidad": 17,
+        "unidad": 0,
         "almacen": 578,
-        "total": 595
+        "total": 578
       },
       "GAMA ANITETA...": {
         "unidad": 0,
@@ -4093,14 +4063,14 @@
         "total": 2
       },
       "VHP 9 V": {
-        "unidad": 123,
+        "unidad": 107,
         "almacen": 17,
-        "total": 140
+        "total": 124
       },
       "VITAMINA A": {
-        "unidad": 150,
+        "unidad": 0,
         "almacen": 4755,
-        "total": 4905
+        "total": 4755
       }
     }
   },
@@ -4134,8 +4104,8 @@
       },
       "COVID-19": {
         "unidad": 0,
-        "almacen": 78,
-        "total": 78
+        "almacen": 95,
+        "total": 95
       },
       "DOBLE VIRAL (SR)": {
         "unidad": 0,
@@ -4264,8 +4234,8 @@
       },
       "COVID-19": {
         "unidad": 47,
-        "almacen": 78,
-        "total": 125
+        "almacen": 95,
+        "total": 142
       },
       "DOBLE VIRAL (SR)": {
         "unidad": 0,
@@ -4394,8 +4364,8 @@
       },
       "COVID-19": {
         "unidad": 0,
-        "almacen": 78,
-        "total": 78
+        "almacen": 95,
+        "total": 95
       },
       "DOBLE VIRAL (SR)": {
         "unidad": 50,
