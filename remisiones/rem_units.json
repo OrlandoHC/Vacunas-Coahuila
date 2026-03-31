@@ -1,0 +1,2407 @@
+{
+  "U Med Familiar 62 Direccion de la Unidad Médica": {
+    "zona": "CARBONÍFERA",
+    "vacunas": {
+      "BCG": {
+        "enviada": 1,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 349
+      },
+      "DOBLE VIRAL (SR)": {
+        "enviada": 15,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 9579
+      },
+      "DPT": {
+        "enviada": 2,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 474
+      },
+      "HEPATITIS A": {
+        "enviada": 1,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 184
+      },
+      "HEPATITIS A AD...": {
+        "enviada": 3,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 994
+      },
+      "HEPATITIS B": {
+        "enviada": 5,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 1281
+      },
+      "HEXAVALENTE": {
+        "enviada": 10,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 50331
+      },
+      "NEUMO 20 V": {
+        "enviada": 18,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 45842
+      },
+      "ROTAVIRUS": {
+        "enviada": 5,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 31525
+      },
+      "TDPA": {
+        "enviada": 5,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 602
+      },
+      "TRIPLE VIRAL (S...)": {
+        "enviada": 50,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 6134
+      }
+    }
+  },
+  "U Med Familiar 64 Direccion de la Unidad Médica": {
+    "zona": "CARBONÍFERA",
+    "vacunas": {
+      "BCG": {
+        "enviada": 3,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 1047
+      },
+      "DOBLE VIRAL (SR)": {
+        "enviada": 7,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 4470
+      },
+      "HEPATITIS A AD...": {
+        "enviada": 5,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 1657
+      },
+      "HEPATITIS B": {
+        "enviada": 5,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 1281
+      },
+      "HEXAVALENTE": {
+        "enviada": 5,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 25165
+      },
+      "NEUMO 20 V": {
+        "enviada": 18,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 45842
+      },
+      "ROTAVIRUS": {
+        "enviada": 5,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 31525
+      },
+      "TDPA": {
+        "enviada": 4,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 482
+      }
+    }
+  },
+  "Direccion UMF 10": {
+    "zona": "CENTRO",
+    "vacunas": {
+      "BCG": {
+        "enviada": 4,
+        "recibida": 4,
+        "devuelta": 0,
+        "importe": 1396
+      },
+      "DOBLE VIRAL (SR)": {
+        "enviada": 15,
+        "recibida": 15,
+        "devuelta": 0,
+        "importe": 9579
+      },
+      "DPT": {
+        "enviada": 32,
+        "recibida": 32,
+        "devuelta": 0,
+        "importe": 7593
+      },
+      "HEPATITIS A": {
+        "enviada": 4,
+        "recibida": 4,
+        "devuelta": 0,
+        "importe": 737
+      },
+      "HEPATITIS A AD...": {
+        "enviada": 6,
+        "recibida": 6,
+        "devuelta": 0,
+        "importe": 1988
+      },
+      "HEPATITIS B": {
+        "enviada": 10,
+        "recibida": 10,
+        "devuelta": 0,
+        "importe": 2563
+      },
+      "HEXAVALENTE": {
+        "enviada": 20,
+        "recibida": 20,
+        "devuelta": 0,
+        "importe": 100662
+      },
+      "NEUMO 20 V": {
+        "enviada": 36,
+        "recibida": 36,
+        "devuelta": 0,
+        "importe": 91684
+      },
+      "ROTAVIRUS": {
+        "enviada": 5,
+        "recibida": 5,
+        "devuelta": 0,
+        "importe": 31525
+      },
+      "TDPA": {
+        "enviada": 7,
+        "recibida": 7,
+        "devuelta": 0,
+        "importe": 843
+      },
+      "TRIPLE VIRAL (S...)": {
+        "enviada": 100,
+        "recibida": 100,
+        "devuelta": 0,
+        "importe": 12268
+      }
+    }
+  },
+  "Direccion UMF 74": {
+    "zona": "CENTRO",
+    "vacunas": {
+      "BCG": {
+        "enviada": 4,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 1396
+      },
+      "DOBLE VIRAL (SR)": {
+        "enviada": 6,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 3831
+      },
+      "DPT": {
+        "enviada": 6,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 1423
+      },
+      "HEPATITIS A AD...": {
+        "enviada": 3,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 994
+      },
+      "HEPATITIS B": {
+        "enviada": 10,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 2563
+      },
+      "HEXAVALENTE": {
+        "enviada": 10,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 50331
+      },
+      "NEUMO 20 V": {
+        "enviada": 18,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 45842
+      },
+      "ROTAVIRUS": {
+        "enviada": 5,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 31525
+      },
+      "TDPA": {
+        "enviada": 3,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 361
+      },
+      "TRIPLE VIRAL (S...)": {
+        "enviada": 50,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 6134
+      }
+    }
+  },
+  "Direccion UMF 8": {
+    "zona": "CENTRO",
+    "vacunas": {
+      "BCG": {
+        "enviada": 6,
+        "recibida": 6,
+        "devuelta": 0,
+        "importe": 2095
+      },
+      "DOBLE VIRAL (SR)": {
+        "enviada": 15,
+        "recibida": 15,
+        "devuelta": 0,
+        "importe": 9579
+      },
+      "DPT": {
+        "enviada": 32,
+        "recibida": 32,
+        "devuelta": 0,
+        "importe": 7593
+      },
+      "HEPATITIS A AD...": {
+        "enviada": 3,
+        "recibida": 3,
+        "devuelta": 0,
+        "importe": 994
+      },
+      "HEPATITIS B": {
+        "enviada": 10,
+        "recibida": 10,
+        "devuelta": 0,
+        "importe": 2563
+      },
+      "HEXAVALENTE": {
+        "enviada": 30,
+        "recibida": 30,
+        "devuelta": 0,
+        "importe": 150993
+      },
+      "NEUMO 20 V": {
+        "enviada": 90,
+        "recibida": 90,
+        "devuelta": 0,
+        "importe": 229212
+      },
+      "ROTAVIRUS": {
+        "enviada": 10,
+        "recibida": 10,
+        "devuelta": 0,
+        "importe": 63050
+      },
+      "TDPA": {
+        "enviada": 21,
+        "recibida": 21,
+        "devuelta": 0,
+        "importe": 2531
+      },
+      "TRIPLE VIRAL (S...)": {
+        "enviada": 100,
+        "recibida": 100,
+        "devuelta": 0,
+        "importe": 12268
+      }
+    }
+  },
+  "Direccion UMF 84": {
+    "zona": "CENTRO",
+    "vacunas": {
+      "BCG": {
+        "enviada": 5,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 1746
+      },
+      "DOBLE VIRAL (SR)": {
+        "enviada": 25,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 15965
+      },
+      "DPT": {
+        "enviada": 46,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 10915
+      },
+      "HEPATITIS A AD...": {
+        "enviada": 3,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 994
+      },
+      "HEPATITIS B": {
+        "enviada": 10,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 2563
+      },
+      "HEXAVALENTE": {
+        "enviada": 30,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 150993
+      },
+      "NEUMO 20 V": {
+        "enviada": 36,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 91684
+      },
+      "ROTAVIRUS": {
+        "enviada": 10,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 63050
+      },
+      "TDPA": {
+        "enviada": 11,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 1326
+      },
+      "TRIPLE VIRAL (S...)": {
+        "enviada": 200,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 24536
+      }
+    }
+  },
+  "Direccion UMF 85": {
+    "zona": "CENTRO",
+    "vacunas": {
+      "BCG": {
+        "enviada": 5,
+        "recibida": 5,
+        "devuelta": 0,
+        "importe": 1746
+      },
+      "DOBLE VIRAL (SR)": {
+        "enviada": 25,
+        "recibida": 25,
+        "devuelta": 0,
+        "importe": 15965
+      },
+      "DPT": {
+        "enviada": 32,
+        "recibida": 32,
+        "devuelta": 0,
+        "importe": 7593
+      },
+      "HEPATITIS A": {
+        "enviada": 4,
+        "recibida": 4,
+        "devuelta": 0,
+        "importe": 737
+      },
+      "HEPATITIS A AD...": {
+        "enviada": 3,
+        "recibida": 3,
+        "devuelta": 0,
+        "importe": 994
+      },
+      "HEPATITIS B": {
+        "enviada": 10,
+        "recibida": 10,
+        "devuelta": 0,
+        "importe": 2563
+      },
+      "HEXAVALENTE": {
+        "enviada": 20,
+        "recibida": 20,
+        "devuelta": 0,
+        "importe": 100662
+      },
+      "NEUMO 20 V": {
+        "enviada": 36,
+        "recibida": 36,
+        "devuelta": 0,
+        "importe": 91684
+      },
+      "ROTAVIRUS": {
+        "enviada": 10,
+        "recibida": 10,
+        "devuelta": 0,
+        "importe": 63050
+      },
+      "TDPA": {
+        "enviada": 8,
+        "recibida": 8,
+        "devuelta": 0,
+        "importe": 964
+      },
+      "TRIPLE VIRAL (S...)": {
+        "enviada": 200,
+        "recibida": 200,
+        "devuelta": 0,
+        "importe": 24536
+      }
+    }
+  },
+  "Direccion UMF 86": {
+    "zona": "CENTRO",
+    "vacunas": {
+      "BCG": {
+        "enviada": 5,
+        "recibida": 5,
+        "devuelta": 0,
+        "importe": 1746
+      },
+      "DOBLE VIRAL (SR)": {
+        "enviada": 35,
+        "recibida": 35,
+        "devuelta": 0,
+        "importe": 22351
+      },
+      "DPT": {
+        "enviada": 48,
+        "recibida": 48,
+        "devuelta": 0,
+        "importe": 11390
+      },
+      "HEPATITIS A": {
+        "enviada": 4,
+        "recibida": 4,
+        "devuelta": 0,
+        "importe": 737
+      },
+      "HEPATITIS A AD...": {
+        "enviada": 3,
+        "recibida": 3,
+        "devuelta": 0,
+        "importe": 994
+      },
+      "HEPATITIS B": {
+        "enviada": 10,
+        "recibida": 10,
+        "devuelta": 0,
+        "importe": 2563
+      },
+      "HEXAVALENTE": {
+        "enviada": 40,
+        "recibida": 40,
+        "devuelta": 0,
+        "importe": 201324
+      },
+      "NEUMO 20 V": {
+        "enviada": 72,
+        "recibida": 72,
+        "devuelta": 0,
+        "importe": 183369
+      },
+      "ROTAVIRUS": {
+        "enviada": 10,
+        "recibida": 10,
+        "devuelta": 0,
+        "importe": 63050
+      },
+      "TDPA": {
+        "enviada": 14,
+        "recibida": 14,
+        "devuelta": 0,
+        "importe": 1687
+      },
+      "TRIPLE VIRAL (S...)": {
+        "enviada": 300,
+        "recibida": 300,
+        "devuelta": 0,
+        "importe": 36804
+      }
+    }
+  },
+  "Direccion UMF 9": {
+    "zona": "CENTRO",
+    "vacunas": {
+      "BCG": {
+        "enviada": 5,
+        "recibida": 5,
+        "devuelta": 0,
+        "importe": 1746
+      },
+      "DPT": {
+        "enviada": 66,
+        "recibida": 66,
+        "devuelta": 0,
+        "importe": 15661
+      },
+      "HEPATITIS A": {
+        "enviada": 8,
+        "recibida": 8,
+        "devuelta": 0,
+        "importe": 1475
+      },
+      "HEPATITIS A AD...": {
+        "enviada": 4,
+        "recibida": 4,
+        "devuelta": 0,
+        "importe": 1325
+      },
+      "HEPATITIS B": {
+        "enviada": 10,
+        "recibida": 10,
+        "devuelta": 0,
+        "importe": 2563
+      },
+      "HEXAVALENTE": {
+        "enviada": 60,
+        "recibida": 48,
+        "devuelta": 0,
+        "importe": 301986
+      },
+      "NEUMO 20 V": {
+        "enviada": 108,
+        "recibida": 108,
+        "devuelta": 0,
+        "importe": 275054
+      },
+      "ROTAVIRUS": {
+        "enviada": 10,
+        "recibida": 10,
+        "devuelta": 0,
+        "importe": 63050
+      },
+      "TDPA": {
+        "enviada": 35,
+        "recibida": 35,
+        "devuelta": 0,
+        "importe": 4219
+      }
+    }
+  },
+  "Farmacia HGZ-MF 7": {
+    "zona": "CENTRO",
+    "vacunas": {
+      "BCG": {
+        "enviada": 20,
+        "recibida": 20,
+        "devuelta": 0,
+        "importe": 6984
+      },
+      "DOBLE VIRAL (SR)": {
+        "enviada": 50,
+        "recibida": 50,
+        "devuelta": 0,
+        "importe": 31930
+      },
+      "DPT": {
+        "enviada": 82,
+        "recibida": 82,
+        "devuelta": 0,
+        "importe": 19458
+      },
+      "HEPATITIS A": {
+        "enviada": 8,
+        "recibida": 8,
+        "devuelta": 0,
+        "importe": 1475
+      },
+      "HEPATITIS A AD...": {
+        "enviada": 4,
+        "recibida": 4,
+        "devuelta": 0,
+        "importe": 1325
+      },
+      "HEPATITIS B": {
+        "enviada": 50,
+        "recibida": 50,
+        "devuelta": 0,
+        "importe": 12815
+      },
+      "HEXAVALENTE": {
+        "enviada": 80,
+        "recibida": 80,
+        "devuelta": 0,
+        "importe": 402648
+      },
+      "NEUMO 20 V": {
+        "enviada": 108,
+        "recibida": 108,
+        "devuelta": 0,
+        "importe": 275054
+      },
+      "ROTAVIRUS": {
+        "enviada": 20,
+        "recibida": 20,
+        "devuelta": 0,
+        "importe": 126100
+      },
+      "TDPA": {
+        "enviada": 35,
+        "recibida": 35,
+        "devuelta": 0,
+        "importe": 4219
+      },
+      "TRIPLE VIRAL (S...)": {
+        "enviada": 900,
+        "recibida": 900,
+        "devuelta": 0,
+        "importe": 110412
+      }
+    }
+  },
+  "U Med Familiar 50 Direccion de la Unidad Médica": {
+    "zona": "CENTRO",
+    "vacunas": {
+      "BCG": {
+        "enviada": 4,
+        "recibida": 4,
+        "devuelta": 0,
+        "importe": 1396
+      },
+      "DOBLE VIRAL (SR)": {
+        "enviada": 6,
+        "recibida": 6,
+        "devuelta": 0,
+        "importe": 3831
+      },
+      "DPT": {
+        "enviada": 6,
+        "recibida": 6,
+        "devuelta": 0,
+        "importe": 1423
+      },
+      "HEPATITIS A AD...": {
+        "enviada": 3,
+        "recibida": 3,
+        "devuelta": 0,
+        "importe": 994
+      },
+      "HEPATITIS B": {
+        "enviada": 10,
+        "recibida": 10,
+        "devuelta": 0,
+        "importe": 2563
+      },
+      "HEXAVALENTE": {
+        "enviada": 5,
+        "recibida": 5,
+        "devuelta": 0,
+        "importe": 25165
+      },
+      "NEUMO 20 V": {
+        "enviada": 18,
+        "recibida": 18,
+        "devuelta": 0,
+        "importe": 45842
+      },
+      "ROTAVIRUS": {
+        "enviada": 10,
+        "recibida": 10,
+        "devuelta": 0,
+        "importe": 63050
+      },
+      "TDPA": {
+        "enviada": 3,
+        "recibida": 3,
+        "devuelta": 0,
+        "importe": 361
+      },
+      "TRIPLE VIRAL (S...)": {
+        "enviada": 50,
+        "recibida": 50,
+        "devuelta": 0,
+        "importe": 6134
+      }
+    }
+  },
+  "Direccion UMF 80": {
+    "zona": "LAGUNA",
+    "vacunas": {
+      "BCG": {
+        "enviada": 22,
+        "recibida": 22,
+        "devuelta": 0,
+        "importe": 7682
+      },
+      "DOBLE VIRAL (SR)": {
+        "enviada": 15,
+        "recibida": 15,
+        "devuelta": 0,
+        "importe": 9579
+      },
+      "DPT": {
+        "enviada": 68,
+        "recibida": 68,
+        "devuelta": 0,
+        "importe": 16136
+      },
+      "HEPATITIS A AD...": {
+        "enviada": 7,
+        "recibida": 7,
+        "devuelta": 0,
+        "importe": 2319
+      },
+      "HEPATITIS B": {
+        "enviada": 50,
+        "recibida": 50,
+        "devuelta": 0,
+        "importe": 12815
+      },
+      "HEXAVALENTE": {
+        "enviada": 60,
+        "recibida": 60,
+        "devuelta": 0,
+        "importe": 301986
+      },
+      "NEUMO 20 V": {
+        "enviada": 400,
+        "recibida": 400,
+        "devuelta": 0,
+        "importe": 1018720
+      },
+      "ROTAVIRUS": {
+        "enviada": 10,
+        "recibida": 10,
+        "devuelta": 0,
+        "importe": 63050
+      },
+      "TDPA": {
+        "enviada": 35,
+        "recibida": 35,
+        "devuelta": 0,
+        "importe": 4219
+      },
+      "TRIPLE VIRAL (S...)": {
+        "enviada": 1100,
+        "recibida": 1100,
+        "devuelta": 0,
+        "importe": 134948
+      }
+    }
+  },
+  "Direccion UMF 83": {
+    "zona": "LAGUNA",
+    "vacunas": {
+      "BCG": {
+        "enviada": 22,
+        "recibida": 22,
+        "devuelta": 0,
+        "importe": 7682
+      },
+      "DOBLE VIRAL (SR)": {
+        "enviada": 35,
+        "recibida": 35,
+        "devuelta": 0,
+        "importe": 22351
+      },
+      "DPT": {
+        "enviada": 82,
+        "recibida": 82,
+        "devuelta": 0,
+        "importe": 19458
+      },
+      "HEPATITIS A AD...": {
+        "enviada": 4,
+        "recibida": 4,
+        "devuelta": 0,
+        "importe": 1325
+      },
+      "HEPATITIS B": {
+        "enviada": 50,
+        "recibida": 50,
+        "devuelta": 0,
+        "importe": 12815
+      },
+      "HEXAVALENTE": {
+        "enviada": 60,
+        "recibida": 60,
+        "devuelta": 0,
+        "importe": 301986
+      },
+      "NEUMO 20 V": {
+        "enviada": 400,
+        "recibida": 400,
+        "devuelta": 0,
+        "importe": 1018720
+      },
+      "ROTAVIRUS": {
+        "enviada": 10,
+        "recibida": 10,
+        "devuelta": 0,
+        "importe": 63050
+      },
+      "TDPA": {
+        "enviada": 35,
+        "recibida": 35,
+        "devuelta": 0,
+        "importe": 4219
+      },
+      "TRIPLE VIRAL (S...)": {
+        "enviada": 1500,
+        "recibida": 1500,
+        "devuelta": 0,
+        "importe": 184020
+      }
+    }
+  },
+  "Direccion UMR-EM 52": {
+    "zona": "LAGUNA",
+    "vacunas": {
+      "BCG": {
+        "enviada": 4,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 1396
+      },
+      "DOBLE VIRAL (SR)": {
+        "enviada": 6,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 3831
+      },
+      "DPT": {
+        "enviada": 8,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 1898
+      },
+      "HEPATITIS A AD...": {
+        "enviada": 3,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 994
+      },
+      "HEPATITIS B": {
+        "enviada": 10,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 2563
+      },
+      "HEXAVALENTE": {
+        "enviada": 5,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 25165
+      },
+      "NEUMO 20 V": {
+        "enviada": 18,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 45842
+      },
+      "ROTAVIRUS": {
+        "enviada": 5,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 31525
+      },
+      "TDPA": {
+        "enviada": 3,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 361
+      },
+      "TRIPLE VIRAL (S...)": {
+        "enviada": 50,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 6134
+      }
+    }
+  },
+  "Farmacia HGSZ-MF 20": {
+    "zona": "LAGUNA",
+    "vacunas": {
+      "BCG": {
+        "enviada": 30,
+        "recibida": 30,
+        "devuelta": 0,
+        "importe": 10476
+      },
+      "DOBLE VIRAL (SR)": {
+        "enviada": 30,
+        "recibida": 30,
+        "devuelta": 0,
+        "importe": 19158
+      },
+      "DPT": {
+        "enviada": 50,
+        "recibida": 50,
+        "devuelta": 0,
+        "importe": 11865
+      },
+      "HEPATITIS A AD...": {
+        "enviada": 3,
+        "recibida": 3,
+        "devuelta": 0,
+        "importe": 994
+      },
+      "HEPATITIS B": {
+        "enviada": 60,
+        "recibida": 60,
+        "devuelta": 0,
+        "importe": 15378
+      },
+      "HEXAVALENTE": {
+        "enviada": 40,
+        "recibida": 40,
+        "devuelta": 0,
+        "importe": 201324
+      },
+      "NEUMO 20 V": {
+        "enviada": 400,
+        "recibida": 400,
+        "devuelta": 0,
+        "importe": 1018720
+      },
+      "ROTAVIRUS": {
+        "enviada": 10,
+        "recibida": 10,
+        "devuelta": 0,
+        "importe": 63050
+      },
+      "TDPA": {
+        "enviada": 28,
+        "recibida": 28,
+        "devuelta": 0,
+        "importe": 3375
+      },
+      "TRIPLE VIRAL (S...)": {
+        "enviada": 1200,
+        "recibida": 1200,
+        "devuelta": 0,
+        "importe": 147216
+      }
+    }
+  },
+  "Farmacia HGSZ-MF 21": {
+    "zona": "LAGUNA",
+    "vacunas": {
+      "BCG": {
+        "enviada": 30,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 10476
+      },
+      "DOBLE VIRAL (SR)": {
+        "enviada": 25,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 15965
+      },
+      "DPT": {
+        "enviada": 66,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 15661
+      },
+      "HEPATITIS A AD...": {
+        "enviada": 3,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 994
+      },
+      "HEPATITIS B": {
+        "enviada": 60,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 15378
+      },
+      "HEXAVALENTE": {
+        "enviada": 50,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 251655
+      },
+      "NEUMO 20 V": {
+        "enviada": 400,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 1018720
+      },
+      "ROTAVIRUS": {
+        "enviada": 10,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 63050
+      },
+      "TDPA": {
+        "enviada": 28,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 3375
+      },
+      "TRIPLE VIRAL (S...)": {
+        "enviada": 1000,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 122680
+      }
+    }
+  },
+  "Farmacia HGSZ-MF 6": {
+    "zona": "LAGUNA",
+    "vacunas": {
+      "BCG": {
+        "enviada": 50,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 17460
+      },
+      "DOBLE VIRAL (SR)": {
+        "enviada": 25,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 15965
+      },
+      "DPT": {
+        "enviada": 32,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 7593
+      },
+      "HEPATITIS A AD...": {
+        "enviada": 4,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 1325
+      },
+      "HEPATITIS B": {
+        "enviada": 80,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 20504
+      },
+      "HEXAVALENTE": {
+        "enviada": 30,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 150993
+      },
+      "NEUMO 20 V": {
+        "enviada": 280,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 713104
+      },
+      "ROTAVIRUS": {
+        "enviada": 10,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 63050
+      },
+      "TDPA": {
+        "enviada": 21,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 2531
+      },
+      "TRIPLE VIRAL (S...)": {
+        "enviada": 1000,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 122680
+      }
+    }
+  },
+  "Farmacia HGZ-MF 16": {
+    "zona": "LAGUNA",
+    "vacunas": {
+      "ANTIALACRAN": {
+        "enviada": 10,
+        "recibida": 10,
+        "devuelta": 0,
+        "importe": 1786
+      },
+      "ANTIARACNIDO F/I": {
+        "enviada": 2,
+        "recibida": 2,
+        "devuelta": 0,
+        "importe": 3648
+      },
+      "ANTICORALILLO": {
+        "enviada": 1,
+        "recibida": 1,
+        "devuelta": 0,
+        "importe": 2592
+      },
+      "BCG": {
+        "enviada": 70,
+        "recibida": 70,
+        "devuelta": 0,
+        "importe": 24444
+      },
+      "DOBLE VIRAL (SR)": {
+        "enviada": 50,
+        "recibida": 50,
+        "devuelta": 0,
+        "importe": 31930
+      },
+      "DPT": {
+        "enviada": 214,
+        "recibida": 214,
+        "devuelta": 0,
+        "importe": 50782
+      },
+      "HEPATITIS A AD...": {
+        "enviada": 9,
+        "recibida": 9,
+        "devuelta": 0,
+        "importe": 2982
+      },
+      "HEPATITIS B": {
+        "enviada": 200,
+        "recibida": 200,
+        "devuelta": 0,
+        "importe": 51260
+      },
+      "HEXAVALENTE": {
+        "enviada": 100,
+        "recibida": 100,
+        "devuelta": 0,
+        "importe": 503310
+      },
+      "NEUMO 20 V": {
+        "enviada": 600,
+        "recibida": 600,
+        "devuelta": 0,
+        "importe": 1528080
+      },
+      "ROTAVIRUS": {
+        "enviada": 15,
+        "recibida": 15,
+        "devuelta": 0,
+        "importe": 94575
+      },
+      "TDPA": {
+        "enviada": 100,
+        "recibida": 100,
+        "devuelta": 0,
+        "importe": 12057
+      },
+      "TRIPLE VIRAL (S...)": {
+        "enviada": 4600,
+        "recibida": 4600,
+        "devuelta": 0,
+        "importe": 564328
+      }
+    }
+  },
+  "Farmacia HGZ-MF 18": {
+    "zona": "LAGUNA",
+    "vacunas": {
+      "ANTIALACRAN": {
+        "enviada": 10,
+        "recibida": 10,
+        "devuelta": 0,
+        "importe": 1786
+      },
+      "BCG": {
+        "enviada": 30,
+        "recibida": 30,
+        "devuelta": 0,
+        "importe": 10476
+      },
+      "DOBLE VIRAL (SR)": {
+        "enviada": 40,
+        "recibida": 40,
+        "devuelta": 0,
+        "importe": 25544
+      },
+      "DPT": {
+        "enviada": 40,
+        "recibida": 40,
+        "devuelta": 0,
+        "importe": 9492
+      },
+      "HEPATITIS A AD...": {
+        "enviada": 6,
+        "recibida": 6,
+        "devuelta": 0,
+        "importe": 1988
+      },
+      "HEPATITIS B": {
+        "enviada": 140,
+        "recibida": 140,
+        "devuelta": 0,
+        "importe": 35882
+      },
+      "HEXAVALENTE": {
+        "enviada": 40,
+        "recibida": 40,
+        "devuelta": 0,
+        "importe": 201324
+      },
+      "NEUMO 20 V": {
+        "enviada": 400,
+        "recibida": 400,
+        "devuelta": 0,
+        "importe": 1018720
+      },
+      "ROTAVIRUS": {
+        "enviada": 10,
+        "recibida": 10,
+        "devuelta": 0,
+        "importe": 63050
+      },
+      "TDPA": {
+        "enviada": 28,
+        "recibida": 28,
+        "devuelta": 0,
+        "importe": 3375
+      },
+      "TRIPLE VIRAL (S...)": {
+        "enviada": 3500,
+        "recibida": 3500,
+        "devuelta": 0,
+        "importe": 429380
+      }
+    }
+  },
+  "Farmacia UMF 66": {
+    "zona": "LAGUNA",
+    "vacunas": {
+      "BCG": {
+        "enviada": 46,
+        "recibida": 46,
+        "devuelta": 0,
+        "importe": 16063
+      },
+      "DOBLE VIRAL (SR)": {
+        "enviada": 40,
+        "recibida": 40,
+        "devuelta": 0,
+        "importe": 25544
+      },
+      "DPT": {
+        "enviada": 180,
+        "recibida": 180,
+        "devuelta": 0,
+        "importe": 42714
+      },
+      "HEPATITIS A AD...": {
+        "enviada": 10,
+        "recibida": 10,
+        "devuelta": 0,
+        "importe": 3314
+      },
+      "HEPATITIS B": {
+        "enviada": 100,
+        "recibida": 100,
+        "devuelta": 0,
+        "importe": 25630
+      },
+      "HEXAVALENTE": {
+        "enviada": 131,
+        "recibida": 131,
+        "devuelta": 0,
+        "importe": 659336
+      },
+      "NEUMO 20 V": {
+        "enviada": 600,
+        "recibida": 600,
+        "devuelta": 0,
+        "importe": 1528080
+      },
+      "ROTAVIRUS": {
+        "enviada": 10,
+        "recibida": 10,
+        "devuelta": 0,
+        "importe": 63050
+      },
+      "TDPA": {
+        "enviada": 100,
+        "recibida": 100,
+        "devuelta": 0,
+        "importe": 12057
+      },
+      "TRIPLE VIRAL (S...)": {
+        "enviada": 5000,
+        "recibida": 5000,
+        "devuelta": 0,
+        "importe": 613400
+      }
+    }
+  },
+  "Farmacia UMF 93": {
+    "zona": "LAGUNA",
+    "vacunas": {
+      "BCG": {
+        "enviada": 110,
+        "recibida": 110,
+        "devuelta": 0,
+        "importe": 38412
+      },
+      "DOBLE VIRAL (SR)": {
+        "enviada": 20,
+        "recibida": 20,
+        "devuelta": 0,
+        "importe": 12772
+      },
+      "DPT": {
+        "enviada": 39,
+        "recibida": 39,
+        "devuelta": 0,
+        "importe": 9254
+      },
+      "HEPATITIS A AD...": {
+        "enviada": 5,
+        "recibida": 5,
+        "devuelta": 0,
+        "importe": 1657
+      },
+      "HEPATITIS B": {
+        "enviada": 60,
+        "recibida": 60,
+        "devuelta": 0,
+        "importe": 15378
+      },
+      "HEXAVALENTE": {
+        "enviada": 60,
+        "recibida": 60,
+        "devuelta": 0,
+        "importe": 301986
+      },
+      "NEUMO 20 V": {
+        "enviada": 400,
+        "recibida": 400,
+        "devuelta": 0,
+        "importe": 1018720
+      },
+      "ROTAVIRUS": {
+        "enviada": 10,
+        "recibida": 10,
+        "devuelta": 0,
+        "importe": 63050
+      },
+      "TDPA": {
+        "enviada": 39,
+        "recibida": 39,
+        "devuelta": 0,
+        "importe": 4702
+      },
+      "TRIPLE VIRAL (S...)": {
+        "enviada": 2000,
+        "recibida": 2000,
+        "devuelta": 0,
+        "importe": 245360
+      }
+    }
+  },
+  "Direccion UMF 12": {
+    "zona": "NORTE",
+    "vacunas": {
+      "BCG": {
+        "enviada": 6,
+        "recibida": 6,
+        "devuelta": 0,
+        "importe": 2095
+      },
+      "DOBLE VIRAL (SR)": {
+        "enviada": 10,
+        "recibida": 10,
+        "devuelta": 0,
+        "importe": 6386
+      },
+      "HEPATITIS A AD...": {
+        "enviada": 10,
+        "recibida": 10,
+        "devuelta": 0,
+        "importe": 3314
+      },
+      "HEPATITIS B": {
+        "enviada": 5,
+        "recibida": 5,
+        "devuelta": 0,
+        "importe": 1281
+      },
+      "HEXAVALENTE": {
+        "enviada": 20,
+        "recibida": 20,
+        "devuelta": 0,
+        "importe": 100662
+      },
+      "NEUMO 20 V": {
+        "enviada": 18,
+        "recibida": 18,
+        "devuelta": 0,
+        "importe": 45842
+      },
+      "ROTAVIRUS": {
+        "enviada": 5,
+        "recibida": 5,
+        "devuelta": 0,
+        "importe": 31525
+      },
+      "TDPA": {
+        "enviada": 10,
+        "recibida": 10,
+        "devuelta": 0,
+        "importe": 1205
+      }
+    }
+  },
+  "Direccion UMF 14": {
+    "zona": "NORTE",
+    "vacunas": {
+      "BCG": {
+        "enviada": 2,
+        "recibida": 2,
+        "devuelta": 0,
+        "importe": 698
+      },
+      "DOBLE VIRAL (SR)": {
+        "enviada": 7,
+        "recibida": 7,
+        "devuelta": 0,
+        "importe": 4470
+      },
+      "HEPATITIS A AD...": {
+        "enviada": 5,
+        "recibida": 5,
+        "devuelta": 0,
+        "importe": 1657
+      },
+      "HEPATITIS B": {
+        "enviada": 5,
+        "recibida": 5,
+        "devuelta": 0,
+        "importe": 1281
+      },
+      "HEXAVALENTE": {
+        "enviada": 10,
+        "recibida": 10,
+        "devuelta": 0,
+        "importe": 50331
+      },
+      "NEUMO 20 V": {
+        "enviada": 18,
+        "recibida": 18,
+        "devuelta": 0,
+        "importe": 45842
+      },
+      "ROTAVIRUS": {
+        "enviada": 5,
+        "recibida": 5,
+        "devuelta": 0,
+        "importe": 31525
+      },
+      "TDPA": {
+        "enviada": 13,
+        "recibida": 13,
+        "devuelta": 0,
+        "importe": 1567
+      }
+    }
+  },
+  "Direccion UMF 15": {
+    "zona": "NORTE",
+    "vacunas": {
+      "BCG": {
+        "enviada": 3,
+        "recibida": 3,
+        "devuelta": 0,
+        "importe": 1047
+      },
+      "DOBLE VIRAL (SR)": {
+        "enviada": 7,
+        "recibida": 7,
+        "devuelta": 0,
+        "importe": 4470
+      },
+      "HEPATITIS A AD...": {
+        "enviada": 5,
+        "recibida": 5,
+        "devuelta": 0,
+        "importe": 1657
+      },
+      "HEPATITIS B": {
+        "enviada": 5,
+        "recibida": 5,
+        "devuelta": 0,
+        "importe": 1281
+      },
+      "HEXAVALENTE": {
+        "enviada": 10,
+        "recibida": 10,
+        "devuelta": 0,
+        "importe": 50331
+      },
+      "NEUMO 20 V": {
+        "enviada": 18,
+        "recibida": 18,
+        "devuelta": 0,
+        "importe": 45842
+      },
+      "ROTAVIRUS": {
+        "enviada": 5,
+        "recibida": 5,
+        "devuelta": 0,
+        "importe": 31525
+      },
+      "TDPA": {
+        "enviada": 3,
+        "recibida": 3,
+        "devuelta": 0,
+        "importe": 361
+      }
+    }
+  },
+  "Direccion UMF 60": {
+    "zona": "NORTE",
+    "vacunas": {
+      "BCG": {
+        "enviada": 7,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 2444
+      },
+      "DOBLE VIRAL (SR)": {
+        "enviada": 12,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 7663
+      },
+      "HEPATITIS A AD...": {
+        "enviada": 5,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 1657
+      },
+      "HEPATITIS B": {
+        "enviada": 5,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 1281
+      },
+      "HEXAVALENTE": {
+        "enviada": 30,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 150993
+      },
+      "NEUMO 20 V": {
+        "enviada": 18,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 45842
+      },
+      "ROTAVIRUS": {
+        "enviada": 5,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 31525
+      },
+      "TDPA": {
+        "enviada": 17,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 2049
+      }
+    }
+  },
+  "Direccion UMF 81": {
+    "zona": "NORTE",
+    "vacunas": {
+      "BCG": {
+        "enviada": 10,
+        "recibida": 10,
+        "devuelta": 0,
+        "importe": 3492
+      },
+      "DOBLE VIRAL (SR)": {
+        "enviada": 20,
+        "recibida": 20,
+        "devuelta": 0,
+        "importe": 12772
+      },
+      "HEPATITIS A AD...": {
+        "enviada": 50,
+        "recibida": 50,
+        "devuelta": 0,
+        "importe": 16570
+      },
+      "HEPATITIS B": {
+        "enviada": 6,
+        "recibida": 6,
+        "devuelta": 0,
+        "importe": 1537
+      },
+      "HEXAVALENTE": {
+        "enviada": 100,
+        "recibida": 100,
+        "devuelta": 0,
+        "importe": 503310
+      },
+      "NEUMO 20 V": {
+        "enviada": 18,
+        "recibida": 18,
+        "devuelta": 0,
+        "importe": 45842
+      },
+      "ROTAVIRUS": {
+        "enviada": 10,
+        "recibida": 10,
+        "devuelta": 0,
+        "importe": 63050
+      },
+      "TDPA": {
+        "enviada": 10,
+        "recibida": 10,
+        "devuelta": 0,
+        "importe": 1205
+      }
+    }
+  },
+  "Farmacia HGSZ-MF 13": {
+    "zona": "NORTE",
+    "vacunas": {
+      "BCG": {
+        "enviada": 5,
+        "recibida": 5,
+        "devuelta": 0,
+        "importe": 1746
+      },
+      "DOBLE VIRAL (SR)": {
+        "enviada": 20,
+        "recibida": 20,
+        "devuelta": 0,
+        "importe": 12772
+      },
+      "HEPATITIS A AD...": {
+        "enviada": 20,
+        "recibida": 20,
+        "devuelta": 0,
+        "importe": 6628
+      },
+      "HEPATITIS B": {
+        "enviada": 5,
+        "recibida": 5,
+        "devuelta": 0,
+        "importe": 1281
+      },
+      "TDPA": {
+        "enviada": 7,
+        "recibida": 7,
+        "devuelta": 0,
+        "importe": 843
+      }
+    }
+  },
+  "Farmacia HGZ 11": {
+    "zona": "NORTE",
+    "vacunas": {
+      "BCG": {
+        "enviada": 10,
+        "recibida": 10,
+        "devuelta": 0,
+        "importe": 3492
+      },
+      "DOBLE VIRAL (SR)": {
+        "enviada": 15,
+        "recibida": 15,
+        "devuelta": 0,
+        "importe": 9579
+      },
+      "HEPATITIS A AD...": {
+        "enviada": 22,
+        "recibida": 22,
+        "devuelta": 0,
+        "importe": 7290
+      },
+      "HEPATITIS B": {
+        "enviada": 10,
+        "recibida": 10,
+        "devuelta": 0,
+        "importe": 2563
+      },
+      "TDPA": {
+        "enviada": 7,
+        "recibida": 7,
+        "devuelta": 0,
+        "importe": 843
+      }
+    }
+  },
+  "Farmacia UMF 79": {
+    "zona": "NORTE",
+    "vacunas": {
+      "BCG": {
+        "enviada": 10,
+        "recibida": 10,
+        "devuelta": 0,
+        "importe": 3492
+      },
+      "HEPATITIS A AD...": {
+        "enviada": 50,
+        "recibida": 50,
+        "devuelta": 0,
+        "importe": 16570
+      },
+      "HEPATITIS B": {
+        "enviada": 10,
+        "recibida": 10,
+        "devuelta": 0,
+        "importe": 2563
+      },
+      "HEXAVALENTE": {
+        "enviada": 150,
+        "recibida": 150,
+        "devuelta": 0,
+        "importe": 754965
+      },
+      "NEUMO 20 V": {
+        "enviada": 18,
+        "recibida": 18,
+        "devuelta": 0,
+        "importe": 45842
+      },
+      "ROTAVIRUS": {
+        "enviada": 15,
+        "recibida": 15,
+        "devuelta": 0,
+        "importe": 94575
+      },
+      "TDPA": {
+        "enviada": 50,
+        "recibida": 50,
+        "devuelta": 0,
+        "importe": 6028
+      }
+    }
+  },
+  "Direccion UMF 3": {
+    "zona": "SUR",
+    "vacunas": {
+      "BCG": {
+        "enviada": 5,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 1746
+      },
+      "DOBLE VIRAL (SR)": {
+        "enviada": 25,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 15965
+      },
+      "DPT": {
+        "enviada": 5,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 1186
+      },
+      "HEPATITIS A AD...": {
+        "enviada": 3,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 994
+      },
+      "HEPATITIS B": {
+        "enviada": 10,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 2563
+      },
+      "HEXAVALENTE": {
+        "enviada": 40,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 201324
+      },
+      "NEUMO 20 V": {
+        "enviada": 18,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 45842
+      },
+      "ROTAVIRUS": {
+        "enviada": 10,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 63050
+      },
+      "TDPA": {
+        "enviada": 28,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 3375
+      },
+      "TRIPLE VIRAL (S...)": {
+        "enviada": 50,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 6134
+      },
+      "VACUNA ANTIR...": {
+        "enviada": 2,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 533
+      }
+    }
+  },
+  "Direccion UMF 4": {
+    "zona": "SUR",
+    "vacunas": {
+      "BCG": {
+        "enviada": 1,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 349
+      },
+      "DOBLE VIRAL (SR)": {
+        "enviada": 10,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 6386
+      },
+      "DPT": {
+        "enviada": 5,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 1186
+      },
+      "HEPATITIS A AD...": {
+        "enviada": 3,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 994
+      },
+      "HEPATITIS B": {
+        "enviada": 5,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 1281
+      },
+      "HEXAVALENTE": {
+        "enviada": 10,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 50331
+      },
+      "NEUMO 20 V": {
+        "enviada": 18,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 45842
+      },
+      "ROTAVIRUS": {
+        "enviada": 5,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 31525
+      },
+      "TDPA": {
+        "enviada": 2,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 241
+      },
+      "TRIPLE VIRAL (S...)": {
+        "enviada": 50,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 6134
+      }
+    }
+  },
+  "Direccion UMF 70": {
+    "zona": "SUR",
+    "vacunas": {
+      "BCG": {
+        "enviada": 5,
+        "recibida": 5,
+        "devuelta": 0,
+        "importe": 1746
+      },
+      "DOBLE VIRAL (SR)": {
+        "enviada": 30,
+        "recibida": 30,
+        "devuelta": 0,
+        "importe": 19158
+      },
+      "DPT": {
+        "enviada": 15,
+        "recibida": 15,
+        "devuelta": 0,
+        "importe": 3559
+      },
+      "HEPATITIS A": {
+        "enviada": 2,
+        "recibida": 2,
+        "devuelta": 0,
+        "importe": 368
+      },
+      "HEPATITIS A AD...": {
+        "enviada": 7,
+        "recibida": 7,
+        "devuelta": 0,
+        "importe": 2319
+      },
+      "HEPATITIS B": {
+        "enviada": 20,
+        "recibida": 20,
+        "devuelta": 0,
+        "importe": 5126
+      },
+      "HEXAVALENTE": {
+        "enviada": 60,
+        "recibida": 60,
+        "devuelta": 0,
+        "importe": 301986
+      },
+      "NEUMO 13 V": {
+        "enviada": 10,
+        "recibida": 10,
+        "devuelta": 0,
+        "importe": 21825
+      },
+      "NEUMO 20 V": {
+        "enviada": 54,
+        "recibida": 54,
+        "devuelta": 0,
+        "importe": 137527
+      },
+      "ROTAVIRUS": {
+        "enviada": 15,
+        "recibida": 15,
+        "devuelta": 0,
+        "importe": 94575
+      },
+      "TDPA": {
+        "enviada": 15,
+        "recibida": 15,
+        "devuelta": 0,
+        "importe": 1808
+      },
+      "TRIPLE VIRAL (S...)": {
+        "enviada": 300,
+        "recibida": 300,
+        "devuelta": 0,
+        "importe": 36804
+      },
+      "VACUNA ANTIR...": {
+        "enviada": 1,
+        "recibida": 1,
+        "devuelta": 0,
+        "importe": 266
+      }
+    }
+  },
+  "Direccion UMF 88": {
+    "zona": "SUR",
+    "vacunas": {
+      "BCG": {
+        "enviada": 5,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 1746
+      },
+      "DOBLE VIRAL (SR)": {
+        "enviada": 30,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 19158
+      },
+      "DPT": {
+        "enviada": 50,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 11865
+      },
+      "HEPATITIS A": {
+        "enviada": 4,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 737
+      },
+      "HEPATITIS A AD...": {
+        "enviada": 4,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 1325
+      },
+      "HEPATITIS B": {
+        "enviada": 20,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 5126
+      },
+      "HEXAVALENTE": {
+        "enviada": 60,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 301986
+      },
+      "NEUMO 20 V": {
+        "enviada": 18,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 45842
+      },
+      "ROTAVIRUS": {
+        "enviada": 15,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 94575
+      },
+      "TDPA": {
+        "enviada": 10,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 1205
+      },
+      "TRIPLE VIRAL (S...)": {
+        "enviada": 300,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 36804
+      },
+      "VACUNA ANTIR...": {
+        "enviada": 1,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 266
+      }
+    }
+  },
+  "Farmacia HGZ-MF 2": {
+    "zona": "SUR",
+    "vacunas": {
+      "BCG": {
+        "enviada": 10,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 3492
+      },
+      "DOBLE VIRAL (SR)": {
+        "enviada": 57,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 36400
+      },
+      "DPT": {
+        "enviada": 20,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 4746
+      },
+      "HEPATITIS A": {
+        "enviada": 2,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 368
+      },
+      "HEPATITIS A AD...": {
+        "enviada": 7,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 2319
+      },
+      "HEPATITIS B": {
+        "enviada": 200,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 51260
+      },
+      "HEXAVALENTE": {
+        "enviada": 40,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 201324
+      },
+      "INFLUENZA TET...": {
+        "enviada": 3,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 27276
+      },
+      "NEUMO 13 V": {
+        "enviada": 20,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 43650
+      },
+      "NEUMO 20 V": {
+        "enviada": 72,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 183369
+      },
+      "ROTAVIRUS": {
+        "enviada": 25,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 157625
+      },
+      "TDPA": {
+        "enviada": 15,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 1808
+      },
+      "TRIPLE VIRAL (S...)": {
+        "enviada": 600,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 73608
+      },
+      "VACUNA ANTIR...": {
+        "enviada": 2,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 533
+      }
+    }
+  },
+  "Farmacia UMAA 89": {
+    "zona": "SUR",
+    "vacunas": {
+      "BCG": {
+        "enviada": 15,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 5238
+      },
+      "DOBLE VIRAL (SR)": {
+        "enviada": 30,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 19158
+      },
+      "DPT": {
+        "enviada": 10,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 2373
+      },
+      "HEPATITIS A": {
+        "enviada": 2,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 368
+      },
+      "HEPATITIS A AD...": {
+        "enviada": 4,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 1325
+      },
+      "HEPATITIS B": {
+        "enviada": 20,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 5126
+      },
+      "HEXAVALENTE": {
+        "enviada": 80,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 402648
+      },
+      "NEUMO 20 V": {
+        "enviada": 72,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 183369
+      },
+      "ROTAVIRUS": {
+        "enviada": 125,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 788125
+      },
+      "TDPA": {
+        "enviada": 15,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 1808
+      },
+      "TRIPLE VIRAL (S...)": {
+        "enviada": 300,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 36804
+      },
+      "VACUNA ANTIR...": {
+        "enviada": 2,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 533
+      }
+    }
+  },
+  "Farmacia UMF 73": {
+    "zona": "SUR",
+    "vacunas": {
+      "BCG": {
+        "enviada": 20,
+        "recibida": 20,
+        "devuelta": 0,
+        "importe": 6984
+      },
+      "DOBLE VIRAL (SR)": {
+        "enviada": 30,
+        "recibida": 30,
+        "devuelta": 0,
+        "importe": 19158
+      },
+      "DPT": {
+        "enviada": 15,
+        "recibida": 15,
+        "devuelta": 0,
+        "importe": 3559
+      },
+      "HEPATITIS A": {
+        "enviada": 2,
+        "recibida": 2,
+        "devuelta": 0,
+        "importe": 368
+      },
+      "HEPATITIS A AD...": {
+        "enviada": 14,
+        "recibida": 14,
+        "devuelta": 0,
+        "importe": 4639
+      },
+      "HEPATITIS B": {
+        "enviada": 20,
+        "recibida": 20,
+        "devuelta": 0,
+        "importe": 5126
+      },
+      "HEXAVALENTE": {
+        "enviada": 80,
+        "recibida": 80,
+        "devuelta": 0,
+        "importe": 402648
+      },
+      "NEUMO 13 V": {
+        "enviada": 20,
+        "recibida": 20,
+        "devuelta": 0,
+        "importe": 43650
+      },
+      "NEUMO 20 V": {
+        "enviada": 72,
+        "recibida": 72,
+        "devuelta": 0,
+        "importe": 183369
+      },
+      "TDPA": {
+        "enviada": 20,
+        "recibida": 20,
+        "devuelta": 0,
+        "importe": 2411
+      },
+      "TRIPLE VIRAL (S...)": {
+        "enviada": 300,
+        "recibida": 300,
+        "devuelta": 0,
+        "importe": 36804
+      },
+      "VACUNA ANTIR...": {
+        "enviada": 2,
+        "recibida": 2,
+        "devuelta": 0,
+        "importe": 533
+      }
+    }
+  },
+  "Farmacia UMF 82": {
+    "zona": "SUR",
+    "vacunas": {
+      "BCG": {
+        "enviada": 20,
+        "recibida": 5,
+        "devuelta": 0,
+        "importe": 6984
+      },
+      "DOBLE VIRAL (SR)": {
+        "enviada": 25,
+        "recibida": 25,
+        "devuelta": 0,
+        "importe": 15965
+      },
+      "DPT": {
+        "enviada": 20,
+        "recibida": 20,
+        "devuelta": 0,
+        "importe": 4746
+      },
+      "HEPATITIS A": {
+        "enviada": 4,
+        "recibida": 4,
+        "devuelta": 0,
+        "importe": 737
+      },
+      "HEPATITIS A AD...": {
+        "enviada": 14,
+        "recibida": 14,
+        "devuelta": 0,
+        "importe": 4639
+      },
+      "HEPATITIS B": {
+        "enviada": 20,
+        "recibida": 20,
+        "devuelta": 0,
+        "importe": 5126
+      },
+      "HEXAVALENTE": {
+        "enviada": 80,
+        "recibida": 80,
+        "devuelta": 0,
+        "importe": 402648
+      },
+      "NEUMO 13 V": {
+        "enviada": 20,
+        "recibida": 20,
+        "devuelta": 0,
+        "importe": 43650
+      },
+      "NEUMO 20 V": {
+        "enviada": 72,
+        "recibida": 72,
+        "devuelta": 0,
+        "importe": 183369
+      },
+      "ROTAVIRUS": {
+        "enviada": 20,
+        "recibida": 20,
+        "devuelta": 0,
+        "importe": 126100
+      },
+      "TDPA": {
+        "enviada": 50,
+        "recibida": 50,
+        "devuelta": 0,
+        "importe": 6028
+      },
+      "TRIPLE VIRAL (S...)": {
+        "enviada": 300,
+        "recibida": 300,
+        "devuelta": 0,
+        "importe": 36804
+      },
+      "VACUNA ANTIR...": {
+        "enviada": 2,
+        "recibida": 2,
+        "devuelta": 0,
+        "importe": 533
+      }
+    }
+  }
+}
