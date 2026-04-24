@@ -1,9 +1,9 @@
 {
-  "fecha_inicio": "2026-03-24",
-  "fecha_fin": "2026-03-27",
-  "total_piezas": 37491,
-  "total_recibidas": 30821,
-  "total_importe": 28724606,
-  "total_unidades": 37,
-  "total_vacunas": 17
+  "fecha_inicio": "2026-04-20",
+  "fecha_fin": "2026-04-23",
+  "total_piezas": 16544,
+  "total_recibidas": 13118,
+  "total_importe": 9815450,
+  "total_unidades": 35,
+  "total_vacunas": 13
 }

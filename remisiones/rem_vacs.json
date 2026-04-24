@@ -2,13 +2,119 @@
   "ANTIALACRAN": {
     "zonas": {
       "LAGUNA": {
-        "enviada": 20,
-        "recibida": 20,
+        "enviada": 58,
+        "recibida": 46,
         "devuelta": 0,
-        "importe": 3572
+        "importe": 10358
+      },
+      "SUR": {
+        "enviada": 8,
+        "recibida": 8,
+        "devuelta": 0,
+        "importe": 1428
+      },
+      "CARBONÍFERA": {
+        "enviada": 40,
+        "recibida": 35,
+        "devuelta": 0,
+        "importe": 7144
+      },
+      "CENTRO": {
+        "enviada": 37,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 6608
       }
     },
     "unidades": [
+      {
+        "nombre": "Direccion UMF 23",
+        "zona": "CARBONÍFERA",
+        "enviada": 10,
+        "recibida": 10,
+        "devuelta": 0,
+        "importe": 1786
+      },
+      {
+        "nombre": "Direccion UMF 25",
+        "zona": "CARBONÍFERA",
+        "enviada": 5,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 893
+      },
+      {
+        "nombre": "Farmacia HGSZ-MF 27",
+        "zona": "CARBONÍFERA",
+        "enviada": 10,
+        "recibida": 10,
+        "devuelta": 0,
+        "importe": 1786
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 24",
+        "zona": "CARBONÍFERA",
+        "enviada": 15,
+        "recibida": 15,
+        "devuelta": 0,
+        "importe": 2679
+      },
+      {
+        "nombre": "Direccion UMF 9",
+        "zona": "CENTRO",
+        "enviada": 5,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 893
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 7",
+        "zona": "CENTRO",
+        "enviada": 32,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 5715
+      },
+      {
+        "nombre": "Direccion UMF 61",
+        "zona": "LAGUNA",
+        "enviada": 2,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 357
+      },
+      {
+        "nombre": "Direccion UMF 83",
+        "zona": "LAGUNA",
+        "enviada": 2,
+        "recibida": 2,
+        "devuelta": 0,
+        "importe": 357
+      },
+      {
+        "nombre": "Farmacia HGSZ-MF 20",
+        "zona": "LAGUNA",
+        "enviada": 10,
+        "recibida": 10,
+        "devuelta": 0,
+        "importe": 1786
+      },
+      {
+        "nombre": "Farmacia HGSZ-MF 21",
+        "zona": "LAGUNA",
+        "enviada": 10,
+        "recibida": 10,
+        "devuelta": 0,
+        "importe": 1786
+      },
+      {
+        "nombre": "Farmacia HGSZ-MF 6",
+        "zona": "LAGUNA",
+        "enviada": 10,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 1786
+      },
       {
         "nombre": "Farmacia HGZ-MF 16",
         "zona": "LAGUNA",
@@ -24,900 +130,914 @@
         "recibida": 10,
         "devuelta": 0,
         "importe": 1786
+      },
+      {
+        "nombre": "Farmacia UMF 66",
+        "zona": "LAGUNA",
+        "enviada": 2,
+        "recibida": 2,
+        "devuelta": 0,
+        "importe": 357
+      },
+      {
+        "nombre": "Farmacia UMF 93",
+        "zona": "LAGUNA",
+        "enviada": 2,
+        "recibida": 2,
+        "devuelta": 0,
+        "importe": 357
+      },
+      {
+        "nombre": "Direccion UMF 3",
+        "zona": "SUR",
+        "enviada": 2,
+        "recibida": 2,
+        "devuelta": 0,
+        "importe": 357
+      },
+      {
+        "nombre": "Direccion UMF 70",
+        "zona": "SUR",
+        "enviada": 2,
+        "recibida": 2,
+        "devuelta": 0,
+        "importe": 357
+      },
+      {
+        "nombre": "Direccion UMF 88",
+        "zona": "SUR",
+        "enviada": 2,
+        "recibida": 2,
+        "devuelta": 0,
+        "importe": 357
+      },
+      {
+        "nombre": "Farmacia UMF 91",
+        "zona": "SUR",
+        "enviada": 2,
+        "recibida": 2,
+        "devuelta": 0,
+        "importe": 357
       }
     ]
   },
   "ANTIARACNIDO F/I": {
     "zonas": {
       "LAGUNA": {
-        "enviada": 2,
-        "recibida": 2,
+        "enviada": 101,
+        "recibida": 81,
         "devuelta": 0,
-        "importe": 3648
+        "importe": 184254
+      },
+      "CENTRO": {
+        "enviada": 65,
+        "recibida": 10,
+        "devuelta": 0,
+        "importe": 118579
+      },
+      "CARBONÍFERA": {
+        "enviada": 60,
+        "recibida": 35,
+        "devuelta": 0,
+        "importe": 109458
+      },
+      "SUR": {
+        "enviada": 35,
+        "recibida": 35,
+        "devuelta": 0,
+        "importe": 63850
       }
     },
     "unidades": [
       {
+        "nombre": "Direccion UMF 23",
+        "zona": "CARBONÍFERA",
+        "enviada": 10,
+        "recibida": 10,
+        "devuelta": 0,
+        "importe": 18243
+      },
+      {
+        "nombre": "Direccion UMF 25",
+        "zona": "CARBONÍFERA",
+        "enviada": 5,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 9121
+      },
+      {
+        "nombre": "Direccion UMF 31",
+        "zona": "CARBONÍFERA",
+        "enviada": 5,
+        "recibida": 5,
+        "devuelta": 0,
+        "importe": 9121
+      },
+      {
+        "nombre": "Farmacia HGSZ-MF 27",
+        "zona": "CARBONÍFERA",
+        "enviada": 10,
+        "recibida": 10,
+        "devuelta": 0,
+        "importe": 18243
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 24",
+        "zona": "CARBONÍFERA",
+        "enviada": 10,
+        "recibida": 10,
+        "devuelta": 0,
+        "importe": 18243
+      },
+      {
+        "nombre": "U Med Familiar 26 Direccion de la Unidad Médica",
+        "zona": "CARBONÍFERA",
+        "enviada": 5,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 9121
+      },
+      {
+        "nombre": "U Med Familiar 28 Direccion de la Unidad Médica",
+        "zona": "CARBONÍFERA",
+        "enviada": 5,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 9121
+      },
+      {
+        "nombre": "U Med Familiar 29 Direccion de la Unidad Médica",
+        "zona": "CARBONÍFERA",
+        "enviada": 5,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 9121
+      },
+      {
+        "nombre": "U Med Familiar 32 Direccion de la Unidad Médica",
+        "zona": "CARBONÍFERA",
+        "enviada": 5,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 9121
+      },
+      {
+        "nombre": "Direccion UMF 10",
+        "zona": "CENTRO",
+        "enviada": 5,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 9121
+      },
+      {
+        "nombre": "Direccion UMF 74",
+        "zona": "CENTRO",
+        "enviada": 5,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 9121
+      },
+      {
+        "nombre": "Direccion UMF 8",
+        "zona": "CENTRO",
+        "enviada": 5,
+        "recibida": 5,
+        "devuelta": 0,
+        "importe": 9121
+      },
+      {
+        "nombre": "Direccion UMF 84",
+        "zona": "CENTRO",
+        "enviada": 5,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 9121
+      },
+      {
+        "nombre": "Direccion UMF 85",
+        "zona": "CENTRO",
+        "enviada": 5,
+        "recibida": 5,
+        "devuelta": 0,
+        "importe": 9121
+      },
+      {
+        "nombre": "Direccion UMF 86",
+        "zona": "CENTRO",
+        "enviada": 5,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 9121
+      },
+      {
+        "nombre": "Direccion UMF 9",
+        "zona": "CENTRO",
+        "enviada": 15,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 27364
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 7",
+        "zona": "CENTRO",
+        "enviada": 15,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 27364
+      },
+      {
+        "nombre": "U Med Familiar 50 Direccion de la Unidad Médica",
+        "zona": "CENTRO",
+        "enviada": 5,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 9121
+      },
+      {
+        "nombre": "Direccion UMF 61",
+        "zona": "LAGUNA",
+        "enviada": 5,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 9121
+      },
+      {
+        "nombre": "Direccion UMF 83",
+        "zona": "LAGUNA",
+        "enviada": 5,
+        "recibida": 5,
+        "devuelta": 0,
+        "importe": 9121
+      },
+      {
+        "nombre": "Direccion UMR-EM 52",
+        "zona": "LAGUNA",
+        "enviada": 5,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 9121
+      },
+      {
+        "nombre": "Farmacia HGSZ-MF 20",
+        "zona": "LAGUNA",
+        "enviada": 15,
+        "recibida": 15,
+        "devuelta": 0,
+        "importe": 27364
+      },
+      {
+        "nombre": "Farmacia HGSZ-MF 21",
+        "zona": "LAGUNA",
+        "enviada": 15,
+        "recibida": 15,
+        "devuelta": 0,
+        "importe": 27364
+      },
+      {
+        "nombre": "Farmacia HGSZ-MF 6",
+        "zona": "LAGUNA",
+        "enviada": 10,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 18243
+      },
+      {
         "nombre": "Farmacia HGZ-MF 16",
         "zona": "LAGUNA",
-        "enviada": 2,
-        "recibida": 2,
+        "enviada": 21,
+        "recibida": 21,
         "devuelta": 0,
-        "importe": 3648
+        "importe": 38310
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 18",
+        "zona": "LAGUNA",
+        "enviada": 15,
+        "recibida": 15,
+        "devuelta": 0,
+        "importe": 27364
+      },
+      {
+        "nombre": "Farmacia UMF 66",
+        "zona": "LAGUNA",
+        "enviada": 5,
+        "recibida": 5,
+        "devuelta": 0,
+        "importe": 9121
+      },
+      {
+        "nombre": "Farmacia UMF 93",
+        "zona": "LAGUNA",
+        "enviada": 5,
+        "recibida": 5,
+        "devuelta": 0,
+        "importe": 9121
+      },
+      {
+        "nombre": "Direccion UMF 3",
+        "zona": "SUR",
+        "enviada": 5,
+        "recibida": 5,
+        "devuelta": 0,
+        "importe": 9121
+      },
+      {
+        "nombre": "Direccion UMF 70",
+        "zona": "SUR",
+        "enviada": 10,
+        "recibida": 10,
+        "devuelta": 0,
+        "importe": 18243
+      },
+      {
+        "nombre": "Direccion UMF 88",
+        "zona": "SUR",
+        "enviada": 10,
+        "recibida": 10,
+        "devuelta": 0,
+        "importe": 18243
+      },
+      {
+        "nombre": "Farmacia UMF 91",
+        "zona": "SUR",
+        "enviada": 10,
+        "recibida": 10,
+        "devuelta": 0,
+        "importe": 18243
       }
     ]
   },
-  "ANTICORALILLO": {
+  "ANTIVIPERINO": {
     "zonas": {
-      "LAGUNA": {
-        "enviada": 1,
-        "recibida": 1,
+      "SUR": {
+        "enviada": 8,
+        "recibida": 8,
         "devuelta": 0,
-        "importe": 2592
+        "importe": 13224
+      },
+      "CARBONÍFERA": {
+        "enviada": 45,
+        "recibida": 20,
+        "devuelta": 0,
+        "importe": 74385
+      },
+      "LAGUNA": {
+        "enviada": 114,
+        "recibida": 84,
+        "devuelta": 0,
+        "importe": 188442
+      },
+      "CENTRO": {
+        "enviada": 45,
+        "recibida": 10,
+        "devuelta": 0,
+        "importe": 74385
       }
     },
     "unidades": [
       {
+        "nombre": "Direccion UMF 23",
+        "zona": "CARBONÍFERA",
+        "enviada": 5,
+        "recibida": 5,
+        "devuelta": 0,
+        "importe": 8265
+      },
+      {
+        "nombre": "Direccion UMF 25",
+        "zona": "CARBONÍFERA",
+        "enviada": 5,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 8265
+      },
+      {
+        "nombre": "Direccion UMF 31",
+        "zona": "CARBONÍFERA",
+        "enviada": 5,
+        "recibida": 5,
+        "devuelta": 0,
+        "importe": 8265
+      },
+      {
+        "nombre": "Farmacia HGSZ-MF 27",
+        "zona": "CARBONÍFERA",
+        "enviada": 5,
+        "recibida": 5,
+        "devuelta": 0,
+        "importe": 8265
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 24",
+        "zona": "CARBONÍFERA",
+        "enviada": 5,
+        "recibida": 5,
+        "devuelta": 0,
+        "importe": 8265
+      },
+      {
+        "nombre": "U Med Familiar 26 Direccion de la Unidad Médica",
+        "zona": "CARBONÍFERA",
+        "enviada": 5,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 8265
+      },
+      {
+        "nombre": "U Med Familiar 28 Direccion de la Unidad Médica",
+        "zona": "CARBONÍFERA",
+        "enviada": 5,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 8265
+      },
+      {
+        "nombre": "U Med Familiar 29 Direccion de la Unidad Médica",
+        "zona": "CARBONÍFERA",
+        "enviada": 5,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 8265
+      },
+      {
+        "nombre": "U Med Familiar 32 Direccion de la Unidad Médica",
+        "zona": "CARBONÍFERA",
+        "enviada": 5,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 8265
+      },
+      {
+        "nombre": "Direccion UMF 10",
+        "zona": "CENTRO",
+        "enviada": 5,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 8265
+      },
+      {
+        "nombre": "Direccion UMF 74",
+        "zona": "CENTRO",
+        "enviada": 5,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 8265
+      },
+      {
+        "nombre": "Direccion UMF 8",
+        "zona": "CENTRO",
+        "enviada": 5,
+        "recibida": 5,
+        "devuelta": 0,
+        "importe": 8265
+      },
+      {
+        "nombre": "Direccion UMF 84",
+        "zona": "CENTRO",
+        "enviada": 5,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 8265
+      },
+      {
+        "nombre": "Direccion UMF 85",
+        "zona": "CENTRO",
+        "enviada": 5,
+        "recibida": 5,
+        "devuelta": 0,
+        "importe": 8265
+      },
+      {
+        "nombre": "Direccion UMF 86",
+        "zona": "CENTRO",
+        "enviada": 5,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 8265
+      },
+      {
+        "nombre": "Direccion UMF 9",
+        "zona": "CENTRO",
+        "enviada": 5,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 8265
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 7",
+        "zona": "CENTRO",
+        "enviada": 5,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 8265
+      },
+      {
+        "nombre": "U Med Familiar 50 Direccion de la Unidad Médica",
+        "zona": "CENTRO",
+        "enviada": 5,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 8265
+      },
+      {
+        "nombre": "Direccion UMF 61",
+        "zona": "LAGUNA",
+        "enviada": 5,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 8265
+      },
+      {
+        "nombre": "Direccion UMR-EM 52",
+        "zona": "LAGUNA",
+        "enviada": 5,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 8265
+      },
+      {
+        "nombre": "Farmacia HGSZ-MF 20",
+        "zona": "LAGUNA",
+        "enviada": 20,
+        "recibida": 20,
+        "devuelta": 0,
+        "importe": 33060
+      },
+      {
+        "nombre": "Farmacia HGSZ-MF 21",
+        "zona": "LAGUNA",
+        "enviada": 20,
+        "recibida": 20,
+        "devuelta": 0,
+        "importe": 33060
+      },
+      {
+        "nombre": "Farmacia HGSZ-MF 6",
+        "zona": "LAGUNA",
+        "enviada": 20,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 33060
+      },
+      {
         "nombre": "Farmacia HGZ-MF 16",
         "zona": "LAGUNA",
-        "enviada": 1,
-        "recibida": 1,
+        "enviada": 20,
+        "recibida": 20,
         "devuelta": 0,
-        "importe": 2592
+        "importe": 33060
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 18",
+        "zona": "LAGUNA",
+        "enviada": 20,
+        "recibida": 20,
+        "devuelta": 0,
+        "importe": 33060
+      },
+      {
+        "nombre": "Farmacia UMF 66",
+        "zona": "LAGUNA",
+        "enviada": 4,
+        "recibida": 4,
+        "devuelta": 0,
+        "importe": 6612
+      },
+      {
+        "nombre": "Direccion UMF 3",
+        "zona": "SUR",
+        "enviada": 2,
+        "recibida": 2,
+        "devuelta": 0,
+        "importe": 3306
+      },
+      {
+        "nombre": "Direccion UMF 70",
+        "zona": "SUR",
+        "enviada": 2,
+        "recibida": 2,
+        "devuelta": 0,
+        "importe": 3306
+      },
+      {
+        "nombre": "Direccion UMF 88",
+        "zona": "SUR",
+        "enviada": 2,
+        "recibida": 2,
+        "devuelta": 0,
+        "importe": 3306
+      },
+      {
+        "nombre": "Farmacia UMF 91",
+        "zona": "SUR",
+        "enviada": 2,
+        "recibida": 2,
+        "devuelta": 0,
+        "importe": 3306
       }
     ]
   },
   "BCG": {
     "zonas": {
       "SUR": {
-        "enviada": 81,
-        "recibida": 30,
+        "enviada": 18,
+        "recibida": 18,
         "devuelta": 0,
-        "importe": 28285
-      },
-      "CARBONÍFERA": {
-        "enviada": 4,
-        "recibida": 0,
-        "devuelta": 0,
-        "importe": 1396
-      },
-      "NORTE": {
-        "enviada": 53,
-        "recibida": 46,
-        "devuelta": 0,
-        "importe": 18507
+        "importe": 6285
       },
       "CENTRO": {
-        "enviada": 58,
-        "recibida": 49,
+        "enviada": 29,
+        "recibida": 0,
         "devuelta": 0,
-        "importe": 20253
-      },
-      "LAGUNA": {
-        "enviada": 414,
-        "recibida": 330,
-        "devuelta": 0,
-        "importe": 144568
+        "importe": 10126
       }
     },
     "unidades": [
       {
-        "nombre": "U Med Familiar 62 Direccion de la Unidad Médica",
-        "zona": "CARBONÍFERA",
-        "enviada": 1,
+        "nombre": "Farmacia HRS Matamoros",
+        "zona": "CENTRO",
+        "enviada": 18,
         "recibida": 0,
         "devuelta": 0,
-        "importe": 349
+        "importe": 6285
       },
       {
-        "nombre": "U Med Familiar 64 Direccion de la Unidad Médica",
-        "zona": "CARBONÍFERA",
-        "enviada": 3,
+        "nombre": "Farmacia HRS San Buenaventura",
+        "zona": "CENTRO",
+        "enviada": 11,
         "recibida": 0,
         "devuelta": 0,
-        "importe": 1047
+        "importe": 3841
       },
       {
-        "nombre": "Direccion UMF 10",
-        "zona": "CENTRO",
-        "enviada": 4,
-        "recibida": 4,
-        "devuelta": 0,
-        "importe": 1396
-      },
-      {
-        "nombre": "Direccion UMF 74",
-        "zona": "CENTRO",
-        "enviada": 4,
-        "recibida": 0,
-        "devuelta": 0,
-        "importe": 1396
-      },
-      {
-        "nombre": "Direccion UMF 8",
-        "zona": "CENTRO",
-        "enviada": 6,
-        "recibida": 6,
-        "devuelta": 0,
-        "importe": 2095
-      },
-      {
-        "nombre": "Direccion UMF 84",
-        "zona": "CENTRO",
-        "enviada": 5,
-        "recibida": 0,
-        "devuelta": 0,
-        "importe": 1746
-      },
-      {
-        "nombre": "Direccion UMF 85",
-        "zona": "CENTRO",
-        "enviada": 5,
-        "recibida": 5,
-        "devuelta": 0,
-        "importe": 1746
-      },
-      {
-        "nombre": "Direccion UMF 86",
-        "zona": "CENTRO",
-        "enviada": 5,
-        "recibida": 5,
-        "devuelta": 0,
-        "importe": 1746
-      },
-      {
-        "nombre": "Direccion UMF 9",
-        "zona": "CENTRO",
-        "enviada": 5,
-        "recibida": 5,
-        "devuelta": 0,
-        "importe": 1746
-      },
-      {
-        "nombre": "Farmacia HGZ-MF 7",
-        "zona": "CENTRO",
-        "enviada": 20,
-        "recibida": 20,
-        "devuelta": 0,
-        "importe": 6984
-      },
-      {
-        "nombre": "U Med Familiar 50 Direccion de la Unidad Médica",
-        "zona": "CENTRO",
-        "enviada": 4,
-        "recibida": 4,
-        "devuelta": 0,
-        "importe": 1396
-      },
-      {
-        "nombre": "Direccion UMF 80",
-        "zona": "LAGUNA",
-        "enviada": 22,
-        "recibida": 22,
-        "devuelta": 0,
-        "importe": 7682
-      },
-      {
-        "nombre": "Direccion UMF 83",
-        "zona": "LAGUNA",
-        "enviada": 22,
-        "recibida": 22,
-        "devuelta": 0,
-        "importe": 7682
-      },
-      {
-        "nombre": "Direccion UMR-EM 52",
-        "zona": "LAGUNA",
-        "enviada": 4,
-        "recibida": 0,
-        "devuelta": 0,
-        "importe": 1396
-      },
-      {
-        "nombre": "Farmacia HGSZ-MF 20",
-        "zona": "LAGUNA",
-        "enviada": 30,
-        "recibida": 30,
-        "devuelta": 0,
-        "importe": 10476
-      },
-      {
-        "nombre": "Farmacia HGSZ-MF 21",
-        "zona": "LAGUNA",
-        "enviada": 30,
-        "recibida": 0,
-        "devuelta": 0,
-        "importe": 10476
-      },
-      {
-        "nombre": "Farmacia HGSZ-MF 6",
-        "zona": "LAGUNA",
-        "enviada": 50,
-        "recibida": 0,
-        "devuelta": 0,
-        "importe": 17460
-      },
-      {
-        "nombre": "Farmacia HGZ-MF 16",
-        "zona": "LAGUNA",
-        "enviada": 70,
-        "recibida": 70,
-        "devuelta": 0,
-        "importe": 24444
-      },
-      {
-        "nombre": "Farmacia HGZ-MF 18",
-        "zona": "LAGUNA",
-        "enviada": 30,
-        "recibida": 30,
-        "devuelta": 0,
-        "importe": 10476
-      },
-      {
-        "nombre": "Farmacia UMF 66",
-        "zona": "LAGUNA",
-        "enviada": 46,
-        "recibida": 46,
-        "devuelta": 0,
-        "importe": 16063
-      },
-      {
-        "nombre": "Farmacia UMF 93",
-        "zona": "LAGUNA",
-        "enviada": 110,
-        "recibida": 110,
-        "devuelta": 0,
-        "importe": 38412
-      },
-      {
-        "nombre": "Direccion UMF 12",
-        "zona": "NORTE",
-        "enviada": 6,
-        "recibida": 6,
-        "devuelta": 0,
-        "importe": 2095
-      },
-      {
-        "nombre": "Direccion UMF 14",
-        "zona": "NORTE",
-        "enviada": 2,
-        "recibida": 2,
-        "devuelta": 0,
-        "importe": 698
-      },
-      {
-        "nombre": "Direccion UMF 15",
-        "zona": "NORTE",
-        "enviada": 3,
-        "recibida": 3,
-        "devuelta": 0,
-        "importe": 1047
-      },
-      {
-        "nombre": "Direccion UMF 60",
-        "zona": "NORTE",
-        "enviada": 7,
-        "recibida": 0,
-        "devuelta": 0,
-        "importe": 2444
-      },
-      {
-        "nombre": "Direccion UMF 81",
-        "zona": "NORTE",
-        "enviada": 10,
-        "recibida": 10,
-        "devuelta": 0,
-        "importe": 3492
-      },
-      {
-        "nombre": "Farmacia HGSZ-MF 13",
-        "zona": "NORTE",
-        "enviada": 5,
-        "recibida": 5,
-        "devuelta": 0,
-        "importe": 1746
-      },
-      {
-        "nombre": "Farmacia HGZ 11",
-        "zona": "NORTE",
-        "enviada": 10,
-        "recibida": 10,
-        "devuelta": 0,
-        "importe": 3492
-      },
-      {
-        "nombre": "Farmacia UMF 79",
-        "zona": "NORTE",
-        "enviada": 10,
-        "recibida": 10,
-        "devuelta": 0,
-        "importe": 3492
-      },
-      {
-        "nombre": "Direccion UMF 3",
+        "nombre": "Farmacia HRS Ramos",
         "zona": "SUR",
-        "enviada": 5,
-        "recibida": 0,
+        "enviada": 18,
+        "recibida": 18,
         "devuelta": 0,
-        "importe": 1746
-      },
-      {
-        "nombre": "Direccion UMF 4",
-        "zona": "SUR",
-        "enviada": 1,
-        "recibida": 0,
-        "devuelta": 0,
-        "importe": 349
-      },
-      {
-        "nombre": "Direccion UMF 70",
-        "zona": "SUR",
-        "enviada": 5,
-        "recibida": 5,
-        "devuelta": 0,
-        "importe": 1746
-      },
-      {
-        "nombre": "Direccion UMF 88",
-        "zona": "SUR",
-        "enviada": 5,
-        "recibida": 0,
-        "devuelta": 0,
-        "importe": 1746
-      },
-      {
-        "nombre": "Farmacia HGZ-MF 2",
-        "zona": "SUR",
-        "enviada": 10,
-        "recibida": 0,
-        "devuelta": 0,
-        "importe": 3492
-      },
-      {
-        "nombre": "Farmacia UMAA 89",
-        "zona": "SUR",
-        "enviada": 15,
-        "recibida": 0,
-        "devuelta": 0,
-        "importe": 5238
-      },
-      {
-        "nombre": "Farmacia UMF 73",
-        "zona": "SUR",
-        "enviada": 20,
-        "recibida": 20,
-        "devuelta": 0,
-        "importe": 6984
-      },
-      {
-        "nombre": "Farmacia UMF 82",
-        "zona": "SUR",
-        "enviada": 20,
-        "recibida": 5,
-        "devuelta": 0,
-        "importe": 6984
+        "importe": 6285
       }
     ]
   },
   "DOBLE VIRAL (SR)": {
     "zonas": {
-      "NORTE": {
-        "enviada": 91,
-        "recibida": 79,
-        "devuelta": 0,
-        "importe": 58112
-      },
       "LAGUNA": {
-        "enviada": 286,
-        "recibida": 230,
+        "enviada": 275,
+        "recibida": 220,
         "devuelta": 0,
-        "importe": 182639
-      },
-      "SUR": {
-        "enviada": 237,
-        "recibida": 85,
-        "devuelta": 0,
-        "importe": 151348
-      },
-      "CENTRO": {
-        "enviada": 177,
-        "recibida": 146,
-        "devuelta": 0,
-        "importe": 113032
+        "importe": 175615
       },
       "CARBONÍFERA": {
-        "enviada": 22,
-        "recibida": 0,
+        "enviada": 140,
+        "recibida": 105,
         "devuelta": 0,
-        "importe": 14049
+        "importe": 89404
+      },
+      "SUR": {
+        "enviada": 95,
+        "recibida": 95,
+        "devuelta": 0,
+        "importe": 60667
+      },
+      "CENTRO": {
+        "enviada": 150,
+        "recibida": 30,
+        "devuelta": 0,
+        "importe": 95790
       }
     },
     "unidades": [
       {
-        "nombre": "U Med Familiar 62 Direccion de la Unidad Médica",
+        "nombre": "Direccion UMF 23",
         "zona": "CARBONÍFERA",
-        "enviada": 15,
-        "recibida": 0,
+        "enviada": 40,
+        "recibida": 40,
         "devuelta": 0,
-        "importe": 9579
+        "importe": 25544
       },
       {
-        "nombre": "U Med Familiar 64 Direccion de la Unidad Médica",
+        "nombre": "Direccion UMF 25",
         "zona": "CARBONÍFERA",
-        "enviada": 7,
+        "enviada": 10,
         "recibida": 0,
         "devuelta": 0,
-        "importe": 4470
+        "importe": 6386
       },
       {
-        "nombre": "Direccion UMF 10",
-        "zona": "CENTRO",
-        "enviada": 15,
-        "recibida": 15,
+        "nombre": "Direccion UMF 31",
+        "zona": "CARBONÍFERA",
+        "enviada": 5,
+        "recibida": 5,
         "devuelta": 0,
-        "importe": 9579
+        "importe": 3193
       },
       {
-        "nombre": "Direccion UMF 74",
-        "zona": "CENTRO",
-        "enviada": 6,
-        "recibida": 0,
-        "devuelta": 0,
-        "importe": 3831
-      },
-      {
-        "nombre": "Direccion UMF 8",
-        "zona": "CENTRO",
-        "enviada": 15,
-        "recibida": 15,
-        "devuelta": 0,
-        "importe": 9579
-      },
-      {
-        "nombre": "Direccion UMF 84",
-        "zona": "CENTRO",
-        "enviada": 25,
-        "recibida": 0,
-        "devuelta": 0,
-        "importe": 15965
-      },
-      {
-        "nombre": "Direccion UMF 85",
-        "zona": "CENTRO",
-        "enviada": 25,
-        "recibida": 25,
-        "devuelta": 0,
-        "importe": 15965
-      },
-      {
-        "nombre": "Direccion UMF 86",
-        "zona": "CENTRO",
-        "enviada": 35,
-        "recibida": 35,
-        "devuelta": 0,
-        "importe": 22351
-      },
-      {
-        "nombre": "Farmacia HGZ-MF 7",
-        "zona": "CENTRO",
-        "enviada": 50,
-        "recibida": 50,
-        "devuelta": 0,
-        "importe": 31930
-      },
-      {
-        "nombre": "U Med Familiar 50 Direccion de la Unidad Médica",
-        "zona": "CENTRO",
-        "enviada": 6,
-        "recibida": 6,
-        "devuelta": 0,
-        "importe": 3831
-      },
-      {
-        "nombre": "Direccion UMF 80",
-        "zona": "LAGUNA",
-        "enviada": 15,
-        "recibida": 15,
-        "devuelta": 0,
-        "importe": 9579
-      },
-      {
-        "nombre": "Direccion UMF 83",
-        "zona": "LAGUNA",
-        "enviada": 35,
-        "recibida": 35,
-        "devuelta": 0,
-        "importe": 22351
-      },
-      {
-        "nombre": "Direccion UMR-EM 52",
-        "zona": "LAGUNA",
-        "enviada": 6,
-        "recibida": 0,
-        "devuelta": 0,
-        "importe": 3831
-      },
-      {
-        "nombre": "Farmacia HGSZ-MF 20",
-        "zona": "LAGUNA",
+        "nombre": "Farmacia HGSZ-MF 27",
+        "zona": "CARBONÍFERA",
         "enviada": 30,
         "recibida": 30,
         "devuelta": 0,
         "importe": 19158
       },
       {
-        "nombre": "Farmacia HGSZ-MF 21",
-        "zona": "LAGUNA",
-        "enviada": 25,
+        "nombre": "Farmacia HGZ-MF 24",
+        "zona": "CARBONÍFERA",
+        "enviada": 30,
+        "recibida": 30,
+        "devuelta": 0,
+        "importe": 19158
+      },
+      {
+        "nombre": "U Med Familiar 26 Direccion de la Unidad Médica",
+        "zona": "CARBONÍFERA",
+        "enviada": 10,
         "recibida": 0,
         "devuelta": 0,
-        "importe": 15965
+        "importe": 6386
       },
       {
-        "nombre": "Farmacia HGSZ-MF 6",
-        "zona": "LAGUNA",
-        "enviada": 25,
+        "nombre": "U Med Familiar 28 Direccion de la Unidad Médica",
+        "zona": "CARBONÍFERA",
+        "enviada": 5,
         "recibida": 0,
         "devuelta": 0,
-        "importe": 15965
+        "importe": 3193
       },
       {
-        "nombre": "Farmacia HGZ-MF 16",
-        "zona": "LAGUNA",
-        "enviada": 50,
-        "recibida": 50,
+        "nombre": "U Med Familiar 29 Direccion de la Unidad Médica",
+        "zona": "CARBONÍFERA",
+        "enviada": 5,
+        "recibida": 0,
         "devuelta": 0,
-        "importe": 31930
+        "importe": 3193
       },
       {
-        "nombre": "Farmacia HGZ-MF 18",
-        "zona": "LAGUNA",
-        "enviada": 40,
-        "recibida": 40,
+        "nombre": "U Med Familiar 32 Direccion de la Unidad Médica",
+        "zona": "CARBONÍFERA",
+        "enviada": 5,
+        "recibida": 0,
         "devuelta": 0,
-        "importe": 25544
+        "importe": 3193
       },
       {
-        "nombre": "Farmacia UMF 66",
-        "zona": "LAGUNA",
-        "enviada": 40,
-        "recibida": 40,
+        "nombre": "Direccion UMF 10",
+        "zona": "CENTRO",
+        "enviada": 5,
+        "recibida": 0,
         "devuelta": 0,
-        "importe": 25544
+        "importe": 3193
       },
       {
-        "nombre": "Farmacia UMF 93",
-        "zona": "LAGUNA",
-        "enviada": 20,
-        "recibida": 20,
+        "nombre": "Direccion UMF 74",
+        "zona": "CENTRO",
+        "enviada": 5,
+        "recibida": 0,
         "devuelta": 0,
-        "importe": 12772
+        "importe": 3193
       },
       {
-        "nombre": "Direccion UMF 12",
-        "zona": "NORTE",
+        "nombre": "Direccion UMF 8",
+        "zona": "CENTRO",
         "enviada": 10,
         "recibida": 10,
         "devuelta": 0,
         "importe": 6386
       },
       {
-        "nombre": "Direccion UMF 14",
-        "zona": "NORTE",
-        "enviada": 7,
-        "recibida": 7,
-        "devuelta": 0,
-        "importe": 4470
-      },
-      {
-        "nombre": "Direccion UMF 15",
-        "zona": "NORTE",
-        "enviada": 7,
-        "recibida": 7,
-        "devuelta": 0,
-        "importe": 4470
-      },
-      {
-        "nombre": "Direccion UMF 60",
-        "zona": "NORTE",
-        "enviada": 12,
+        "nombre": "Direccion UMF 84",
+        "zona": "CENTRO",
+        "enviada": 20,
         "recibida": 0,
         "devuelta": 0,
-        "importe": 7663
+        "importe": 12772
       },
       {
-        "nombre": "Direccion UMF 81",
-        "zona": "NORTE",
+        "nombre": "Direccion UMF 85",
+        "zona": "CENTRO",
         "enviada": 20,
         "recibida": 20,
         "devuelta": 0,
         "importe": 12772
       },
       {
-        "nombre": "Farmacia HGSZ-MF 13",
-        "zona": "NORTE",
+        "nombre": "Direccion UMF 86",
+        "zona": "CENTRO",
         "enviada": 20,
-        "recibida": 20,
+        "recibida": 0,
         "devuelta": 0,
         "importe": 12772
       },
       {
-        "nombre": "Farmacia HGZ 11",
-        "zona": "NORTE",
-        "enviada": 15,
-        "recibida": 15,
-        "devuelta": 0,
-        "importe": 9579
-      },
-      {
-        "nombre": "Direccion UMF 3",
-        "zona": "SUR",
-        "enviada": 25,
+        "nombre": "Direccion UMF 9",
+        "zona": "CENTRO",
+        "enviada": 30,
         "recibida": 0,
         "devuelta": 0,
-        "importe": 15965
+        "importe": 19158
       },
       {
-        "nombre": "Direccion UMF 4",
-        "zona": "SUR",
+        "nombre": "Farmacia HGZ-MF 7",
+        "zona": "CENTRO",
+        "enviada": 35,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 22351
+      },
+      {
+        "nombre": "U Med Familiar 50 Direccion de la Unidad Médica",
+        "zona": "CENTRO",
+        "enviada": 5,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 3193
+      },
+      {
+        "nombre": "Direccion UMF 61",
+        "zona": "LAGUNA",
         "enviada": 10,
         "recibida": 0,
         "devuelta": 0,
         "importe": 6386
       },
       {
-        "nombre": "Direccion UMF 70",
-        "zona": "SUR",
-        "enviada": 30,
-        "recibida": 30,
-        "devuelta": 0,
-        "importe": 19158
-      },
-      {
-        "nombre": "Direccion UMF 88",
-        "zona": "SUR",
-        "enviada": 30,
-        "recibida": 0,
-        "devuelta": 0,
-        "importe": 19158
-      },
-      {
-        "nombre": "Farmacia HGZ-MF 2",
-        "zona": "SUR",
-        "enviada": 57,
-        "recibida": 0,
-        "devuelta": 0,
-        "importe": 36400
-      },
-      {
-        "nombre": "Farmacia UMAA 89",
-        "zona": "SUR",
-        "enviada": 30,
-        "recibida": 0,
-        "devuelta": 0,
-        "importe": 19158
-      },
-      {
-        "nombre": "Farmacia UMF 73",
-        "zona": "SUR",
-        "enviada": 30,
-        "recibida": 30,
-        "devuelta": 0,
-        "importe": 19158
-      },
-      {
-        "nombre": "Farmacia UMF 82",
-        "zona": "SUR",
-        "enviada": 25,
-        "recibida": 25,
-        "devuelta": 0,
-        "importe": 15965
-      }
-    ]
-  },
-  "DPT": {
-    "zonas": {
-      "CARBONÍFERA": {
-        "enviada": 2,
-        "recibida": 0,
-        "devuelta": 0,
-        "importe": 474
-      },
-      "CENTRO": {
-        "enviada": 350,
-        "recibida": 298,
-        "devuelta": 0,
-        "importe": 83055
-      },
-      "SUR": {
-        "enviada": 140,
-        "recibida": 50,
-        "devuelta": 0,
-        "importe": 33222
-      },
-      "LAGUNA": {
-        "enviada": 779,
-        "recibida": 673,
-        "devuelta": 0,
-        "importe": 184856
-      }
-    },
-    "unidades": [
-      {
-        "nombre": "U Med Familiar 62 Direccion de la Unidad Médica",
-        "zona": "CARBONÍFERA",
-        "enviada": 2,
-        "recibida": 0,
-        "devuelta": 0,
-        "importe": 474
-      },
-      {
-        "nombre": "Direccion UMF 10",
-        "zona": "CENTRO",
-        "enviada": 32,
-        "recibida": 32,
-        "devuelta": 0,
-        "importe": 7593
-      },
-      {
-        "nombre": "Direccion UMF 74",
-        "zona": "CENTRO",
-        "enviada": 6,
-        "recibida": 0,
-        "devuelta": 0,
-        "importe": 1423
-      },
-      {
-        "nombre": "Direccion UMF 8",
-        "zona": "CENTRO",
-        "enviada": 32,
-        "recibida": 32,
-        "devuelta": 0,
-        "importe": 7593
-      },
-      {
-        "nombre": "Direccion UMF 84",
-        "zona": "CENTRO",
-        "enviada": 46,
-        "recibida": 0,
-        "devuelta": 0,
-        "importe": 10915
-      },
-      {
-        "nombre": "Direccion UMF 85",
-        "zona": "CENTRO",
-        "enviada": 32,
-        "recibida": 32,
-        "devuelta": 0,
-        "importe": 7593
-      },
-      {
-        "nombre": "Direccion UMF 86",
-        "zona": "CENTRO",
-        "enviada": 48,
-        "recibida": 48,
-        "devuelta": 0,
-        "importe": 11390
-      },
-      {
-        "nombre": "Direccion UMF 9",
-        "zona": "CENTRO",
-        "enviada": 66,
-        "recibida": 66,
-        "devuelta": 0,
-        "importe": 15661
-      },
-      {
-        "nombre": "Farmacia HGZ-MF 7",
-        "zona": "CENTRO",
-        "enviada": 82,
-        "recibida": 82,
-        "devuelta": 0,
-        "importe": 19458
-      },
-      {
-        "nombre": "U Med Familiar 50 Direccion de la Unidad Médica",
-        "zona": "CENTRO",
-        "enviada": 6,
-        "recibida": 6,
-        "devuelta": 0,
-        "importe": 1423
-      },
-      {
-        "nombre": "Direccion UMF 80",
-        "zona": "LAGUNA",
-        "enviada": 68,
-        "recibida": 68,
-        "devuelta": 0,
-        "importe": 16136
-      },
-      {
         "nombre": "Direccion UMF 83",
         "zona": "LAGUNA",
-        "enviada": 82,
-        "recibida": 82,
+        "enviada": 30,
+        "recibida": 30,
         "devuelta": 0,
-        "importe": 19458
+        "importe": 19158
       },
       {
         "nombre": "Direccion UMR-EM 52",
         "zona": "LAGUNA",
-        "enviada": 8,
+        "enviada": 5,
         "recibida": 0,
         "devuelta": 0,
-        "importe": 1898
+        "importe": 3193
       },
       {
         "nombre": "Farmacia HGSZ-MF 20",
         "zona": "LAGUNA",
-        "enviada": 50,
-        "recibida": 50,
+        "enviada": 20,
+        "recibida": 20,
         "devuelta": 0,
-        "importe": 11865
+        "importe": 12772
       },
       {
         "nombre": "Farmacia HGSZ-MF 21",
         "zona": "LAGUNA",
-        "enviada": 66,
-        "recibida": 0,
+        "enviada": 20,
+        "recibida": 20,
         "devuelta": 0,
-        "importe": 15661
+        "importe": 12772
       },
       {
         "nombre": "Farmacia HGSZ-MF 6",
         "zona": "LAGUNA",
-        "enviada": 32,
+        "enviada": 40,
         "recibida": 0,
         "devuelta": 0,
-        "importe": 7593
+        "importe": 25544
       },
       {
         "nombre": "Farmacia HGZ-MF 16",
         "zona": "LAGUNA",
-        "enviada": 214,
-        "recibida": 214,
+        "enviada": 50,
+        "recibida": 50,
         "devuelta": 0,
-        "importe": 50782
+        "importe": 31930
       },
       {
         "nombre": "Farmacia HGZ-MF 18",
         "zona": "LAGUNA",
-        "enviada": 40,
-        "recibida": 40,
+        "enviada": 20,
+        "recibida": 20,
         "devuelta": 0,
-        "importe": 9492
+        "importe": 12772
       },
       {
         "nombre": "Farmacia UMF 66",
         "zona": "LAGUNA",
-        "enviada": 180,
-        "recibida": 180,
+        "enviada": 50,
+        "recibida": 50,
         "devuelta": 0,
-        "importe": 42714
+        "importe": 31930
       },
       {
         "nombre": "Farmacia UMF 93",
         "zona": "LAGUNA",
-        "enviada": 39,
-        "recibida": 39,
+        "enviada": 30,
+        "recibida": 30,
         "devuelta": 0,
-        "importe": 9254
+        "importe": 19158
       },
       {
         "nombre": "Direccion UMF 3",
         "zona": "SUR",
-        "enviada": 5,
-        "recibida": 0,
+        "enviada": 30,
+        "recibida": 30,
         "devuelta": 0,
-        "importe": 1186
-      },
-      {
-        "nombre": "Direccion UMF 4",
-        "zona": "SUR",
-        "enviada": 5,
-        "recibida": 0,
-        "devuelta": 0,
-        "importe": 1186
+        "importe": 19158
       },
       {
         "nombre": "Direccion UMF 70",
@@ -925,363 +1045,579 @@
         "enviada": 15,
         "recibida": 15,
         "devuelta": 0,
-        "importe": 3559
+        "importe": 9579
       },
       {
         "nombre": "Direccion UMF 88",
         "zona": "SUR",
-        "enviada": 50,
-        "recibida": 0,
-        "devuelta": 0,
-        "importe": 11865
-      },
-      {
-        "nombre": "Farmacia HGZ-MF 2",
-        "zona": "SUR",
         "enviada": 20,
-        "recibida": 0,
+        "recibida": 20,
         "devuelta": 0,
-        "importe": 4746
+        "importe": 12772
       },
       {
-        "nombre": "Farmacia UMAA 89",
+        "nombre": "Farmacia UMF 91",
         "zona": "SUR",
+        "enviada": 30,
+        "recibida": 30,
+        "devuelta": 0,
+        "importe": 19158
+      }
+    ]
+  },
+  "DPT": {
+    "zonas": {
+      "CENTRO": {
+        "enviada": 101,
+        "recibida": 13,
+        "devuelta": 0,
+        "importe": 23967
+      },
+      "LAGUNA": {
+        "enviada": 187,
+        "recibida": 175,
+        "devuelta": 0,
+        "importe": 44375
+      },
+      "SUR": {
+        "enviada": 93,
+        "recibida": 93,
+        "devuelta": 0,
+        "importe": 22068
+      },
+      "CARBONÍFERA": {
+        "enviada": 49,
+        "recibida": 33,
+        "devuelta": 0,
+        "importe": 11627
+      }
+    },
+    "unidades": [
+      {
+        "nombre": "Direccion UMF 23",
+        "zona": "CARBONÍFERA",
+        "enviada": 10,
+        "recibida": 10,
+        "devuelta": 0,
+        "importe": 2373
+      },
+      {
+        "nombre": "Direccion UMF 25",
+        "zona": "CARBONÍFERA",
         "enviada": 10,
         "recibida": 0,
         "devuelta": 0,
         "importe": 2373
       },
       {
-        "nombre": "Farmacia UMF 73",
-        "zona": "SUR",
+        "nombre": "Direccion UMF 31",
+        "zona": "CARBONÍFERA",
+        "enviada": 3,
+        "recibida": 3,
+        "devuelta": 0,
+        "importe": 711
+      },
+      {
+        "nombre": "Farmacia HGSZ-MF 27",
+        "zona": "CARBONÍFERA",
+        "enviada": 10,
+        "recibida": 10,
+        "devuelta": 0,
+        "importe": 2373
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 24",
+        "zona": "CARBONÍFERA",
+        "enviada": 10,
+        "recibida": 10,
+        "devuelta": 0,
+        "importe": 2373
+      },
+      {
+        "nombre": "U Med Familiar 26 Direccion de la Unidad Médica",
+        "zona": "CARBONÍFERA",
+        "enviada": 3,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 711
+      },
+      {
+        "nombre": "U Med Familiar 28 Direccion de la Unidad Médica",
+        "zona": "CARBONÍFERA",
+        "enviada": 1,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 237
+      },
+      {
+        "nombre": "U Med Familiar 29 Direccion de la Unidad Médica",
+        "zona": "CARBONÍFERA",
+        "enviada": 1,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 237
+      },
+      {
+        "nombre": "U Med Familiar 32 Direccion de la Unidad Médica",
+        "zona": "CARBONÍFERA",
+        "enviada": 1,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 237
+      },
+      {
+        "nombre": "Direccion UMF 10",
+        "zona": "CENTRO",
+        "enviada": 7,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 1661
+      },
+      {
+        "nombre": "Direccion UMF 74",
+        "zona": "CENTRO",
+        "enviada": 1,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 237
+      },
+      {
+        "nombre": "Direccion UMF 8",
+        "zona": "CENTRO",
+        "enviada": 6,
+        "recibida": 6,
+        "devuelta": 0,
+        "importe": 1423
+      },
+      {
+        "nombre": "Direccion UMF 84",
+        "zona": "CENTRO",
+        "enviada": 10,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 2373
+      },
+      {
+        "nombre": "Direccion UMF 85",
+        "zona": "CENTRO",
+        "enviada": 7,
+        "recibida": 7,
+        "devuelta": 0,
+        "importe": 1661
+      },
+      {
+        "nombre": "Direccion UMF 86",
+        "zona": "CENTRO",
+        "enviada": 10,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 2373
+      },
+      {
+        "nombre": "Direccion UMF 9",
+        "zona": "CENTRO",
+        "enviada": 13,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 3084
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 7",
+        "zona": "CENTRO",
+        "enviada": 16,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 3796
+      },
+      {
+        "nombre": "Farmacia HRS Matamoros",
+        "zona": "CENTRO",
+        "enviada": 10,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 2373
+      },
+      {
+        "nombre": "Farmacia HRS San Buenaventura",
+        "zona": "CENTRO",
+        "enviada": 20,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 4746
+      },
+      {
+        "nombre": "U Med Familiar 50 Direccion de la Unidad Médica",
+        "zona": "CENTRO",
+        "enviada": 1,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 237
+      },
+      {
+        "nombre": "Direccion UMF 61",
+        "zona": "LAGUNA",
+        "enviada": 3,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 711
+      },
+      {
+        "nombre": "Direccion UMF 83",
+        "zona": "LAGUNA",
+        "enviada": 16,
+        "recibida": 16,
+        "devuelta": 0,
+        "importe": 3796
+      },
+      {
+        "nombre": "Direccion UMR-EM 52",
+        "zona": "LAGUNA",
+        "enviada": 2,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 474
+      },
+      {
+        "nombre": "Farmacia HGSZ-MF 20",
+        "zona": "LAGUNA",
         "enviada": 15,
         "recibida": 15,
         "devuelta": 0,
         "importe": 3559
       },
       {
-        "nombre": "Farmacia UMF 82",
-        "zona": "SUR",
-        "enviada": 20,
-        "recibida": 20,
-        "devuelta": 0,
-        "importe": 4746
-      }
-    ]
-  },
-  "HEPATITIS A": {
-    "zonas": {
-      "CENTRO": {
-        "enviada": 28,
-        "recibida": 28,
-        "devuelta": 0,
-        "importe": 5165
-      },
-      "SUR": {
-        "enviada": 16,
-        "recibida": 8,
-        "devuelta": 0,
-        "importe": 2951
-      },
-      "CARBONÍFERA": {
-        "enviada": 1,
-        "recibida": 0,
-        "devuelta": 0,
-        "importe": 184
-      }
-    },
-    "unidades": [
-      {
-        "nombre": "U Med Familiar 62 Direccion de la Unidad Médica",
-        "zona": "CARBONÍFERA",
-        "enviada": 1,
-        "recibida": 0,
-        "devuelta": 0,
-        "importe": 184
-      },
-      {
-        "nombre": "Direccion UMF 10",
-        "zona": "CENTRO",
-        "enviada": 4,
-        "recibida": 4,
-        "devuelta": 0,
-        "importe": 737
-      },
-      {
-        "nombre": "Direccion UMF 85",
-        "zona": "CENTRO",
-        "enviada": 4,
-        "recibida": 4,
-        "devuelta": 0,
-        "importe": 737
-      },
-      {
-        "nombre": "Direccion UMF 86",
-        "zona": "CENTRO",
-        "enviada": 4,
-        "recibida": 4,
-        "devuelta": 0,
-        "importe": 737
-      },
-      {
-        "nombre": "Direccion UMF 9",
-        "zona": "CENTRO",
-        "enviada": 8,
-        "recibida": 8,
-        "devuelta": 0,
-        "importe": 1475
-      },
-      {
-        "nombre": "Farmacia HGZ-MF 7",
-        "zona": "CENTRO",
-        "enviada": 8,
-        "recibida": 8,
-        "devuelta": 0,
-        "importe": 1475
-      },
-      {
-        "nombre": "Direccion UMF 70",
-        "zona": "SUR",
-        "enviada": 2,
-        "recibida": 2,
-        "devuelta": 0,
-        "importe": 368
-      },
-      {
-        "nombre": "Direccion UMF 88",
-        "zona": "SUR",
-        "enviada": 4,
-        "recibida": 0,
-        "devuelta": 0,
-        "importe": 737
-      },
-      {
-        "nombre": "Farmacia HGZ-MF 2",
-        "zona": "SUR",
-        "enviada": 2,
-        "recibida": 0,
-        "devuelta": 0,
-        "importe": 368
-      },
-      {
-        "nombre": "Farmacia UMAA 89",
-        "zona": "SUR",
-        "enviada": 2,
-        "recibida": 0,
-        "devuelta": 0,
-        "importe": 368
-      },
-      {
-        "nombre": "Farmacia UMF 73",
-        "zona": "SUR",
-        "enviada": 2,
-        "recibida": 2,
-        "devuelta": 0,
-        "importe": 368
-      },
-      {
-        "nombre": "Farmacia UMF 82",
-        "zona": "SUR",
-        "enviada": 4,
-        "recibida": 4,
-        "devuelta": 0,
-        "importe": 737
-      }
-    ]
-  },
-  "HEPATITIS A AD...": {
-    "zonas": {
-      "SUR": {
-        "enviada": 56,
-        "recibida": 35,
-        "devuelta": 0,
-        "importe": 18558
-      },
-      "NORTE": {
-        "enviada": 167,
-        "recibida": 162,
-        "devuelta": 0,
-        "importe": 55343
-      },
-      "LAGUNA": {
-        "enviada": 54,
-        "recibida": 44,
-        "devuelta": 0,
-        "importe": 17895
-      },
-      "CENTRO": {
-        "enviada": 32,
-        "recibida": 26,
-        "devuelta": 0,
-        "importe": 10604
-      },
-      "CARBONÍFERA": {
-        "enviada": 8,
-        "recibida": 0,
-        "devuelta": 0,
-        "importe": 2651
-      }
-    },
-    "unidades": [
-      {
-        "nombre": "U Med Familiar 62 Direccion de la Unidad Médica",
-        "zona": "CARBONÍFERA",
-        "enviada": 3,
-        "recibida": 0,
-        "devuelta": 0,
-        "importe": 994
-      },
-      {
-        "nombre": "U Med Familiar 64 Direccion de la Unidad Médica",
-        "zona": "CARBONÍFERA",
-        "enviada": 5,
-        "recibida": 0,
-        "devuelta": 0,
-        "importe": 1657
-      },
-      {
-        "nombre": "Direccion UMF 10",
-        "zona": "CENTRO",
-        "enviada": 6,
-        "recibida": 6,
-        "devuelta": 0,
-        "importe": 1988
-      },
-      {
-        "nombre": "Direccion UMF 74",
-        "zona": "CENTRO",
-        "enviada": 3,
-        "recibida": 0,
-        "devuelta": 0,
-        "importe": 994
-      },
-      {
-        "nombre": "Direccion UMF 8",
-        "zona": "CENTRO",
-        "enviada": 3,
-        "recibida": 3,
-        "devuelta": 0,
-        "importe": 994
-      },
-      {
-        "nombre": "Direccion UMF 84",
-        "zona": "CENTRO",
-        "enviada": 3,
-        "recibida": 0,
-        "devuelta": 0,
-        "importe": 994
-      },
-      {
-        "nombre": "Direccion UMF 85",
-        "zona": "CENTRO",
-        "enviada": 3,
-        "recibida": 3,
-        "devuelta": 0,
-        "importe": 994
-      },
-      {
-        "nombre": "Direccion UMF 86",
-        "zona": "CENTRO",
-        "enviada": 3,
-        "recibida": 3,
-        "devuelta": 0,
-        "importe": 994
-      },
-      {
-        "nombre": "Direccion UMF 9",
-        "zona": "CENTRO",
-        "enviada": 4,
-        "recibida": 4,
-        "devuelta": 0,
-        "importe": 1325
-      },
-      {
-        "nombre": "Farmacia HGZ-MF 7",
-        "zona": "CENTRO",
-        "enviada": 4,
-        "recibida": 4,
-        "devuelta": 0,
-        "importe": 1325
-      },
-      {
-        "nombre": "U Med Familiar 50 Direccion de la Unidad Médica",
-        "zona": "CENTRO",
-        "enviada": 3,
-        "recibida": 3,
-        "devuelta": 0,
-        "importe": 994
-      },
-      {
-        "nombre": "Direccion UMF 80",
-        "zona": "LAGUNA",
-        "enviada": 7,
-        "recibida": 7,
-        "devuelta": 0,
-        "importe": 2319
-      },
-      {
-        "nombre": "Direccion UMF 83",
-        "zona": "LAGUNA",
-        "enviada": 4,
-        "recibida": 4,
-        "devuelta": 0,
-        "importe": 1325
-      },
-      {
-        "nombre": "Direccion UMR-EM 52",
-        "zona": "LAGUNA",
-        "enviada": 3,
-        "recibida": 0,
-        "devuelta": 0,
-        "importe": 994
-      },
-      {
-        "nombre": "Farmacia HGSZ-MF 20",
-        "zona": "LAGUNA",
-        "enviada": 3,
-        "recibida": 3,
-        "devuelta": 0,
-        "importe": 994
-      },
-      {
         "nombre": "Farmacia HGSZ-MF 21",
         "zona": "LAGUNA",
-        "enviada": 3,
-        "recibida": 0,
+        "enviada": 15,
+        "recibida": 15,
         "devuelta": 0,
-        "importe": 994
+        "importe": 3559
       },
       {
         "nombre": "Farmacia HGSZ-MF 6",
         "zona": "LAGUNA",
-        "enviada": 4,
+        "enviada": 7,
         "recibida": 0,
         "devuelta": 0,
-        "importe": 1325
+        "importe": 1661
       },
       {
         "nombre": "Farmacia HGZ-MF 16",
         "zona": "LAGUNA",
-        "enviada": 9,
-        "recibida": 9,
+        "enviada": 60,
+        "recibida": 60,
         "devuelta": 0,
-        "importe": 2982
+        "importe": 14238
       },
       {
         "nombre": "Farmacia HGZ-MF 18",
         "zona": "LAGUNA",
-        "enviada": 6,
-        "recibida": 6,
+        "enviada": 18,
+        "recibida": 18,
         "devuelta": 0,
-        "importe": 1988
+        "importe": 4271
       },
       {
         "nombre": "Farmacia UMF 66",
         "zona": "LAGUNA",
+        "enviada": 31,
+        "recibida": 31,
+        "devuelta": 0,
+        "importe": 7356
+      },
+      {
+        "nombre": "Farmacia UMF 93",
+        "zona": "LAGUNA",
+        "enviada": 20,
+        "recibida": 20,
+        "devuelta": 0,
+        "importe": 4746
+      },
+      {
+        "nombre": "Direccion UMF 3",
+        "zona": "SUR",
+        "enviada": 13,
+        "recibida": 13,
+        "devuelta": 0,
+        "importe": 3084
+      },
+      {
+        "nombre": "Direccion UMF 70",
+        "zona": "SUR",
+        "enviada": 16,
+        "recibida": 16,
+        "devuelta": 0,
+        "importe": 3796
+      },
+      {
+        "nombre": "Direccion UMF 88",
+        "zona": "SUR",
         "enviada": 10,
         "recibida": 10,
         "devuelta": 0,
-        "importe": 3314
+        "importe": 2373
+      },
+      {
+        "nombre": "Farmacia HRS Ramos",
+        "zona": "SUR",
+        "enviada": 36,
+        "recibida": 36,
+        "devuelta": 0,
+        "importe": 8542
+      },
+      {
+        "nombre": "Farmacia UMF 91",
+        "zona": "SUR",
+        "enviada": 18,
+        "recibida": 18,
+        "devuelta": 0,
+        "importe": 4271
+      }
+    ]
+  },
+  "GAMA ANITETA...": {
+    "zonas": {
+      "CARBONÍFERA": {
+        "enviada": 60,
+        "recibida": 35,
+        "devuelta": 0,
+        "importe": 15205
+      },
+      "CENTRO": {
+        "enviada": 65,
+        "recibida": 10,
+        "devuelta": 0,
+        "importe": 16472
+      },
+      "LAGUNA": {
+        "enviada": 101,
+        "recibida": 81,
+        "devuelta": 0,
+        "importe": 25596
+      },
+      "SUR": {
+        "enviada": 35,
+        "recibida": 35,
+        "devuelta": 0,
+        "importe": 8870
+      }
+    },
+    "unidades": [
+      {
+        "nombre": "Direccion UMF 23",
+        "zona": "CARBONÍFERA",
+        "enviada": 10,
+        "recibida": 10,
+        "devuelta": 0,
+        "importe": 2534
+      },
+      {
+        "nombre": "Direccion UMF 25",
+        "zona": "CARBONÍFERA",
+        "enviada": 5,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 1267
+      },
+      {
+        "nombre": "Direccion UMF 31",
+        "zona": "CARBONÍFERA",
+        "enviada": 5,
+        "recibida": 5,
+        "devuelta": 0,
+        "importe": 1267
+      },
+      {
+        "nombre": "Farmacia HGSZ-MF 27",
+        "zona": "CARBONÍFERA",
+        "enviada": 10,
+        "recibida": 10,
+        "devuelta": 0,
+        "importe": 2534
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 24",
+        "zona": "CARBONÍFERA",
+        "enviada": 10,
+        "recibida": 10,
+        "devuelta": 0,
+        "importe": 2534
+      },
+      {
+        "nombre": "U Med Familiar 26 Direccion de la Unidad Médica",
+        "zona": "CARBONÍFERA",
+        "enviada": 5,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 1267
+      },
+      {
+        "nombre": "U Med Familiar 28 Direccion de la Unidad Médica",
+        "zona": "CARBONÍFERA",
+        "enviada": 5,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 1267
+      },
+      {
+        "nombre": "U Med Familiar 29 Direccion de la Unidad Médica",
+        "zona": "CARBONÍFERA",
+        "enviada": 5,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 1267
+      },
+      {
+        "nombre": "U Med Familiar 32 Direccion de la Unidad Médica",
+        "zona": "CARBONÍFERA",
+        "enviada": 5,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 1267
+      },
+      {
+        "nombre": "Direccion UMF 10",
+        "zona": "CENTRO",
+        "enviada": 5,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 1267
+      },
+      {
+        "nombre": "Direccion UMF 74",
+        "zona": "CENTRO",
+        "enviada": 5,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 1267
+      },
+      {
+        "nombre": "Direccion UMF 8",
+        "zona": "CENTRO",
+        "enviada": 5,
+        "recibida": 5,
+        "devuelta": 0,
+        "importe": 1267
+      },
+      {
+        "nombre": "Direccion UMF 84",
+        "zona": "CENTRO",
+        "enviada": 5,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 1267
+      },
+      {
+        "nombre": "Direccion UMF 85",
+        "zona": "CENTRO",
+        "enviada": 5,
+        "recibida": 5,
+        "devuelta": 0,
+        "importe": 1267
+      },
+      {
+        "nombre": "Direccion UMF 86",
+        "zona": "CENTRO",
+        "enviada": 5,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 1267
+      },
+      {
+        "nombre": "Direccion UMF 9",
+        "zona": "CENTRO",
+        "enviada": 15,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 3801
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 7",
+        "zona": "CENTRO",
+        "enviada": 15,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 3801
+      },
+      {
+        "nombre": "U Med Familiar 50 Direccion de la Unidad Médica",
+        "zona": "CENTRO",
+        "enviada": 5,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 1267
+      },
+      {
+        "nombre": "Direccion UMF 61",
+        "zona": "LAGUNA",
+        "enviada": 5,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 1267
+      },
+      {
+        "nombre": "Direccion UMF 83",
+        "zona": "LAGUNA",
+        "enviada": 5,
+        "recibida": 5,
+        "devuelta": 0,
+        "importe": 1267
+      },
+      {
+        "nombre": "Direccion UMR-EM 52",
+        "zona": "LAGUNA",
+        "enviada": 5,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 1267
+      },
+      {
+        "nombre": "Farmacia HGSZ-MF 20",
+        "zona": "LAGUNA",
+        "enviada": 15,
+        "recibida": 15,
+        "devuelta": 0,
+        "importe": 3801
+      },
+      {
+        "nombre": "Farmacia HGSZ-MF 21",
+        "zona": "LAGUNA",
+        "enviada": 15,
+        "recibida": 15,
+        "devuelta": 0,
+        "importe": 3801
+      },
+      {
+        "nombre": "Farmacia HGSZ-MF 6",
+        "zona": "LAGUNA",
+        "enviada": 10,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 2534
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 16",
+        "zona": "LAGUNA",
+        "enviada": 21,
+        "recibida": 21,
+        "devuelta": 0,
+        "importe": 5322
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 18",
+        "zona": "LAGUNA",
+        "enviada": 15,
+        "recibida": 15,
+        "devuelta": 0,
+        "importe": 3801
+      },
+      {
+        "nombre": "Farmacia UMF 66",
+        "zona": "LAGUNA",
+        "enviada": 5,
+        "recibida": 5,
+        "devuelta": 0,
+        "importe": 1267
       },
       {
         "nombre": "Farmacia UMF 93",
@@ -1289,399 +1625,399 @@
         "enviada": 5,
         "recibida": 5,
         "devuelta": 0,
-        "importe": 1657
-      },
-      {
-        "nombre": "Direccion UMF 12",
-        "zona": "NORTE",
-        "enviada": 10,
-        "recibida": 10,
-        "devuelta": 0,
-        "importe": 3314
-      },
-      {
-        "nombre": "Direccion UMF 14",
-        "zona": "NORTE",
-        "enviada": 5,
-        "recibida": 5,
-        "devuelta": 0,
-        "importe": 1657
-      },
-      {
-        "nombre": "Direccion UMF 15",
-        "zona": "NORTE",
-        "enviada": 5,
-        "recibida": 5,
-        "devuelta": 0,
-        "importe": 1657
-      },
-      {
-        "nombre": "Direccion UMF 60",
-        "zona": "NORTE",
-        "enviada": 5,
-        "recibida": 0,
-        "devuelta": 0,
-        "importe": 1657
-      },
-      {
-        "nombre": "Direccion UMF 81",
-        "zona": "NORTE",
-        "enviada": 50,
-        "recibida": 50,
-        "devuelta": 0,
-        "importe": 16570
-      },
-      {
-        "nombre": "Farmacia HGSZ-MF 13",
-        "zona": "NORTE",
-        "enviada": 20,
-        "recibida": 20,
-        "devuelta": 0,
-        "importe": 6628
-      },
-      {
-        "nombre": "Farmacia HGZ 11",
-        "zona": "NORTE",
-        "enviada": 22,
-        "recibida": 22,
-        "devuelta": 0,
-        "importe": 7290
-      },
-      {
-        "nombre": "Farmacia UMF 79",
-        "zona": "NORTE",
-        "enviada": 50,
-        "recibida": 50,
-        "devuelta": 0,
-        "importe": 16570
+        "importe": 1267
       },
       {
         "nombre": "Direccion UMF 3",
         "zona": "SUR",
-        "enviada": 3,
-        "recibida": 0,
+        "enviada": 5,
+        "recibida": 5,
         "devuelta": 0,
-        "importe": 994
-      },
-      {
-        "nombre": "Direccion UMF 4",
-        "zona": "SUR",
-        "enviada": 3,
-        "recibida": 0,
-        "devuelta": 0,
-        "importe": 994
+        "importe": 1267
       },
       {
         "nombre": "Direccion UMF 70",
         "zona": "SUR",
-        "enviada": 7,
-        "recibida": 7,
+        "enviada": 10,
+        "recibida": 10,
         "devuelta": 0,
-        "importe": 2319
+        "importe": 2534
       },
       {
         "nombre": "Direccion UMF 88",
         "zona": "SUR",
-        "enviada": 4,
+        "enviada": 10,
+        "recibida": 10,
+        "devuelta": 0,
+        "importe": 2534
+      },
+      {
+        "nombre": "Farmacia UMF 91",
+        "zona": "SUR",
+        "enviada": 10,
+        "recibida": 10,
+        "devuelta": 0,
+        "importe": 2534
+      }
+    ]
+  },
+  "HEPATITIS A": {
+    "zonas": {
+      "SUR": {
+        "enviada": 20,
+        "recibida": 20,
+        "devuelta": 0,
+        "importe": 3689
+      },
+      "LAGUNA": {
+        "enviada": 65,
+        "recibida": 60,
+        "devuelta": 0,
+        "importe": 11990
+      },
+      "CARBONÍFERA": {
+        "enviada": 15,
+        "recibida": 15,
+        "devuelta": 0,
+        "importe": 2767
+      },
+      "CENTRO": {
+        "enviada": 40,
         "recibida": 0,
         "devuelta": 0,
-        "importe": 1325
+        "importe": 7378
+      }
+    },
+    "unidades": [
+      {
+        "nombre": "Direccion UMF 23",
+        "zona": "CARBONÍFERA",
+        "enviada": 15,
+        "recibida": 15,
+        "devuelta": 0,
+        "importe": 2767
       },
       {
-        "nombre": "Farmacia HGZ-MF 2",
-        "zona": "SUR",
-        "enviada": 7,
+        "nombre": "Farmacia HGZ-MF 7",
+        "zona": "CENTRO",
+        "enviada": 40,
         "recibida": 0,
         "devuelta": 0,
-        "importe": 2319
+        "importe": 7378
       },
       {
-        "nombre": "Farmacia UMAA 89",
-        "zona": "SUR",
-        "enviada": 4,
+        "nombre": "Farmacia HGSZ-MF 21",
+        "zona": "LAGUNA",
+        "enviada": 5,
+        "recibida": 5,
+        "devuelta": 0,
+        "importe": 922
+      },
+      {
+        "nombre": "Farmacia HGSZ-MF 6",
+        "zona": "LAGUNA",
+        "enviada": 5,
         "recibida": 0,
         "devuelta": 0,
-        "importe": 1325
+        "importe": 922
       },
       {
-        "nombre": "Farmacia UMF 73",
-        "zona": "SUR",
-        "enviada": 14,
-        "recibida": 14,
+        "nombre": "Farmacia HGZ-MF 16",
+        "zona": "LAGUNA",
+        "enviada": 20,
+        "recibida": 20,
         "devuelta": 0,
-        "importe": 4639
+        "importe": 3689
       },
       {
-        "nombre": "Farmacia UMF 82",
-        "zona": "SUR",
-        "enviada": 14,
-        "recibida": 14,
+        "nombre": "Farmacia HGZ-MF 18",
+        "zona": "LAGUNA",
+        "enviada": 15,
+        "recibida": 15,
         "devuelta": 0,
-        "importe": 4639
+        "importe": 2767
+      },
+      {
+        "nombre": "Farmacia UMF 66",
+        "zona": "LAGUNA",
+        "enviada": 20,
+        "recibida": 20,
+        "devuelta": 0,
+        "importe": 3689
+      },
+      {
+        "nombre": "Direccion UMF 70",
+        "zona": "SUR",
+        "enviada": 15,
+        "recibida": 15,
+        "devuelta": 0,
+        "importe": 2767
+      },
+      {
+        "nombre": "Farmacia UMF 91",
+        "zona": "SUR",
+        "enviada": 5,
+        "recibida": 5,
+        "devuelta": 0,
+        "importe": 922
       }
     ]
   },
   "HEPATITIS B": {
     "zonas": {
       "CENTRO": {
-        "enviada": 130,
-        "recibida": 110,
+        "enviada": 125,
+        "recibida": 9,
         "devuelta": 0,
-        "importe": 33319
-      },
-      "NORTE": {
-        "enviada": 51,
-        "recibida": 46,
-        "devuelta": 0,
-        "importe": 13071
-      },
-      "LAGUNA": {
-        "enviada": 810,
-        "recibida": 660,
-        "devuelta": 0,
-        "importe": 207603
+        "importe": 32037
       },
       "SUR": {
-        "enviada": 315,
-        "recibida": 60,
+        "enviada": 119,
+        "recibida": 119,
         "devuelta": 0,
-        "importe": 80734
+        "importe": 30499
+      },
+      "LAGUNA": {
+        "enviada": 107,
+        "recibida": 85,
+        "devuelta": 0,
+        "importe": 27424
       },
       "CARBONÍFERA": {
-        "enviada": 10,
-        "recibida": 0,
+        "enviada": 37,
+        "recibida": 31,
         "devuelta": 0,
-        "importe": 2563
+        "importe": 9483
       }
     },
     "unidades": [
       {
-        "nombre": "U Med Familiar 62 Direccion de la Unidad Médica",
+        "nombre": "Direccion UMF 23",
         "zona": "CARBONÍFERA",
         "enviada": 5,
-        "recibida": 0,
+        "recibida": 5,
         "devuelta": 0,
         "importe": 1281
       },
       {
-        "nombre": "U Med Familiar 64 Direccion de la Unidad Médica",
+        "nombre": "Direccion UMF 25",
         "zona": "CARBONÍFERA",
-        "enviada": 5,
+        "enviada": 2,
         "recibida": 0,
         "devuelta": 0,
-        "importe": 1281
+        "importe": 512
+      },
+      {
+        "nombre": "Direccion UMF 31",
+        "zona": "CARBONÍFERA",
+        "enviada": 1,
+        "recibida": 1,
+        "devuelta": 0,
+        "importe": 256
+      },
+      {
+        "nombre": "Farmacia HGSZ-MF 27",
+        "zona": "CARBONÍFERA",
+        "enviada": 10,
+        "recibida": 10,
+        "devuelta": 0,
+        "importe": 2563
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 24",
+        "zona": "CARBONÍFERA",
+        "enviada": 15,
+        "recibida": 15,
+        "devuelta": 0,
+        "importe": 3844
+      },
+      {
+        "nombre": "U Med Familiar 26 Direccion de la Unidad Médica",
+        "zona": "CARBONÍFERA",
+        "enviada": 1,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 256
+      },
+      {
+        "nombre": "U Med Familiar 28 Direccion de la Unidad Médica",
+        "zona": "CARBONÍFERA",
+        "enviada": 1,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 256
+      },
+      {
+        "nombre": "U Med Familiar 29 Direccion de la Unidad Médica",
+        "zona": "CARBONÍFERA",
+        "enviada": 1,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 256
+      },
+      {
+        "nombre": "U Med Familiar 32 Direccion de la Unidad Médica",
+        "zona": "CARBONÍFERA",
+        "enviada": 1,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 256
       },
       {
         "nombre": "Direccion UMF 10",
         "zona": "CENTRO",
-        "enviada": 10,
-        "recibida": 10,
+        "enviada": 1,
+        "recibida": 0,
         "devuelta": 0,
-        "importe": 2563
+        "importe": 256
       },
       {
         "nombre": "Direccion UMF 74",
         "zona": "CENTRO",
-        "enviada": 10,
+        "enviada": 1,
         "recibida": 0,
         "devuelta": 0,
-        "importe": 2563
+        "importe": 256
       },
       {
         "nombre": "Direccion UMF 8",
         "zona": "CENTRO",
-        "enviada": 10,
-        "recibida": 10,
+        "enviada": 5,
+        "recibida": 5,
         "devuelta": 0,
-        "importe": 2563
+        "importe": 1281
       },
       {
         "nombre": "Direccion UMF 84",
         "zona": "CENTRO",
-        "enviada": 10,
+        "enviada": 4,
         "recibida": 0,
         "devuelta": 0,
-        "importe": 2563
+        "importe": 1025
       },
       {
         "nombre": "Direccion UMF 85",
         "zona": "CENTRO",
-        "enviada": 10,
-        "recibida": 10,
+        "enviada": 4,
+        "recibida": 4,
         "devuelta": 0,
-        "importe": 2563
+        "importe": 1025
       },
       {
         "nombre": "Direccion UMF 86",
         "zona": "CENTRO",
-        "enviada": 10,
-        "recibida": 10,
+        "enviada": 4,
+        "recibida": 0,
         "devuelta": 0,
-        "importe": 2563
+        "importe": 1025
       },
       {
         "nombre": "Direccion UMF 9",
         "zona": "CENTRO",
-        "enviada": 10,
-        "recibida": 10,
+        "enviada": 5,
+        "recibida": 0,
         "devuelta": 0,
-        "importe": 2563
+        "importe": 1281
       },
       {
         "nombre": "Farmacia HGZ-MF 7",
         "zona": "CENTRO",
+        "enviada": 20,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 5126
+      },
+      {
+        "nombre": "Farmacia HRS Matamoros",
+        "zona": "CENTRO",
+        "enviada": 30,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 7689
+      },
+      {
+        "nombre": "Farmacia HRS San Buenaventura",
+        "zona": "CENTRO",
         "enviada": 50,
-        "recibida": 50,
+        "recibida": 0,
         "devuelta": 0,
         "importe": 12815
       },
       {
         "nombre": "U Med Familiar 50 Direccion de la Unidad Médica",
         "zona": "CENTRO",
-        "enviada": 10,
-        "recibida": 10,
+        "enviada": 1,
+        "recibida": 0,
         "devuelta": 0,
-        "importe": 2563
+        "importe": 256
       },
       {
-        "nombre": "Direccion UMF 80",
+        "nombre": "Direccion UMF 61",
         "zona": "LAGUNA",
-        "enviada": 50,
-        "recibida": 50,
+        "enviada": 1,
+        "recibida": 0,
         "devuelta": 0,
-        "importe": 12815
-      },
-      {
-        "nombre": "Direccion UMF 83",
-        "zona": "LAGUNA",
-        "enviada": 50,
-        "recibida": 50,
-        "devuelta": 0,
-        "importe": 12815
+        "importe": 256
       },
       {
         "nombre": "Direccion UMR-EM 52",
         "zona": "LAGUNA",
-        "enviada": 10,
+        "enviada": 1,
         "recibida": 0,
         "devuelta": 0,
-        "importe": 2563
+        "importe": 256
       },
       {
         "nombre": "Farmacia HGSZ-MF 20",
         "zona": "LAGUNA",
-        "enviada": 60,
-        "recibida": 60,
-        "devuelta": 0,
-        "importe": 15378
-      },
-      {
-        "nombre": "Farmacia HGSZ-MF 21",
-        "zona": "LAGUNA",
-        "enviada": 60,
-        "recibida": 0,
-        "devuelta": 0,
-        "importe": 15378
-      },
-      {
-        "nombre": "Farmacia HGSZ-MF 6",
-        "zona": "LAGUNA",
-        "enviada": 80,
-        "recibida": 0,
-        "devuelta": 0,
-        "importe": 20504
-      },
-      {
-        "nombre": "Farmacia HGZ-MF 16",
-        "zona": "LAGUNA",
-        "enviada": 200,
-        "recibida": 200,
-        "devuelta": 0,
-        "importe": 51260
-      },
-      {
-        "nombre": "Farmacia HGZ-MF 18",
-        "zona": "LAGUNA",
-        "enviada": 140,
-        "recibida": 140,
-        "devuelta": 0,
-        "importe": 35882
-      },
-      {
-        "nombre": "Farmacia UMF 66",
-        "zona": "LAGUNA",
-        "enviada": 100,
-        "recibida": 100,
-        "devuelta": 0,
-        "importe": 25630
-      },
-      {
-        "nombre": "Farmacia UMF 93",
-        "zona": "LAGUNA",
-        "enviada": 60,
-        "recibida": 60,
-        "devuelta": 0,
-        "importe": 15378
-      },
-      {
-        "nombre": "Direccion UMF 12",
-        "zona": "NORTE",
-        "enviada": 5,
-        "recibida": 5,
-        "devuelta": 0,
-        "importe": 1281
-      },
-      {
-        "nombre": "Direccion UMF 14",
-        "zona": "NORTE",
-        "enviada": 5,
-        "recibida": 5,
-        "devuelta": 0,
-        "importe": 1281
-      },
-      {
-        "nombre": "Direccion UMF 15",
-        "zona": "NORTE",
-        "enviada": 5,
-        "recibida": 5,
-        "devuelta": 0,
-        "importe": 1281
-      },
-      {
-        "nombre": "Direccion UMF 60",
-        "zona": "NORTE",
-        "enviada": 5,
-        "recibida": 0,
-        "devuelta": 0,
-        "importe": 1281
-      },
-      {
-        "nombre": "Direccion UMF 81",
-        "zona": "NORTE",
-        "enviada": 6,
-        "recibida": 6,
-        "devuelta": 0,
-        "importe": 1537
-      },
-      {
-        "nombre": "Farmacia HGSZ-MF 13",
-        "zona": "NORTE",
-        "enviada": 5,
-        "recibida": 5,
-        "devuelta": 0,
-        "importe": 1281
-      },
-      {
-        "nombre": "Farmacia HGZ 11",
-        "zona": "NORTE",
         "enviada": 10,
         "recibida": 10,
         "devuelta": 0,
         "importe": 2563
       },
       {
-        "nombre": "Farmacia UMF 79",
-        "zona": "NORTE",
+        "nombre": "Farmacia HGSZ-MF 21",
+        "zona": "LAGUNA",
+        "enviada": 10,
+        "recibida": 10,
+        "devuelta": 0,
+        "importe": 2563
+      },
+      {
+        "nombre": "Farmacia HGSZ-MF 6",
+        "zona": "LAGUNA",
+        "enviada": 20,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 5126
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 16",
+        "zona": "LAGUNA",
+        "enviada": 25,
+        "recibida": 25,
+        "devuelta": 0,
+        "importe": 6407
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 18",
+        "zona": "LAGUNA",
+        "enviada": 10,
+        "recibida": 10,
+        "devuelta": 0,
+        "importe": 2563
+      },
+      {
+        "nombre": "Farmacia UMF 66",
+        "zona": "LAGUNA",
+        "enviada": 20,
+        "recibida": 20,
+        "devuelta": 0,
+        "importe": 5126
+      },
+      {
+        "nombre": "Farmacia UMF 93",
+        "zona": "LAGUNA",
         "enviada": 10,
         "recibida": 10,
         "devuelta": 0,
@@ -1690,61 +2026,37 @@
       {
         "nombre": "Direccion UMF 3",
         "zona": "SUR",
-        "enviada": 10,
-        "recibida": 0,
-        "devuelta": 0,
-        "importe": 2563
-      },
-      {
-        "nombre": "Direccion UMF 4",
-        "zona": "SUR",
         "enviada": 5,
-        "recibida": 0,
+        "recibida": 5,
         "devuelta": 0,
         "importe": 1281
       },
       {
         "nombre": "Direccion UMF 70",
         "zona": "SUR",
-        "enviada": 20,
-        "recibida": 20,
+        "enviada": 10,
+        "recibida": 10,
         "devuelta": 0,
-        "importe": 5126
+        "importe": 2563
       },
       {
         "nombre": "Direccion UMF 88",
         "zona": "SUR",
-        "enviada": 20,
-        "recibida": 0,
+        "enviada": 8,
+        "recibida": 8,
         "devuelta": 0,
-        "importe": 5126
+        "importe": 2050
       },
       {
-        "nombre": "Farmacia HGZ-MF 2",
+        "nombre": "Farmacia HRS Ramos",
         "zona": "SUR",
-        "enviada": 200,
-        "recibida": 0,
+        "enviada": 76,
+        "recibida": 76,
         "devuelta": 0,
-        "importe": 51260
+        "importe": 19478
       },
       {
-        "nombre": "Farmacia UMAA 89",
-        "zona": "SUR",
-        "enviada": 20,
-        "recibida": 0,
-        "devuelta": 0,
-        "importe": 5126
-      },
-      {
-        "nombre": "Farmacia UMF 73",
-        "zona": "SUR",
-        "enviada": 20,
-        "recibida": 20,
-        "devuelta": 0,
-        "importe": 5126
-      },
-      {
-        "nombre": "Farmacia UMF 82",
+        "nombre": "Farmacia UMF 91",
         "zona": "SUR",
         "enviada": 20,
         "recibida": 20,
@@ -1755,40 +2067,74 @@
   },
   "HEXAVALENTE": {
     "zonas": {
-      "NORTE": {
-        "enviada": 320,
-        "recibida": 290,
-        "devuelta": 0,
-        "importe": 1610592
-      },
-      "LAGUNA": {
-        "enviada": 576,
-        "recibida": 491,
-        "devuelta": 0,
-        "importe": 2899065
-      },
-      "SUR": {
-        "enviada": 450,
-        "recibida": 220,
-        "devuelta": 0,
-        "importe": 2264895
-      },
       "CENTRO": {
-        "enviada": 295,
-        "recibida": 243,
+        "enviada": 310,
+        "recibida": 50,
         "devuelta": 0,
-        "importe": 1484764
+        "importe": 1560261
       },
       "CARBONÍFERA": {
-        "enviada": 15,
-        "recibida": 0,
+        "enviada": 150,
+        "recibida": 90,
         "devuelta": 0,
-        "importe": 75496
+        "importe": 754965
+      },
+      "LAGUNA": {
+        "enviada": 628,
+        "recibida": 568,
+        "devuelta": 0,
+        "importe": 3160786
+      },
+      "SUR": {
+        "enviada": 210,
+        "recibida": 210,
+        "devuelta": 0,
+        "importe": 1056951
       }
     },
     "unidades": [
       {
-        "nombre": "U Med Familiar 62 Direccion de la Unidad Médica",
+        "nombre": "Direccion UMF 23",
+        "zona": "CARBONÍFERA",
+        "enviada": 30,
+        "recibida": 30,
+        "devuelta": 0,
+        "importe": 150993
+      },
+      {
+        "nombre": "Direccion UMF 25",
+        "zona": "CARBONÍFERA",
+        "enviada": 20,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 100662
+      },
+      {
+        "nombre": "Direccion UMF 31",
+        "zona": "CARBONÍFERA",
+        "enviada": 10,
+        "recibida": 10,
+        "devuelta": 0,
+        "importe": 50331
+      },
+      {
+        "nombre": "Farmacia HGSZ-MF 27",
+        "zona": "CARBONÍFERA",
+        "enviada": 20,
+        "recibida": 20,
+        "devuelta": 0,
+        "importe": 100662
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 24",
+        "zona": "CARBONÍFERA",
+        "enviada": 30,
+        "recibida": 30,
+        "devuelta": 0,
+        "importe": 150993
+      },
+      {
+        "nombre": "U Med Familiar 26 Direccion de la Unidad Médica",
         "zona": "CARBONÍFERA",
         "enviada": 10,
         "recibida": 0,
@@ -1796,18 +2142,34 @@
         "importe": 50331
       },
       {
-        "nombre": "U Med Familiar 64 Direccion de la Unidad Médica",
+        "nombre": "U Med Familiar 28 Direccion de la Unidad Médica",
         "zona": "CARBONÍFERA",
-        "enviada": 5,
+        "enviada": 10,
         "recibida": 0,
         "devuelta": 0,
-        "importe": 25165
+        "importe": 50331
+      },
+      {
+        "nombre": "U Med Familiar 29 Direccion de la Unidad Médica",
+        "zona": "CARBONÍFERA",
+        "enviada": 10,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 50331
+      },
+      {
+        "nombre": "U Med Familiar 32 Direccion de la Unidad Médica",
+        "zona": "CARBONÍFERA",
+        "enviada": 10,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 50331
       },
       {
         "nombre": "Direccion UMF 10",
         "zona": "CENTRO",
         "enviada": 20,
-        "recibida": 20,
+        "recibida": 0,
         "devuelta": 0,
         "importe": 100662
       },
@@ -1847,57 +2209,73 @@
         "nombre": "Direccion UMF 86",
         "zona": "CENTRO",
         "enviada": 40,
-        "recibida": 40,
+        "recibida": 0,
         "devuelta": 0,
         "importe": 201324
       },
       {
         "nombre": "Direccion UMF 9",
         "zona": "CENTRO",
-        "enviada": 60,
-        "recibida": 48,
+        "enviada": 50,
+        "recibida": 0,
         "devuelta": 0,
-        "importe": 301986
+        "importe": 251655
       },
       {
         "nombre": "Farmacia HGZ-MF 7",
         "zona": "CENTRO",
-        "enviada": 80,
-        "recibida": 80,
+        "enviada": 60,
+        "recibida": 0,
         "devuelta": 0,
-        "importe": 402648
+        "importe": 301986
+      },
+      {
+        "nombre": "Farmacia HRS Matamoros",
+        "zona": "CENTRO",
+        "enviada": 10,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 50331
+      },
+      {
+        "nombre": "Farmacia HRS San Buenaventura",
+        "zona": "CENTRO",
+        "enviada": 30,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 150993
       },
       {
         "nombre": "U Med Familiar 50 Direccion de la Unidad Médica",
         "zona": "CENTRO",
-        "enviada": 5,
-        "recibida": 5,
+        "enviada": 10,
+        "recibida": 0,
         "devuelta": 0,
-        "importe": 25165
+        "importe": 50331
       },
       {
-        "nombre": "Direccion UMF 80",
+        "nombre": "Direccion UMF 61",
         "zona": "LAGUNA",
-        "enviada": 60,
-        "recibida": 60,
+        "enviada": 20,
+        "recibida": 0,
         "devuelta": 0,
-        "importe": 301986
+        "importe": 100662
       },
       {
         "nombre": "Direccion UMF 83",
         "zona": "LAGUNA",
-        "enviada": 60,
-        "recibida": 60,
+        "enviada": 40,
+        "recibida": 40,
         "devuelta": 0,
-        "importe": 301986
+        "importe": 201324
       },
       {
         "nombre": "Direccion UMR-EM 52",
         "zona": "LAGUNA",
-        "enviada": 5,
+        "enviada": 10,
         "recibida": 0,
         "devuelta": 0,
-        "importe": 25165
+        "importe": 50331
       },
       {
         "nombre": "Farmacia HGSZ-MF 20",
@@ -1911,7 +2289,7 @@
         "nombre": "Farmacia HGSZ-MF 21",
         "zona": "LAGUNA",
         "enviada": 50,
-        "recibida": 0,
+        "recibida": 50,
         "devuelta": 0,
         "importe": 251655
       },
@@ -1926,10 +2304,10 @@
       {
         "nombre": "Farmacia HGZ-MF 16",
         "zona": "LAGUNA",
-        "enviada": 100,
-        "recibida": 100,
+        "enviada": 258,
+        "recibida": 258,
         "devuelta": 0,
-        "importe": 503310
+        "importe": 1298539
       },
       {
         "nombre": "Farmacia HGZ-MF 18",
@@ -1942,658 +2320,314 @@
       {
         "nombre": "Farmacia UMF 66",
         "zona": "LAGUNA",
-        "enviada": 131,
-        "recibida": 131,
-        "devuelta": 0,
-        "importe": 659336
-      },
-      {
-        "nombre": "Farmacia UMF 93",
-        "zona": "LAGUNA",
-        "enviada": 60,
-        "recibida": 60,
-        "devuelta": 0,
-        "importe": 301986
-      },
-      {
-        "nombre": "Direccion UMF 12",
-        "zona": "NORTE",
-        "enviada": 20,
-        "recibida": 20,
-        "devuelta": 0,
-        "importe": 100662
-      },
-      {
-        "nombre": "Direccion UMF 14",
-        "zona": "NORTE",
-        "enviada": 10,
-        "recibida": 10,
-        "devuelta": 0,
-        "importe": 50331
-      },
-      {
-        "nombre": "Direccion UMF 15",
-        "zona": "NORTE",
-        "enviada": 10,
-        "recibida": 10,
-        "devuelta": 0,
-        "importe": 50331
-      },
-      {
-        "nombre": "Direccion UMF 60",
-        "zona": "NORTE",
-        "enviada": 30,
-        "recibida": 0,
-        "devuelta": 0,
-        "importe": 150993
-      },
-      {
-        "nombre": "Direccion UMF 81",
-        "zona": "NORTE",
         "enviada": 100,
         "recibida": 100,
         "devuelta": 0,
         "importe": 503310
       },
       {
-        "nombre": "Farmacia UMF 79",
-        "zona": "NORTE",
-        "enviada": 150,
-        "recibida": 150,
+        "nombre": "Farmacia UMF 93",
+        "zona": "LAGUNA",
+        "enviada": 40,
+        "recibida": 40,
         "devuelta": 0,
-        "importe": 754965
+        "importe": 201324
       },
       {
         "nombre": "Direccion UMF 3",
         "zona": "SUR",
-        "enviada": 40,
-        "recibida": 0,
+        "enviada": 30,
+        "recibida": 30,
         "devuelta": 0,
-        "importe": 201324
-      },
-      {
-        "nombre": "Direccion UMF 4",
-        "zona": "SUR",
-        "enviada": 10,
-        "recibida": 0,
-        "devuelta": 0,
-        "importe": 50331
+        "importe": 150993
       },
       {
         "nombre": "Direccion UMF 70",
         "zona": "SUR",
-        "enviada": 60,
-        "recibida": 60,
+        "enviada": 50,
+        "recibida": 50,
         "devuelta": 0,
-        "importe": 301986
+        "importe": 251655
       },
       {
         "nombre": "Direccion UMF 88",
         "zona": "SUR",
-        "enviada": 60,
-        "recibida": 0,
-        "devuelta": 0,
-        "importe": 301986
-      },
-      {
-        "nombre": "Farmacia HGZ-MF 2",
-        "zona": "SUR",
         "enviada": 40,
-        "recibida": 0,
+        "recibida": 40,
         "devuelta": 0,
         "importe": 201324
       },
       {
-        "nombre": "Farmacia UMAA 89",
+        "nombre": "Farmacia HRS Ramos",
         "zona": "SUR",
-        "enviada": 80,
-        "recibida": 0,
+        "enviada": 40,
+        "recibida": 40,
         "devuelta": 0,
-        "importe": 402648
+        "importe": 201324
       },
       {
-        "nombre": "Farmacia UMF 73",
+        "nombre": "Farmacia UMF 91",
         "zona": "SUR",
-        "enviada": 80,
-        "recibida": 80,
-        "devuelta": 0,
-        "importe": 402648
-      },
-      {
-        "nombre": "Farmacia UMF 82",
-        "zona": "SUR",
-        "enviada": 80,
-        "recibida": 80,
-        "devuelta": 0,
-        "importe": 402648
-      }
-    ]
-  },
-  "INFLUENZA TET...": {
-    "zonas": {
-      "SUR": {
-        "enviada": 3,
-        "recibida": 0,
-        "devuelta": 0,
-        "importe": 27276
-      }
-    },
-    "unidades": [
-      {
-        "nombre": "Farmacia HGZ-MF 2",
-        "zona": "SUR",
-        "enviada": 3,
-        "recibida": 0,
-        "devuelta": 0,
-        "importe": 27276
-      }
-    ]
-  },
-  "NEUMO 13 V": {
-    "zonas": {
-      "SUR": {
-        "enviada": 70,
+        "enviada": 50,
         "recibida": 50,
         "devuelta": 0,
-        "importe": 152775
-      }
-    },
-    "unidades": [
-      {
-        "nombre": "Direccion UMF 70",
-        "zona": "SUR",
-        "enviada": 10,
-        "recibida": 10,
-        "devuelta": 0,
-        "importe": 21825
-      },
-      {
-        "nombre": "Farmacia HGZ-MF 2",
-        "zona": "SUR",
-        "enviada": 20,
-        "recibida": 0,
-        "devuelta": 0,
-        "importe": 43650
-      },
-      {
-        "nombre": "Farmacia UMF 73",
-        "zona": "SUR",
-        "enviada": 20,
-        "recibida": 20,
-        "devuelta": 0,
-        "importe": 43650
-      },
-      {
-        "nombre": "Farmacia UMF 82",
-        "zona": "SUR",
-        "enviada": 20,
-        "recibida": 20,
-        "devuelta": 0,
-        "importe": 43650
+        "importe": 251655
       }
     ]
   },
   "NEUMO 20 V": {
     "zonas": {
       "SUR": {
-        "enviada": 396,
-        "recibida": 198,
+        "enviada": 40,
+        "recibida": 40,
         "devuelta": 0,
-        "importe": 1008532
-      },
-      "LAGUNA": {
-        "enviada": 3898,
-        "recibida": 3200,
-        "devuelta": 0,
-        "importe": 9927426
+        "importe": 101872
       },
       "CENTRO": {
-        "enviada": 522,
-        "recibida": 468,
-        "devuelta": 0,
-        "importe": 1329429
-      },
-      "NORTE": {
-        "enviada": 108,
-        "recibida": 90,
-        "devuelta": 0,
-        "importe": 275054
-      },
-      "CARBONÍFERA": {
-        "enviada": 36,
+        "enviada": 30,
         "recibida": 0,
         "devuelta": 0,
-        "importe": 91684
+        "importe": 76404
       }
     },
     "unidades": [
       {
-        "nombre": "U Med Familiar 62 Direccion de la Unidad Médica",
-        "zona": "CARBONÍFERA",
-        "enviada": 18,
+        "nombre": "Farmacia HRS Matamoros",
+        "zona": "CENTRO",
+        "enviada": 10,
         "recibida": 0,
         "devuelta": 0,
-        "importe": 45842
+        "importe": 25468
       },
       {
-        "nombre": "U Med Familiar 64 Direccion de la Unidad Médica",
-        "zona": "CARBONÍFERA",
-        "enviada": 18,
+        "nombre": "Farmacia HRS San Buenaventura",
+        "zona": "CENTRO",
+        "enviada": 20,
         "recibida": 0,
         "devuelta": 0,
-        "importe": 45842
+        "importe": 50936
       },
       {
-        "nombre": "Direccion UMF 10",
-        "zona": "CENTRO",
-        "enviada": 36,
-        "recibida": 36,
-        "devuelta": 0,
-        "importe": 91684
-      },
-      {
-        "nombre": "Direccion UMF 74",
-        "zona": "CENTRO",
-        "enviada": 18,
-        "recibida": 0,
-        "devuelta": 0,
-        "importe": 45842
-      },
-      {
-        "nombre": "Direccion UMF 8",
-        "zona": "CENTRO",
-        "enviada": 90,
-        "recibida": 90,
-        "devuelta": 0,
-        "importe": 229212
-      },
-      {
-        "nombre": "Direccion UMF 84",
-        "zona": "CENTRO",
-        "enviada": 36,
-        "recibida": 0,
-        "devuelta": 0,
-        "importe": 91684
-      },
-      {
-        "nombre": "Direccion UMF 85",
-        "zona": "CENTRO",
-        "enviada": 36,
-        "recibida": 36,
-        "devuelta": 0,
-        "importe": 91684
-      },
-      {
-        "nombre": "Direccion UMF 86",
-        "zona": "CENTRO",
-        "enviada": 72,
-        "recibida": 72,
-        "devuelta": 0,
-        "importe": 183369
-      },
-      {
-        "nombre": "Direccion UMF 9",
-        "zona": "CENTRO",
-        "enviada": 108,
-        "recibida": 108,
-        "devuelta": 0,
-        "importe": 275054
-      },
-      {
-        "nombre": "Farmacia HGZ-MF 7",
-        "zona": "CENTRO",
-        "enviada": 108,
-        "recibida": 108,
-        "devuelta": 0,
-        "importe": 275054
-      },
-      {
-        "nombre": "U Med Familiar 50 Direccion de la Unidad Médica",
-        "zona": "CENTRO",
-        "enviada": 18,
-        "recibida": 18,
-        "devuelta": 0,
-        "importe": 45842
-      },
-      {
-        "nombre": "Direccion UMF 80",
-        "zona": "LAGUNA",
-        "enviada": 400,
-        "recibida": 400,
-        "devuelta": 0,
-        "importe": 1018720
-      },
-      {
-        "nombre": "Direccion UMF 83",
-        "zona": "LAGUNA",
-        "enviada": 400,
-        "recibida": 400,
-        "devuelta": 0,
-        "importe": 1018720
-      },
-      {
-        "nombre": "Direccion UMR-EM 52",
-        "zona": "LAGUNA",
-        "enviada": 18,
-        "recibida": 0,
-        "devuelta": 0,
-        "importe": 45842
-      },
-      {
-        "nombre": "Farmacia HGSZ-MF 20",
-        "zona": "LAGUNA",
-        "enviada": 400,
-        "recibida": 400,
-        "devuelta": 0,
-        "importe": 1018720
-      },
-      {
-        "nombre": "Farmacia HGSZ-MF 21",
-        "zona": "LAGUNA",
-        "enviada": 400,
-        "recibida": 0,
-        "devuelta": 0,
-        "importe": 1018720
-      },
-      {
-        "nombre": "Farmacia HGSZ-MF 6",
-        "zona": "LAGUNA",
-        "enviada": 280,
-        "recibida": 0,
-        "devuelta": 0,
-        "importe": 713104
-      },
-      {
-        "nombre": "Farmacia HGZ-MF 16",
-        "zona": "LAGUNA",
-        "enviada": 600,
-        "recibida": 600,
-        "devuelta": 0,
-        "importe": 1528080
-      },
-      {
-        "nombre": "Farmacia HGZ-MF 18",
-        "zona": "LAGUNA",
-        "enviada": 400,
-        "recibida": 400,
-        "devuelta": 0,
-        "importe": 1018720
-      },
-      {
-        "nombre": "Farmacia UMF 66",
-        "zona": "LAGUNA",
-        "enviada": 600,
-        "recibida": 600,
-        "devuelta": 0,
-        "importe": 1528080
-      },
-      {
-        "nombre": "Farmacia UMF 93",
-        "zona": "LAGUNA",
-        "enviada": 400,
-        "recibida": 400,
-        "devuelta": 0,
-        "importe": 1018720
-      },
-      {
-        "nombre": "Direccion UMF 12",
-        "zona": "NORTE",
-        "enviada": 18,
-        "recibida": 18,
-        "devuelta": 0,
-        "importe": 45842
-      },
-      {
-        "nombre": "Direccion UMF 14",
-        "zona": "NORTE",
-        "enviada": 18,
-        "recibida": 18,
-        "devuelta": 0,
-        "importe": 45842
-      },
-      {
-        "nombre": "Direccion UMF 15",
-        "zona": "NORTE",
-        "enviada": 18,
-        "recibida": 18,
-        "devuelta": 0,
-        "importe": 45842
-      },
-      {
-        "nombre": "Direccion UMF 60",
-        "zona": "NORTE",
-        "enviada": 18,
-        "recibida": 0,
-        "devuelta": 0,
-        "importe": 45842
-      },
-      {
-        "nombre": "Direccion UMF 81",
-        "zona": "NORTE",
-        "enviada": 18,
-        "recibida": 18,
-        "devuelta": 0,
-        "importe": 45842
-      },
-      {
-        "nombre": "Farmacia UMF 79",
-        "zona": "NORTE",
-        "enviada": 18,
-        "recibida": 18,
-        "devuelta": 0,
-        "importe": 45842
-      },
-      {
-        "nombre": "Direccion UMF 3",
+        "nombre": "Farmacia HRS Ramos",
         "zona": "SUR",
-        "enviada": 18,
-        "recibida": 0,
+        "enviada": 40,
+        "recibida": 40,
         "devuelta": 0,
-        "importe": 45842
-      },
-      {
-        "nombre": "Direccion UMF 4",
-        "zona": "SUR",
-        "enviada": 18,
-        "recibida": 0,
-        "devuelta": 0,
-        "importe": 45842
-      },
-      {
-        "nombre": "Direccion UMF 70",
-        "zona": "SUR",
-        "enviada": 54,
-        "recibida": 54,
-        "devuelta": 0,
-        "importe": 137527
-      },
-      {
-        "nombre": "Direccion UMF 88",
-        "zona": "SUR",
-        "enviada": 18,
-        "recibida": 0,
-        "devuelta": 0,
-        "importe": 45842
-      },
-      {
-        "nombre": "Farmacia HGZ-MF 2",
-        "zona": "SUR",
-        "enviada": 72,
-        "recibida": 0,
-        "devuelta": 0,
-        "importe": 183369
-      },
-      {
-        "nombre": "Farmacia UMAA 89",
-        "zona": "SUR",
-        "enviada": 72,
-        "recibida": 0,
-        "devuelta": 0,
-        "importe": 183369
-      },
-      {
-        "nombre": "Farmacia UMF 73",
-        "zona": "SUR",
-        "enviada": 72,
-        "recibida": 72,
-        "devuelta": 0,
-        "importe": 183369
-      },
-      {
-        "nombre": "Farmacia UMF 82",
-        "zona": "SUR",
-        "enviada": 72,
-        "recibida": 72,
-        "devuelta": 0,
-        "importe": 183369
+        "importe": 101872
       }
     ]
   },
-  "ROTAVIRUS": {
+  "TD": {
     "zonas": {
-      "NORTE": {
-        "enviada": 45,
-        "recibida": 40,
-        "devuelta": 0,
-        "importe": 283725
-      },
-      "SUR": {
-        "enviada": 215,
-        "recibida": 35,
-        "devuelta": 0,
-        "importe": 1355575
-      },
-      "LAGUNA": {
-        "enviada": 100,
-        "recibida": 75,
-        "devuelta": 0,
-        "importe": 630500
-      },
       "CENTRO": {
-        "enviada": 90,
-        "recibida": 75,
+        "enviada": 114,
+        "recibida": 12,
         "devuelta": 0,
-        "importe": 567450
+        "importe": 13110
       },
       "CARBONÍFERA": {
-        "enviada": 10,
-        "recibida": 0,
+        "enviada": 36,
+        "recibida": 24,
         "devuelta": 0,
-        "importe": 63050
+        "importe": 4140
+      },
+      "LAGUNA": {
+        "enviada": 139,
+        "recibida": 125,
+        "devuelta": 0,
+        "importe": 15985
+      },
+      "SUR": {
+        "enviada": 155,
+        "recibida": 155,
+        "devuelta": 0,
+        "importe": 17825
       }
     },
     "unidades": [
       {
-        "nombre": "U Med Familiar 62 Direccion de la Unidad Médica",
+        "nombre": "Direccion UMF 23",
         "zona": "CARBONÍFERA",
-        "enviada": 5,
-        "recibida": 0,
+        "enviada": 9,
+        "recibida": 9,
         "devuelta": 0,
-        "importe": 31525
+        "importe": 1035
       },
       {
-        "nombre": "U Med Familiar 64 Direccion de la Unidad Médica",
+        "nombre": "Direccion UMF 25",
         "zona": "CARBONÍFERA",
-        "enviada": 5,
+        "enviada": 7,
         "recibida": 0,
         "devuelta": 0,
-        "importe": 31525
+        "importe": 805
+      },
+      {
+        "nombre": "Direccion UMF 31",
+        "zona": "CARBONÍFERA",
+        "enviada": 1,
+        "recibida": 1,
+        "devuelta": 0,
+        "importe": 115
+      },
+      {
+        "nombre": "Farmacia HGSZ-MF 27",
+        "zona": "CARBONÍFERA",
+        "enviada": 4,
+        "recibida": 4,
+        "devuelta": 0,
+        "importe": 460
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 24",
+        "zona": "CARBONÍFERA",
+        "enviada": 10,
+        "recibida": 10,
+        "devuelta": 0,
+        "importe": 1150
+      },
+      {
+        "nombre": "U Med Familiar 26 Direccion de la Unidad Médica",
+        "zona": "CARBONÍFERA",
+        "enviada": 2,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 230
+      },
+      {
+        "nombre": "U Med Familiar 28 Direccion de la Unidad Médica",
+        "zona": "CARBONÍFERA",
+        "enviada": 1,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 115
+      },
+      {
+        "nombre": "U Med Familiar 29 Direccion de la Unidad Médica",
+        "zona": "CARBONÍFERA",
+        "enviada": 1,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 115
+      },
+      {
+        "nombre": "U Med Familiar 32 Direccion de la Unidad Médica",
+        "zona": "CARBONÍFERA",
+        "enviada": 1,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 115
       },
       {
         "nombre": "Direccion UMF 10",
         "zona": "CENTRO",
         "enviada": 5,
-        "recibida": 5,
+        "recibida": 0,
         "devuelta": 0,
-        "importe": 31525
+        "importe": 575
       },
       {
         "nombre": "Direccion UMF 74",
         "zona": "CENTRO",
-        "enviada": 5,
+        "enviada": 2,
         "recibida": 0,
         "devuelta": 0,
-        "importe": 31525
+        "importe": 230
       },
       {
         "nombre": "Direccion UMF 8",
         "zona": "CENTRO",
-        "enviada": 10,
-        "recibida": 10,
+        "enviada": 5,
+        "recibida": 5,
         "devuelta": 0,
-        "importe": 63050
+        "importe": 575
       },
       {
         "nombre": "Direccion UMF 84",
         "zona": "CENTRO",
-        "enviada": 10,
+        "enviada": 7,
         "recibida": 0,
         "devuelta": 0,
-        "importe": 63050
+        "importe": 805
       },
       {
         "nombre": "Direccion UMF 85",
         "zona": "CENTRO",
-        "enviada": 10,
-        "recibida": 10,
+        "enviada": 7,
+        "recibida": 7,
         "devuelta": 0,
-        "importe": 63050
+        "importe": 805
       },
       {
         "nombre": "Direccion UMF 86",
         "zona": "CENTRO",
-        "enviada": 10,
-        "recibida": 10,
+        "enviada": 7,
+        "recibida": 0,
         "devuelta": 0,
-        "importe": 63050
+        "importe": 805
       },
       {
         "nombre": "Direccion UMF 9",
         "zona": "CENTRO",
         "enviada": 10,
-        "recibida": 10,
+        "recibida": 0,
         "devuelta": 0,
-        "importe": 63050
+        "importe": 1150
       },
       {
         "nombre": "Farmacia HGZ-MF 7",
         "zona": "CENTRO",
         "enviada": 20,
-        "recibida": 20,
+        "recibida": 0,
         "devuelta": 0,
-        "importe": 126100
+        "importe": 2300
+      },
+      {
+        "nombre": "Farmacia HRS Matamoros",
+        "zona": "CENTRO",
+        "enviada": 26,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 2990
+      },
+      {
+        "nombre": "Farmacia HRS San Buenaventura",
+        "zona": "CENTRO",
+        "enviada": 23,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 2645
       },
       {
         "nombre": "U Med Familiar 50 Direccion de la Unidad Médica",
         "zona": "CENTRO",
-        "enviada": 10,
-        "recibida": 10,
+        "enviada": 2,
+        "recibida": 0,
         "devuelta": 0,
-        "importe": 63050
+        "importe": 230
       },
       {
-        "nombre": "Direccion UMF 80",
+        "nombre": "Direccion UMF 61",
         "zona": "LAGUNA",
-        "enviada": 10,
-        "recibida": 10,
+        "enviada": 2,
+        "recibida": 0,
         "devuelta": 0,
-        "importe": 63050
+        "importe": 230
       },
       {
         "nombre": "Direccion UMF 83",
         "zona": "LAGUNA",
-        "enviada": 10,
-        "recibida": 10,
+        "enviada": 15,
+        "recibida": 15,
         "devuelta": 0,
-        "importe": 63050
+        "importe": 1725
       },
       {
         "nombre": "Direccion UMR-EM 52",
         "zona": "LAGUNA",
-        "enviada": 5,
+        "enviada": 2,
         "recibida": 0,
         "devuelta": 0,
-        "importe": 31525
+        "importe": 230
       },
       {
         "nombre": "Farmacia HGSZ-MF 20",
@@ -2601,15 +2635,15 @@
         "enviada": 10,
         "recibida": 10,
         "devuelta": 0,
-        "importe": 63050
+        "importe": 1150
       },
       {
         "nombre": "Farmacia HGSZ-MF 21",
         "zona": "LAGUNA",
         "enviada": 10,
-        "recibida": 0,
+        "recibida": 10,
         "devuelta": 0,
-        "importe": 63050
+        "importe": 1150
       },
       {
         "nombre": "Farmacia HGSZ-MF 6",
@@ -2617,15 +2651,15 @@
         "enviada": 10,
         "recibida": 0,
         "devuelta": 0,
-        "importe": 63050
+        "importe": 1150
       },
       {
         "nombre": "Farmacia HGZ-MF 16",
         "zona": "LAGUNA",
-        "enviada": 15,
-        "recibida": 15,
+        "enviada": 30,
+        "recibida": 30,
         "devuelta": 0,
-        "importe": 94575
+        "importe": 3450
       },
       {
         "nombre": "Farmacia HGZ-MF 18",
@@ -2633,577 +2667,269 @@
         "enviada": 10,
         "recibida": 10,
         "devuelta": 0,
-        "importe": 63050
+        "importe": 1150
       },
       {
         "nombre": "Farmacia UMF 66",
         "zona": "LAGUNA",
-        "enviada": 10,
-        "recibida": 10,
+        "enviada": 30,
+        "recibida": 30,
         "devuelta": 0,
-        "importe": 63050
+        "importe": 3450
       },
       {
         "nombre": "Farmacia UMF 93",
         "zona": "LAGUNA",
-        "enviada": 10,
-        "recibida": 10,
+        "enviada": 20,
+        "recibida": 20,
         "devuelta": 0,
-        "importe": 63050
-      },
-      {
-        "nombre": "Direccion UMF 12",
-        "zona": "NORTE",
-        "enviada": 5,
-        "recibida": 5,
-        "devuelta": 0,
-        "importe": 31525
-      },
-      {
-        "nombre": "Direccion UMF 14",
-        "zona": "NORTE",
-        "enviada": 5,
-        "recibida": 5,
-        "devuelta": 0,
-        "importe": 31525
-      },
-      {
-        "nombre": "Direccion UMF 15",
-        "zona": "NORTE",
-        "enviada": 5,
-        "recibida": 5,
-        "devuelta": 0,
-        "importe": 31525
-      },
-      {
-        "nombre": "Direccion UMF 60",
-        "zona": "NORTE",
-        "enviada": 5,
-        "recibida": 0,
-        "devuelta": 0,
-        "importe": 31525
-      },
-      {
-        "nombre": "Direccion UMF 81",
-        "zona": "NORTE",
-        "enviada": 10,
-        "recibida": 10,
-        "devuelta": 0,
-        "importe": 63050
-      },
-      {
-        "nombre": "Farmacia UMF 79",
-        "zona": "NORTE",
-        "enviada": 15,
-        "recibida": 15,
-        "devuelta": 0,
-        "importe": 94575
+        "importe": 2300
       },
       {
         "nombre": "Direccion UMF 3",
         "zona": "SUR",
-        "enviada": 10,
-        "recibida": 0,
+        "enviada": 20,
+        "recibida": 20,
         "devuelta": 0,
-        "importe": 63050
-      },
-      {
-        "nombre": "Direccion UMF 4",
-        "zona": "SUR",
-        "enviada": 5,
-        "recibida": 0,
-        "devuelta": 0,
-        "importe": 31525
+        "importe": 2300
       },
       {
         "nombre": "Direccion UMF 70",
         "zona": "SUR",
-        "enviada": 15,
-        "recibida": 15,
+        "enviada": 30,
+        "recibida": 30,
         "devuelta": 0,
-        "importe": 94575
+        "importe": 3450
       },
       {
         "nombre": "Direccion UMF 88",
         "zona": "SUR",
-        "enviada": 15,
-        "recibida": 0,
-        "devuelta": 0,
-        "importe": 94575
-      },
-      {
-        "nombre": "Farmacia HGZ-MF 2",
-        "zona": "SUR",
-        "enviada": 25,
-        "recibida": 0,
-        "devuelta": 0,
-        "importe": 157625
-      },
-      {
-        "nombre": "Farmacia UMAA 89",
-        "zona": "SUR",
-        "enviada": 125,
-        "recibida": 0,
-        "devuelta": 0,
-        "importe": 788125
-      },
-      {
-        "nombre": "Farmacia UMF 82",
-        "zona": "SUR",
         "enviada": 20,
         "recibida": 20,
         "devuelta": 0,
-        "importe": 126100
+        "importe": 2300
+      },
+      {
+        "nombre": "Farmacia HRS Ramos",
+        "zona": "SUR",
+        "enviada": 60,
+        "recibida": 60,
+        "devuelta": 0,
+        "importe": 6900
+      },
+      {
+        "nombre": "Farmacia UMF 91",
+        "zona": "SUR",
+        "enviada": 25,
+        "recibida": 25,
+        "devuelta": 0,
+        "importe": 2875
       }
     ]
   },
   "TDPA": {
     "zonas": {
-      "LAGUNA": {
-        "enviada": 417,
-        "recibida": 365,
+      "CARBONÍFERA": {
+        "enviada": 950,
+        "recibida": 700,
         "devuelta": 0,
-        "importe": 50277
+        "importe": 114541
+      },
+      "LAGUNA": {
+        "enviada": 7700,
+        "recibida": 7400,
+        "devuelta": 0,
+        "importe": 928389
       },
       "SUR": {
-        "enviada": 155,
-        "recibida": 85,
+        "enviada": 1690,
+        "recibida": 1690,
         "devuelta": 0,
-        "importe": 18688
-      },
-      "NORTE": {
-        "enviada": 117,
-        "recibida": 100,
-        "devuelta": 0,
-        "importe": 14106
-      },
-      "CARBONÍFERA": {
-        "enviada": 9,
-        "recibida": 0,
-        "devuelta": 0,
-        "importe": 1085
+        "importe": 203763
       },
       "CENTRO": {
-        "enviada": 137,
-        "recibida": 123,
+        "enviada": 1850,
+        "recibida": 400,
         "devuelta": 0,
-        "importe": 16518
+        "importe": 223054
       }
     },
     "unidades": [
       {
-        "nombre": "U Med Familiar 62 Direccion de la Unidad Médica",
+        "nombre": "Direccion UMF 23",
         "zona": "CARBONÍFERA",
-        "enviada": 5,
-        "recibida": 0,
+        "enviada": 200,
+        "recibida": 200,
         "devuelta": 0,
-        "importe": 602
+        "importe": 24114
       },
       {
-        "nombre": "U Med Familiar 64 Direccion de la Unidad Médica",
+        "nombre": "Direccion UMF 25",
         "zona": "CARBONÍFERA",
-        "enviada": 4,
+        "enviada": 50,
         "recibida": 0,
         "devuelta": 0,
-        "importe": 482
+        "importe": 6028
+      },
+      {
+        "nombre": "Direccion UMF 31",
+        "zona": "CARBONÍFERA",
+        "enviada": 50,
+        "recibida": 50,
+        "devuelta": 0,
+        "importe": 6028
+      },
+      {
+        "nombre": "Farmacia HGSZ-MF 27",
+        "zona": "CARBONÍFERA",
+        "enviada": 250,
+        "recibida": 250,
+        "devuelta": 0,
+        "importe": 30142
+      },
+      {
+        "nombre": "Farmacia HGZ-MF 24",
+        "zona": "CARBONÍFERA",
+        "enviada": 200,
+        "recibida": 200,
+        "devuelta": 0,
+        "importe": 24114
+      },
+      {
+        "nombre": "U Med Familiar 26 Direccion de la Unidad Médica",
+        "zona": "CARBONÍFERA",
+        "enviada": 50,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 6028
+      },
+      {
+        "nombre": "U Med Familiar 28 Direccion de la Unidad Médica",
+        "zona": "CARBONÍFERA",
+        "enviada": 50,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 6028
+      },
+      {
+        "nombre": "U Med Familiar 29 Direccion de la Unidad Médica",
+        "zona": "CARBONÍFERA",
+        "enviada": 50,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 6028
+      },
+      {
+        "nombre": "U Med Familiar 32 Direccion de la Unidad Médica",
+        "zona": "CARBONÍFERA",
+        "enviada": 50,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 6028
       },
       {
         "nombre": "Direccion UMF 10",
         "zona": "CENTRO",
-        "enviada": 7,
-        "recibida": 7,
+        "enviada": 50,
+        "recibida": 0,
         "devuelta": 0,
-        "importe": 843
+        "importe": 6028
       },
       {
         "nombre": "Direccion UMF 74",
         "zona": "CENTRO",
-        "enviada": 3,
+        "enviada": 50,
         "recibida": 0,
         "devuelta": 0,
-        "importe": 361
+        "importe": 6028
       },
       {
         "nombre": "Direccion UMF 8",
         "zona": "CENTRO",
-        "enviada": 21,
-        "recibida": 21,
+        "enviada": 250,
+        "recibida": 250,
         "devuelta": 0,
-        "importe": 2531
+        "importe": 30142
       },
       {
         "nombre": "Direccion UMF 84",
         "zona": "CENTRO",
-        "enviada": 11,
+        "enviada": 150,
         "recibida": 0,
         "devuelta": 0,
-        "importe": 1326
+        "importe": 18085
       },
       {
         "nombre": "Direccion UMF 85",
         "zona": "CENTRO",
-        "enviada": 8,
-        "recibida": 8,
+        "enviada": 150,
+        "recibida": 150,
         "devuelta": 0,
-        "importe": 964
+        "importe": 18085
       },
       {
         "nombre": "Direccion UMF 86",
         "zona": "CENTRO",
-        "enviada": 14,
-        "recibida": 14,
+        "enviada": 150,
+        "recibida": 0,
         "devuelta": 0,
-        "importe": 1687
+        "importe": 18085
       },
       {
         "nombre": "Direccion UMF 9",
         "zona": "CENTRO",
-        "enviada": 35,
-        "recibida": 35,
-        "devuelta": 0,
-        "importe": 4219
-      },
-      {
-        "nombre": "Farmacia HGZ-MF 7",
-        "zona": "CENTRO",
-        "enviada": 35,
-        "recibida": 35,
-        "devuelta": 0,
-        "importe": 4219
-      },
-      {
-        "nombre": "U Med Familiar 50 Direccion de la Unidad Médica",
-        "zona": "CENTRO",
-        "enviada": 3,
-        "recibida": 3,
-        "devuelta": 0,
-        "importe": 361
-      },
-      {
-        "nombre": "Direccion UMF 80",
-        "zona": "LAGUNA",
-        "enviada": 35,
-        "recibida": 35,
-        "devuelta": 0,
-        "importe": 4219
-      },
-      {
-        "nombre": "Direccion UMF 83",
-        "zona": "LAGUNA",
-        "enviada": 35,
-        "recibida": 35,
-        "devuelta": 0,
-        "importe": 4219
-      },
-      {
-        "nombre": "Direccion UMR-EM 52",
-        "zona": "LAGUNA",
-        "enviada": 3,
-        "recibida": 0,
-        "devuelta": 0,
-        "importe": 361
-      },
-      {
-        "nombre": "Farmacia HGSZ-MF 20",
-        "zona": "LAGUNA",
-        "enviada": 28,
-        "recibida": 28,
-        "devuelta": 0,
-        "importe": 3375
-      },
-      {
-        "nombre": "Farmacia HGSZ-MF 21",
-        "zona": "LAGUNA",
-        "enviada": 28,
-        "recibida": 0,
-        "devuelta": 0,
-        "importe": 3375
-      },
-      {
-        "nombre": "Farmacia HGSZ-MF 6",
-        "zona": "LAGUNA",
-        "enviada": 21,
-        "recibida": 0,
-        "devuelta": 0,
-        "importe": 2531
-      },
-      {
-        "nombre": "Farmacia HGZ-MF 16",
-        "zona": "LAGUNA",
-        "enviada": 100,
-        "recibida": 100,
-        "devuelta": 0,
-        "importe": 12057
-      },
-      {
-        "nombre": "Farmacia HGZ-MF 18",
-        "zona": "LAGUNA",
-        "enviada": 28,
-        "recibida": 28,
-        "devuelta": 0,
-        "importe": 3375
-      },
-      {
-        "nombre": "Farmacia UMF 66",
-        "zona": "LAGUNA",
-        "enviada": 100,
-        "recibida": 100,
-        "devuelta": 0,
-        "importe": 12057
-      },
-      {
-        "nombre": "Farmacia UMF 93",
-        "zona": "LAGUNA",
-        "enviada": 39,
-        "recibida": 39,
-        "devuelta": 0,
-        "importe": 4702
-      },
-      {
-        "nombre": "Direccion UMF 12",
-        "zona": "NORTE",
-        "enviada": 10,
-        "recibida": 10,
-        "devuelta": 0,
-        "importe": 1205
-      },
-      {
-        "nombre": "Direccion UMF 14",
-        "zona": "NORTE",
-        "enviada": 13,
-        "recibida": 13,
-        "devuelta": 0,
-        "importe": 1567
-      },
-      {
-        "nombre": "Direccion UMF 15",
-        "zona": "NORTE",
-        "enviada": 3,
-        "recibida": 3,
-        "devuelta": 0,
-        "importe": 361
-      },
-      {
-        "nombre": "Direccion UMF 60",
-        "zona": "NORTE",
-        "enviada": 17,
-        "recibida": 0,
-        "devuelta": 0,
-        "importe": 2049
-      },
-      {
-        "nombre": "Direccion UMF 81",
-        "zona": "NORTE",
-        "enviada": 10,
-        "recibida": 10,
-        "devuelta": 0,
-        "importe": 1205
-      },
-      {
-        "nombre": "Farmacia HGSZ-MF 13",
-        "zona": "NORTE",
-        "enviada": 7,
-        "recibida": 7,
-        "devuelta": 0,
-        "importe": 843
-      },
-      {
-        "nombre": "Farmacia HGZ 11",
-        "zona": "NORTE",
-        "enviada": 7,
-        "recibida": 7,
-        "devuelta": 0,
-        "importe": 843
-      },
-      {
-        "nombre": "Farmacia UMF 79",
-        "zona": "NORTE",
-        "enviada": 50,
-        "recibida": 50,
-        "devuelta": 0,
-        "importe": 6028
-      },
-      {
-        "nombre": "Direccion UMF 3",
-        "zona": "SUR",
-        "enviada": 28,
-        "recibida": 0,
-        "devuelta": 0,
-        "importe": 3375
-      },
-      {
-        "nombre": "Direccion UMF 4",
-        "zona": "SUR",
-        "enviada": 2,
-        "recibida": 0,
-        "devuelta": 0,
-        "importe": 241
-      },
-      {
-        "nombre": "Direccion UMF 70",
-        "zona": "SUR",
-        "enviada": 15,
-        "recibida": 15,
-        "devuelta": 0,
-        "importe": 1808
-      },
-      {
-        "nombre": "Direccion UMF 88",
-        "zona": "SUR",
-        "enviada": 10,
-        "recibida": 0,
-        "devuelta": 0,
-        "importe": 1205
-      },
-      {
-        "nombre": "Farmacia HGZ-MF 2",
-        "zona": "SUR",
-        "enviada": 15,
-        "recibida": 0,
-        "devuelta": 0,
-        "importe": 1808
-      },
-      {
-        "nombre": "Farmacia UMAA 89",
-        "zona": "SUR",
-        "enviada": 15,
-        "recibida": 0,
-        "devuelta": 0,
-        "importe": 1808
-      },
-      {
-        "nombre": "Farmacia UMF 73",
-        "zona": "SUR",
-        "enviada": 20,
-        "recibida": 20,
-        "devuelta": 0,
-        "importe": 2411
-      },
-      {
-        "nombre": "Farmacia UMF 82",
-        "zona": "SUR",
-        "enviada": 50,
-        "recibida": 50,
-        "devuelta": 0,
-        "importe": 6028
-      }
-    ]
-  },
-  "TRIPLE VIRAL (S...)": {
-    "zonas": {
-      "SUR": {
-        "enviada": 2200,
-        "recibida": 900,
-        "devuelta": 0,
-        "importe": 269896
-      },
-      "LAGUNA": {
-        "enviada": 20950,
-        "recibida": 18900,
-        "devuelta": 0,
-        "importe": 2570146
-      },
-      "CENTRO": {
-        "enviada": 1900,
-        "recibida": 1650,
-        "devuelta": 0,
-        "importe": 233092
-      },
-      "CARBONÍFERA": {
-        "enviada": 50,
-        "recibida": 0,
-        "devuelta": 0,
-        "importe": 6134
-      }
-    },
-    "unidades": [
-      {
-        "nombre": "U Med Familiar 62 Direccion de la Unidad Médica",
-        "zona": "CARBONÍFERA",
-        "enviada": 50,
-        "recibida": 0,
-        "devuelta": 0,
-        "importe": 6134
-      },
-      {
-        "nombre": "Direccion UMF 10",
-        "zona": "CENTRO",
-        "enviada": 100,
-        "recibida": 100,
-        "devuelta": 0,
-        "importe": 12268
-      },
-      {
-        "nombre": "Direccion UMF 74",
-        "zona": "CENTRO",
-        "enviada": 50,
-        "recibida": 0,
-        "devuelta": 0,
-        "importe": 6134
-      },
-      {
-        "nombre": "Direccion UMF 8",
-        "zona": "CENTRO",
-        "enviada": 100,
-        "recibida": 100,
-        "devuelta": 0,
-        "importe": 12268
-      },
-      {
-        "nombre": "Direccion UMF 84",
-        "zona": "CENTRO",
-        "enviada": 200,
-        "recibida": 0,
-        "devuelta": 0,
-        "importe": 24536
-      },
-      {
-        "nombre": "Direccion UMF 85",
-        "zona": "CENTRO",
-        "enviada": 200,
-        "recibida": 200,
-        "devuelta": 0,
-        "importe": 24536
-      },
-      {
-        "nombre": "Direccion UMF 86",
-        "zona": "CENTRO",
         "enviada": 300,
-        "recibida": 300,
+        "recibida": 0,
         "devuelta": 0,
-        "importe": 36804
+        "importe": 36171
       },
       {
         "nombre": "Farmacia HGZ-MF 7",
         "zona": "CENTRO",
-        "enviada": 900,
-        "recibida": 900,
+        "enviada": 400,
+        "recibida": 0,
         "devuelta": 0,
-        "importe": 110412
+        "importe": 48228
+      },
+      {
+        "nombre": "Farmacia HRS Matamoros",
+        "zona": "CENTRO",
+        "enviada": 160,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 19291
+      },
+      {
+        "nombre": "Farmacia HRS San Buenaventura",
+        "zona": "CENTRO",
+        "enviada": 140,
+        "recibida": 0,
+        "devuelta": 0,
+        "importe": 16879
       },
       {
         "nombre": "U Med Familiar 50 Direccion de la Unidad Médica",
         "zona": "CENTRO",
         "enviada": 50,
-        "recibida": 50,
+        "recibida": 0,
         "devuelta": 0,
-        "importe": 6134
+        "importe": 6028
       },
       {
-        "nombre": "Direccion UMF 80",
+        "nombre": "Direccion UMF 61",
         "zona": "LAGUNA",
-        "enviada": 1100,
-        "recibida": 1100,
+        "enviada": 50,
+        "recibida": 0,
         "devuelta": 0,
-        "importe": 134948
+        "importe": 6028
       },
       {
         "nombre": "Direccion UMF 83",
         "zona": "LAGUNA",
-        "enviada": 1500,
-        "recibida": 1500,
+        "enviada": 500,
+        "recibida": 500,
         "devuelta": 0,
-        "importe": 184020
+        "importe": 60285
       },
       {
         "nombre": "Direccion UMR-EM 52",
@@ -3211,195 +2937,103 @@
         "enviada": 50,
         "recibida": 0,
         "devuelta": 0,
-        "importe": 6134
+        "importe": 6028
       },
       {
         "nombre": "Farmacia HGSZ-MF 20",
         "zona": "LAGUNA",
-        "enviada": 1200,
-        "recibida": 1200,
+        "enviada": 250,
+        "recibida": 250,
         "devuelta": 0,
-        "importe": 147216
+        "importe": 30142
       },
       {
         "nombre": "Farmacia HGSZ-MF 21",
         "zona": "LAGUNA",
-        "enviada": 1000,
-        "recibida": 0,
+        "enviada": 250,
+        "recibida": 250,
         "devuelta": 0,
-        "importe": 122680
+        "importe": 30142
       },
       {
         "nombre": "Farmacia HGSZ-MF 6",
         "zona": "LAGUNA",
-        "enviada": 1000,
+        "enviada": 200,
         "recibida": 0,
         "devuelta": 0,
-        "importe": 122680
+        "importe": 24114
       },
       {
         "nombre": "Farmacia HGZ-MF 16",
         "zona": "LAGUNA",
-        "enviada": 4600,
-        "recibida": 4600,
+        "enviada": 5150,
+        "recibida": 5150,
         "devuelta": 0,
-        "importe": 564328
+        "importe": 620935
       },
       {
         "nombre": "Farmacia HGZ-MF 18",
         "zona": "LAGUNA",
-        "enviada": 3500,
-        "recibida": 3500,
+        "enviada": 250,
+        "recibida": 250,
         "devuelta": 0,
-        "importe": 429380
+        "importe": 30142
       },
       {
         "nombre": "Farmacia UMF 66",
         "zona": "LAGUNA",
-        "enviada": 5000,
-        "recibida": 5000,
+        "enviada": 500,
+        "recibida": 500,
         "devuelta": 0,
-        "importe": 613400
+        "importe": 60285
       },
       {
         "nombre": "Farmacia UMF 93",
         "zona": "LAGUNA",
-        "enviada": 2000,
-        "recibida": 2000,
+        "enviada": 500,
+        "recibida": 500,
         "devuelta": 0,
-        "importe": 245360
+        "importe": 60285
       },
       {
         "nombre": "Direccion UMF 3",
         "zona": "SUR",
-        "enviada": 50,
-        "recibida": 0,
+        "enviada": 100,
+        "recibida": 100,
         "devuelta": 0,
-        "importe": 6134
-      },
-      {
-        "nombre": "Direccion UMF 4",
-        "zona": "SUR",
-        "enviada": 50,
-        "recibida": 0,
-        "devuelta": 0,
-        "importe": 6134
+        "importe": 12057
       },
       {
         "nombre": "Direccion UMF 70",
         "zona": "SUR",
-        "enviada": 300,
-        "recibida": 300,
+        "enviada": 400,
+        "recibida": 400,
         "devuelta": 0,
-        "importe": 36804
+        "importe": 48228
       },
       {
         "nombre": "Direccion UMF 88",
         "zona": "SUR",
-        "enviada": 300,
-        "recibida": 0,
+        "enviada": 290,
+        "recibida": 290,
         "devuelta": 0,
-        "importe": 36804
+        "importe": 34965
       },
       {
-        "nombre": "Farmacia HGZ-MF 2",
+        "nombre": "Farmacia HRS Ramos",
         "zona": "SUR",
-        "enviada": 600,
-        "recibida": 0,
+        "enviada": 400,
+        "recibida": 400,
         "devuelta": 0,
-        "importe": 73608
+        "importe": 48228
       },
       {
-        "nombre": "Farmacia UMAA 89",
+        "nombre": "Farmacia UMF 91",
         "zona": "SUR",
-        "enviada": 300,
-        "recibida": 0,
+        "enviada": 500,
+        "recibida": 500,
         "devuelta": 0,
-        "importe": 36804
-      },
-      {
-        "nombre": "Farmacia UMF 73",
-        "zona": "SUR",
-        "enviada": 300,
-        "recibida": 300,
-        "devuelta": 0,
-        "importe": 36804
-      },
-      {
-        "nombre": "Farmacia UMF 82",
-        "zona": "SUR",
-        "enviada": 300,
-        "recibida": 300,
-        "devuelta": 0,
-        "importe": 36804
-      }
-    ]
-  },
-  "VACUNA ANTIR...": {
-    "zonas": {
-      "SUR": {
-        "enviada": 12,
-        "recibida": 5,
-        "devuelta": 0,
-        "importe": 3202
-      }
-    },
-    "unidades": [
-      {
-        "nombre": "Direccion UMF 3",
-        "zona": "SUR",
-        "enviada": 2,
-        "recibida": 0,
-        "devuelta": 0,
-        "importe": 533
-      },
-      {
-        "nombre": "Direccion UMF 70",
-        "zona": "SUR",
-        "enviada": 1,
-        "recibida": 1,
-        "devuelta": 0,
-        "importe": 266
-      },
-      {
-        "nombre": "Direccion UMF 88",
-        "zona": "SUR",
-        "enviada": 1,
-        "recibida": 0,
-        "devuelta": 0,
-        "importe": 266
-      },
-      {
-        "nombre": "Farmacia HGZ-MF 2",
-        "zona": "SUR",
-        "enviada": 2,
-        "recibida": 0,
-        "devuelta": 0,
-        "importe": 533
-      },
-      {
-        "nombre": "Farmacia UMAA 89",
-        "zona": "SUR",
-        "enviada": 2,
-        "recibida": 0,
-        "devuelta": 0,
-        "importe": 533
-      },
-      {
-        "nombre": "Farmacia UMF 73",
-        "zona": "SUR",
-        "enviada": 2,
-        "recibida": 2,
-        "devuelta": 0,
-        "importe": 533
-      },
-      {
-        "nombre": "Farmacia UMF 82",
-        "zona": "SUR",
-        "enviada": 2,
-        "recibida": 2,
-        "devuelta": 0,
-        "importe": 533
+        "importe": 60285
       }
     ]
   }
